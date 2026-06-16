@@ -86,12 +86,12 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
 #EXTINF:-1 group-title="Calcio",CH 16  (ITA - M3U8)
-https://lovely.lovetier.bz/ZonaDAZN/tracks-v1a1/mono.m3u8?token=Wm9uYURBWk58bm9fY2hlY2tfaXB8MTc4MTU2ODk1Mw==.93b4f1bd0319a6225eebb3530a2b590e20169b03503b513a1f8c674aac224112
+https://lovely.lovetier.bz/ZonaDAZN/tracks-v1a1/mono.m3u8?token=Wm9uYURBWk58bm9fY2hlY2tfaXB8MTc4MTU2OTIyMA==.1a1e8dda05d47b775bbe7302ef04ef9af1b5738bd1b1d271740315b302dc4558
 #EXTINF:-1 group-title="Calcio",CH 17  (ITA - M3U8)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/229/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Calcio",CH 19  (ITA - M3U8)
-https://lovely.lovetier.bz/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzgxNTY4OTU0.f76e06a9c856e7c08ab2f13980e7c972684e3a4dd546062b3af5a4cc84a7873c
+https://lovely.lovetier.bz/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzgxNTY5MjIw.66bbb83dfd4df998bd20d9d2a0f7e6c8318f93c4b94acc45882dc08a6022408b
 #EXTINF:-1 group-title="Calcio",CH 20  (ITA - M3U8)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/232/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -177,11 +177,11 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 group-title="Calcio",SKY SPORT ACTION (UK - M3U8)
-https://lovely.lovetier.bz/skysportsaction/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzYWN0aW9ufG5vX2NoZWNrX2lwfDE3ODE1Njg5NTI=.ebd4150a638e658497c5f0ce9a447db4c2c1a106cd075ae59dcdfe0fd3ac7a81
+https://lovely.lovetier.bz/skysportsaction/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzYWN0aW9ufG5vX2NoZWNrX2lwfDE3ODE1NjkyMTk=.2daae57d182609c1525a7c1c01278ddb45a165c5296d248c27e30d44a4c6b0b4
 #EXTINF:-1 group-title="Calcio",SKY SPORT MAIN EVENT (UK - M3U8)
-https://lovely.lovetier.bz/skysportsmainevent/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3ODE1Njg5NTM=.3668a77ebae58563d900a15f42e04c98e79e3c920a5b501fd37e0e5c55b9fc84
+https://lovely.lovetier.bz/skysportsmainevent/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3ODE1NjkyMTk=.98ab7644ffb246a6d736508e02634eb994b2a6177b60328dba04cdd22ae64d6f
 #EXTINF:-1 group-title="Calcio",Sky Sport Tennis (ITA - M3U8)
-https://lovely.lovetier.bz/SkySportTennisIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRUZW5uaXNJVHxub19jaGVja19pcHwxNzgxNTY4OTU0.32f34c284806358c6ce2fe830ce801c77ab3b851ce61d46fbb0f34c9d104b8ce
+https://lovely.lovetier.bz/SkySportTennisIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRUZW5uaXNJVHxub19jaGVja19pcHwxNzgxNTY5MjIx.572c61d8f3ce797dbfe3656aff99ce2ac326c3c98aebd9111ce4e159c488d624
 #EXTINF:-1 group-title="Calcio",SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Calcio",SuperTennis 1 (ITA - MPD)
