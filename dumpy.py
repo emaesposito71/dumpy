@@ -325,13 +325,21 @@ def resolve_freeshot(code):
 def parse_items(data):
     """Extract flat list of items from JSON response."""
     items = []
+    if not isinstance(data, dict):
+        return items
     for key in ("items", "channels"):
-        for entry in data.get(key, []):
+        entries = data.get(key, [])
+        if not isinstance(entries, list):
+            continue
+        for entry in entries:
             if isinstance(entry, dict):
                 items.append(entry)
                 # Also check nested items
                 for subkey in ("items", "channels"):
-                    for sub in entry.get(subkey, []):
+                    subs = entry.get(subkey, [])
+                    if not isinstance(subs, list):
+                        continue
+                    for sub in subs:
                         if isinstance(sub, dict):
                             items.append(sub)
     return items
