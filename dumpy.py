@@ -3,20 +3,6 @@
 Turbo v2 — Multi-playlist M3U generator
 Genera playlist separate per categoria (italia, sport, eventi)
 Supporta flussi MPD/DASH e M3U8/HLS
-
-Resolver supportati:
-  - amstaff@@    → MPD + ClearKey (DAZN, NowTV)
-  - sky@@        → MPD + ClearKey (Sky Italia)
-  - skyTV@@      → MPD (Sky API)
-  - risolvi@@    → URL diretto (MPD o M3U8)
-  - cdnLive@@    → URL diretto
-  - daddyCode@@  → M3U8 (DaddyLive scraping)
-  - mediahosting@@ → M3U8 (URL template)
-  - freeshot@@   → M3U8 (token fetch)
-  - Link diretti .mpd / .m3u8
-
-Uso:
-  python3 turbo2.py
 """
 
 import json
