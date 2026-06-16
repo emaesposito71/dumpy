@@ -20,7 +20,7 @@ jobs:
 
       - run: pip install requests
 
-      - run: python turbo2.py
+      - run: python dumpy.py
         env:
           CONFIG: ${{ secrets.CONFIG }}
 
