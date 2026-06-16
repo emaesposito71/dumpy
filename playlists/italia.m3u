@@ -1,0 +1,1866 @@
+#EXTM3U url-tvg="epg.xml"
+#EXTINF:-1 group-title="DTT Italia",248TV
+https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",2Settanta TV
+http://185.91.68.35:1935/live/cdn5/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",AP Channel
+https://64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Arte Italia 124
+https://liveac915ha.streamcloud.it/channel02/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Arte Italia 125
+https://liveac915ha.streamcloud.it/channel03/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",ArteIN
+https://5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",ArteOraTV
+https://stream10.xdevel.com/video0s978273-2568/stream/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Automoto
+https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Canale 122
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Canale 137
+https://uvotv.zappr.stream/332.m3u8
+#EXTINF:-1 group-title="DTT Italia",Canale 144
+https://uvotv.zappr.stream/335.m3u8
+#EXTINF:-1 group-title="DTT Italia",Canale 162
+https://uvotv.zappr.stream/550.m3u8
+#EXTINF:-1 group-title="DTT Italia",Canale 63
+https://uvotv.zappr.stream/257.m3u8
+#EXTINF:-1 group-title="DTT Italia",Canale Italia
+https://liveac915ha.streamcloud.it/channel11/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Casa Italia 53
+https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Class CNBC
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+#EXTINF:-1 group-title="DTT Italia",Class TV Moda
+https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
+#EXTINF:-1 group-title="DTT Italia",Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Donna TV
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Dr. Palmas TV
+https://streamer2.premio.link/dr_palmastv/index.m3u8
+#EXTINF:-1 group-title="DTT Italia",EQUtv
+https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
+#EXTINF:-1 group-title="DTT Italia",Enjoy TV Italia
+https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Fascino TV 147
+https://64b16f23efbee.streamlock.net/canale147/canale147/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Fascino TV 157
+https://64b16f23efbee.streamlock.net/canale157/canale157/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Fascino TV 165
+https://64b16f23efbee.streamlock.net/canale165/canale165/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Fascino TV 168
+https://64b16f23efbee.streamlock.net/canale168/canale168/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Fascino TV 169
+https://64b16f23efbee.streamlock.net/canale169/canale169/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="DTT Italia",Frisbee
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0100c4e62e71f8234dd351c39719f289:54e36b8081149f82fede8a073bb849ea
+https://api.zappr.stream/frisbee.mpd
+#EXTINF:-1 group-title="DTT Italia",Gambero Rosso
+https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
+#EXTINF:-1 group-title="DTT Italia",Genius 240
+https://uvotv.zappr.stream/149.m3u8
+#EXTINF:-1 group-title="DTT Italia",Gold Invest
+https://uvotv.zappr.stream/323.m3u8
+#EXTINF:-1 group-title="DTT Italia",Gold TV Italia
+https://uvotv.zappr.stream/317.m3u8
+#EXTINF:-1 group-title="DTT Italia",Il Sole 24 Ore TV
+https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Imprese
+https://streamer2.premio.link/imprese/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",InBlu2000
+https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia 121
+https://liveac915ha.streamcloud.it/channel01/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia 126
+https://liveac915ha.streamcloud.it/channel04/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia 127
+https://liveac915ha.streamcloud.it/channel05/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia 134
+https://liveac915ha.streamcloud.it/channel06/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia 135
+https://liveac915ha.streamcloud.it/channel07/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia 136
+https://liveac915ha.streamcloud.it/channel08/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia Channel
+https://uvotv.zappr.stream/71.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italia Sera TV
+https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Italian Fishing TV
+https://fms.premio.link/fishingtv/index.m3u8
+#EXTINF:-1 group-title="DTT Italia",K2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0100f3b37d2a3ad2542d78d000ff91fa:507ead932fe25e6f1e3ba0fc39fc7040
+https://api.zappr.stream/k2.mpd
+#EXTINF:-1 group-title="DTT Italia",Kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",LA7
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
+#EXTINF:-1 group-title="DTT Italia",LA7 Cinema
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+#EXTINF:-1 group-title="DTT Italia",La Leonessa
+https://cdn12.streamshow.it/hbbtv-supertv/supertv/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",La4 Italia
+https://uvotv.zappr.stream/320.m3u8
+#EXTINF:-1 group-title="DTT Italia",Lineagem
+https://uvotv.zappr.stream/164.m3u8
+#EXTINF:-1 group-title="DTT Italia",Malpensa24 TV
+https://streamer3.premio.link/malpensa-tv/index.m3u8
+#EXTINF:-1 group-title="DTT Italia",Man-ga
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
+#EXTINF:-1 group-title="DTT Italia",Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Nexum Channel
+https://64b16f23efbee.streamlock.net/nexumchannel/nexumchannel/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",NoKepTV
+https://streamer2.premio.link/nokep_hd/index.m3u8
+#EXTINF:-1 group-title="DTT Italia",Odeon 24
+https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",OnAir Italia
+https://5f22d76e220e1.streamlock.net/nauticachannel/nauticachannel/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Parole di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 group-title="DTT Italia",RDS
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5 Napulè
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma2.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Margherita Più
+https://648026e87a75e.streamlock.net/radiomargherita/radiomargherita/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Radio TV
+https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/index.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Roma Network
+https://www.dailymotion.com/cdn/live/video/x98v4v8.m3u8?sec=kmpTBsX8LlC4t_EOK2rdhHmIDrT5f-SbP023JGqRSBQBeAZMqQVFIDsvB0omzVDr
+#EXTINF:-1 group-title="DTT Italia",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radio m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
+#EXTINF:-1 group-title="DTT Italia",Rete Italia
+https://uvotv.zappr.stream/326.m3u8
+#EXTINF:-1 group-title="DTT Italia",Satisfaction TV
+https://stream10.xdevel.com/video22s975955-2186/stream/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Sportitalia
+https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",StarMarket
+https://uvotv.zappr.stream/338.m3u8
+#EXTINF:-1 group-title="DTT Italia",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
+#EXTINF:-1 group-title="DTT Italia",SuperSix
+https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",TV2000
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Telecampione
+https://64b16f23efbee.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Tesory Channel
+https://uvotv.zappr.stream/140.m3u8
+#EXTINF:-1 group-title="DTT Italia",Urania
+https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",Welcome In
+https://fms.premio.link/welcomein/playlist.m3u8
+#EXTINF:-1 group-title="DTT Italia",il61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+#EXTINF:-1 group-title="ITA Estero",DMax
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 group-title="ITA Estero",Discovery
+https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/f9506ac3-80c6-41de-858c-a27a877155d8/3.m3u8
+#EXTINF:-1 group-title="ITA Estero",GF Regia 1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="ITA Estero",GF Regia 2
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="ITA Estero",GF Un'ora fa
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="ITA Estero",Gambero Rosso
+https://StreamCdnG20-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+#EXTINF:-1 group-title="ITA Estero",La7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 group-title="ITA Estero",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 group-title="ITA Estero",MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://idx1.karmakurama.com/firstlokal1/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+#EXTINF:-1 group-title="ITA Estero",Mediaset 20
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
+https://live03p-col.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="ITA Estero",Nove
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 group-title="ITA Estero",RSI LA1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 group-title="ITA Estero",RSI LA2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai 1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai 4K
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it/
+https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai Gulp
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai Italia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+https://idx1.karmakurama.com/firstlokal2/live/eds/RaiItalia/mpd/RaiItalia.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai News
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai Scuola
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="ITA Estero",Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:-1 group-title="Italy Sports",30A Golf Kingdom (720p)
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="Italy Sports",:Šport (1080p)
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",ACC Digital Network
+https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="Italy Sports",ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 group-title="Italy Sports",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alfa Sport (1080p)
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="Italy Sports",Alkass Five (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass Four (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass One (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass SHOOF (1080p)
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass SHOOF 2 (1080p)
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass Seven (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass Six (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass Three (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Alkass Two (1080p)
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",AntenaSport (1280p)
+https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 group-title="Italy Sports",Arena Sport1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd?ck=OTAwMmVjOGMzZGJjNTVjNWJjY2RjZDY4NzFkODBmZDA6NzA5OTMyNTEyM2JhZTc4MTBkYjUwODcyN2JiMGJjN2QsNzEyMDkwYWFlMjA2NWMyMTk1MWIxNzBiYzMwMDIzMzA6YTk3Nzc0ZTQxNzViODAyMDVjM2NmMTA0ZTk1NzQyMDg=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport10
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd?ck=ZWE1NzM2MDQ3ZGYyNWVkYmI0OGJkMDU1ZDQ4ZWIzZGQ6OGI0MGQzYTQxNTUxNzIyNDI0NWE3OWU5MDdjYjhlZjAsZWU2ODYwYTZiZjdhNWY2Yzg5YmNmMTc5NGQxNmUyNWYEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd?ck=ZDI1NmI0MDNlZmNjNWMzZGI3MDFmYzY5Njg4NWUxMDI6ZDQ2ZTQyMTVlMjc5YjIyNGU5ZDJhNzcyZGI5Yzc0YTEsYzVlNWFjMWIzY2MxNWZlNzkwZjFiYzk2NTM1ZmUzMjk6M2RlZmU1OWMzODA3OWNjYWQyNWE0MzYyMDBhZDNiZDc=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport3
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd?ck=MjVjM2RmMzIwMjAwNWNjOThjNDc3MDAyOTViZTU5Y2E6MDczZjVhMzlkODRkZDE0YTlkZWJkMWE3MmJiMWYwNTUsM2JlZGY0YTg5NjY5NTk1ODkwN2UwOTg0MTY1MDkwZjA6YTU4MzE3ZmZkZGYzMThmMTU0MGYzMWY2N2Q5NWI1ZmIsY2NlYmVmY2JhMGEzNTQ2YmEzNGQzZmM1ODc2NTE3MDg6MThmMmIyMDI3Y2UyNjg2N2MyM2RjZDdmNTdmYWEyNDU=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd?ck=ODlkMWRjNTQ2OTJlNWI0ZmI1OTk1ZmMwOTUzYmY1YmY6MzFiODk1M2FiNjBiOTBmZWZjOTNkOWJkMWI4MDZmYmMsNjhjZDY2MWRiYzgzNTJmZGEwMDBjNTMyODQwZjYzNDA6MDI1NWZiNjIwZjRmNzA3ZWE3YmEwOTAwNTg3MTgzMDY=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport5
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd?ck=MzRhNzA5YmJlYWMwNTJmMjkzYzc3OGMwNzcwODI5ZmQ6MmI4MDFmZGUxYWQ0ODM5ZDQwODBkNmVjNmIwZWM0Y2VlNDczZWM1ZDk2ZjQ1YTlmOWEyMmViNjY1YjViMWVhOTphY2U1NGNlMTViNjlkMjQ5YjAwMzk1YzllNmI4NWI5MA==&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport6
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd?ck=YmZkOGZmMDRhMzYyNWZjZWE4MzM1Yzk1NzU0MDE2OTc6NzY5ZDYxYTJkNmZkNzAzMGE1MDg4ZGYyZTcwYzI2NTQ1YTg2ZTQyYzU4Y2Y1ZDAwODU0Njg2MWMwZjBmYjIyYTo2N2IxMTcyYTA1YmNiMzhhOTFhMzA0ZDcwOThjZTdmNQ==&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport7
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd?ck=NWQ0YjUwMDVkYmQzNTU1NTliM2M3ZmU0ZGFlMWZiMDU6MTBlNjVhNWI3NDE1ODIxNjE5MGU2NTRjZGYwNWI1ODQsNTk5ODI2NWVmOGZjNTc0ODgyMmZlZjk2MjI5ODMxYWE6OTExMGI2YmUzMWI0YmJkY2U2NzM3NGJhZTMzOTUyNjk=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport8
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd?ck=YzZmYzViMjdiNzRlNWI4ZTgyY2ExOWRhNDg0ZWIxNzQ6NTFmOGZkNWVlZjczNmRjY2FlYTkyMzViNjIxNzMxZTcsYjllOTU0NmJjOWJhNTJkMWE3NWZiYTkyMjJlZmE3ZjU6MmNlYzY1YzZiNzliZTZjMmQ0NDgxYzZlMGVmNzliZmM=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Arena Sport9
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd?ck=YTJmZjM3MmEyMWIzNTY1M2E4ODU5MmFiZmVjM2Y5YTc6ZDViYzI1MDg4ZDFmZGExMjg0OWFhZDkwNzE2ZGU3NTAsOTFhNTZmNWFhYjRjNTZjYjg4ZmJmNzg3MTg3YWNhZmU6MDAwMDgxNjA3OWE1ZWM0ZjA5M2UzMjc0YmRhMjZmMmE=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 group-title="Italy Sports",Billiard TV (1080p)
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 1
+https://sunzrh1-0-dashenc-live.zahs.tv/HD_blue_sport_1_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJUGA3UKN2EIQ4EILJUIM3DCNRRIM3UGMRUGQ3UIM2EEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOBZGQTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43DKMZQG5TDQYJYGYYGKNBQMQ4TSZBYGUYTONJQMMZGCMBSHBTDOJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=YmQwNTRmZGM5NTBiNGQ2ZmQ0MzU4MThkOTE1NjFmNWY6YWM0Yzc5NjEyNDE1OTUxYTk4NzYzYzg2NWQ1MDdjMGE=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 2
+https://sunzrh1-1-dashenc-live.zahs.tv/HD_blue_sport_2_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJWGE2DCRRTGBATOLJSG5AUIMZQIZBTMOJVGMYTGOCEEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJQGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43TMMLBHAZGENLFHFQTSMBRMRQWENJVMU2DAZRUMNQWIOBTMI4TMJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=NjFkZjZmY2QyOWEyZWVkMjRiOTE2MTRhNzIxM2Q4ZWY6ODEzMDAzYTBhZTRlMzU2NTkyMmEzNjlkMmEzZTYyNWY=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 3
+https://sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_3_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQKEIY4TKRBUIRBTQLJTGQYEGQRZHAYEGN2GGIZTCRJTEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJTG4TGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42DCYRXGMZWCNRYGI3DGNJWMFRWMZDDGUZDGZBXHAYWGYRZG5QTQJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=ODZiNTgzZTY4OTkwYTlkMThjNTk1YWFhOGJiNTYwZDI6MDZjMDUwM2MzZDgyYTlmZTIyNWYzNDVlOTU0NDk0ZGI=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 4
+https://zh4-7-dashenc-live.zahs.tv/HD_blue_sport_4_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYTEOJQIRDDMNCBGNBEMLJUGRCDCNCBGM3TARJRHBCDQQKCEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTAMBRGYTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42DCZDDMJSDKZRSHBRTQNRWMQ4DEYRTMU4WGNZZGM3TIOJSGY4TCJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=MzI5MmVhOWEwZjEwNzc3NWZlMWYxNzFhYTY0MDdkNTA6MzUzYmZkOTRhMTM3ZTEyYjdmODQ1MGU0NTYyNTU4ODE=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 5
+https://sunzrh1-1-dashenc-live.zahs.tv/HD_blue_sport_5_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJWGE2DCRRTGBATOLJSG5AUIMZQIZBTMOJVGMYTGOCEEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJQGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43TMMLBHAZGENLFHFQTSMBRMRQWENJVMU2DAZRUMNQWIOBTMI4TMJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=Mjk1MjgwMzcxYTIwMDAzMzA5MjZiNjY2NzMyNmVlOGQ6OWYwY2UxOTUyNTk0YjE3OWZlMzFlNmEyNzg4ZGIxYzY=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 6
+https://sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_6_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSBGNCUMOBQGAZDQLJRGFCUMNBWGY2ECQ2DGNBDCMCCEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJYHETGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42TKOBTGEZDKOBXGZTDSMJVMQ3WEYRVHEZTKNJUGY2WKMZQMIZDQJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=OGU3MDRiM2QwNjJhMmJlYjgyZGU4ZmIzYWI5MDZjNDk6MmI5ZjQ4YzE3MWQ0ZjA1YjVkMmYxZjg4OGI3NjEwNWU=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 7
+https://sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_7_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSCHE2EKOBQGU2TQLJSGY3UKNJUIYYEGOJYHAZEGOJQEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJZGUTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL5RDEOLDGM4DSZLDMQYDSMJWGJSTGYTBMU2DMZRQGEYGMMDBGQZGGJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=N2M3Mzk2ZTZhM2RiNzcxOGQ2YWVlNDFkYzMzYzk5Yzc6ZWQ2YWEyNGZhNTE5NDFkYTk3M2Q1MGYwODlmMTYxZjA=
+#EXTINF:-1 group-title="Italy Sports",Blue Sport 8
+https://sunlau1-1-dashenc-live.zahs.tv/HD_blue_sport_8_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSCGRCDCQ2GINAUGLJYGAZECMSFII4TAOBVIQ2DSNBGMRZG2PLFPBYGS4TBORUW63R2GE3TQMBRGE4DSOJUEZUW42LUNFQWY4TBORST2MRQGAYDAJTNMF4HEYLUMU6TEMBQGAYCM3LJNZZGC5DFHUYTAMBQEZYHEZLGMVZHEZLEL5WGC3THOVQWOZJ5MVXCM43JM46TENK7MMYDGNDDHEZWCNJWMVSDONRZMNSTMNDFGM2DQYRRHFRTENRSGEZCM43VMJ2GS5DMMVZT22DJXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=OWJiODA3YjNjZDU4YWY4MjcyNzgyN2JlZjE3YjY1NGY6N2U0NTU1ZDgyMjBjNDZmNGY3OTMwNjc5ZWQyYWE2ZjY=
+#EXTINF:-1 group-title="Italy Sports",CBC Sport HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",CBS Sports Golazo Network (720p)
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+#EXTINF:-1 group-title="Italy Sports",CBS Sports HQ (1080p)
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",CCTV-16 (1080p)
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="Italy Sports",CCTV-5 (720p)
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="Italy Sports",CCTV-5+ (720p)
+http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 group-title="Italy Sports",CDN Deportes (720p)
+http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",CHGO Sports
+https://jmp2.uk/rok-b238edf1869657abb47970bc9b7bfce1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Canal do Inter (720p)
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="Italy Sports",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="Italy Sports",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="Italy Sports",Como TV 1
+https://comofootball.mocdn.tv/out/v1/ac7a76c678594a03a8e05392a796f125/index_L1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Como TV 2
+https://comofootball.mocdn.tv/out/v1/c10b9e41c1a34a598cb5e9a345b3a325/index_L1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Como TV 3
+https://comofootball.mocdn.tv/out/v1/ffb389a49afc49338e2cc17724a649aa/index_L1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Como TV 4
+https://comofootball.mocdn.tv/out/v1/617c01e7d8c241d2b1152decbfa60339/index_L1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Como TV 5
+https://comofootball.mocdn.tv/out/v1/e8d4fec57cd24447babe9fbe0151007c/index_L1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Cricket Gold (1080p)
+https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 group-title="Italy Sports",DAZN Combat (1080p)
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",DC TV
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd?ck=MTFjODNmNzE3NDRlNDAyMDllZDEyYjFjZTIzNGQwNTU6ODMyNzliZDg2YzhmNzE2NTY0NDBhZjFhYmFmNDNmMGE=
+#EXTINF:-1 group-title="Italy Sports",DD Sports SD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",DP World Tour
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Dazn 1
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MzliY2JjOTQxOGFhNGQ2MmI5NmI2YTNlYWUyZjZkZjA6YThmOTY4YjZhOGVkN2JmYjE3YmY3ODdiNmM5MzBjN2U=
+#EXTINF:-1 group-title="Italy Sports",Dazn 2
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MzgwNWNkNTMzYzEzNDFhNzkzNGQxMzYyOWViN2EzNGU6MjU0MjU2NDkyOGNiOGUzZmU0NTk1YWI4ZGNmZDZlNzc=
+#EXTINF:-1 group-title="Italy Sports",Dazn 3
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=NzIyNGYyYTZhMTRhNGQ4ODg3NGQxMGRkOTUzYzg4ZGM6OTcxOWVhMjM4ZDNkZTY2ZWIwNzNjZTg0MjgxNGY0NjQ=
+#EXTINF:-1 group-title="Italy Sports",Dazn 4
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MGI2ZTVmZTViMWQxNDBiMDkyZTIyY2M2NjIwODgyNzY6NmJkZDc2YWRiYzViYjI1MDg5OTgzYjI1MDBkZGU3Y2E=
+#EXTINF:-1 group-title="Italy Sports",Dazn 5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ZDkzMWQ2NzE4ODQxNDVkZmIzOTJiZTBjYWRlNTA4OGM6YmVlZTM5NTWZm6AgawQ38QJHDTYXnkxMDT3d3zrYbaQ=
+#EXTINF:-1 group-title="Italy Sports",DirecTV Sports (1080p)
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="Italy Sports",DraftKings Network
+https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+#EXTINF:-1 group-title="Italy Sports",DraftKings Network (1080p)
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 group-title="Italy Sports",ESPN Deportes (360p)
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 group-title="Italy Sports",ESPN8 The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="Italy Sports",Eleven Sport 1
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd?ck=NTI1YTlkYTIxMjAwNDVhNjk3MzcwOWRiY2Q2ODU2MDk6ZDhhNzU3OGQ4MWNlNzU0NzU1YTUwM2FkOGFjOThlYzA=
+#EXTINF:-1 group-title="Italy Sports",Eleven Sport 2
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd?ck=MmNkMTJlYWNhNWMxNGIzMGEzMjgwYjFhODk0ODQ4MDk6ZTJjMTRmNmNjMjQ1YzFhNWViYmNlOGM4YzcwNGZjNmM=
+#EXTINF:-1 group-title="Italy Sports",Eleven Sport 3
+https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd?ck=ZTAwNmRhYjM5NjcxNGMwYjlkZDYyMjgyNTVjMWI3MDk6MmNkZjQ0ZTk2MGJiYzRkMjc2OTY4MDEyZmU2NTkyNzI=
+#EXTINF:-1 group-title="Italy Sports",Eleven Sport 4
+https://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd?ck=M2U5NDNhZDI4ODk2NGM3NzkxN2NjNjU0ZmM2MGQxMDk6MThjZjA3MTA2NTA3ZjQxMTIxMGM0YTI2ZDkwMWE5ZTQ=
+#EXTINF:-1 group-title="Italy Sports",Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 group-title="Italy Sports",Esport3 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Esports Edge
+https://jmp2.uk/rok-8f7350535325c7fad29cb140ef240ed7.m3u8
+#EXTINF:-1 group-title="Italy Sports",Eurosport 1 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)
+#EXTINF:-1 group-title="Italy Sports",Eurosport 2 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)
+#EXTINF:-1 group-title="Italy Sports",Eurosport 3 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)
+#EXTINF:-1 group-title="Italy Sports",Eurosport 4 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)
+#EXTINF:-1 group-title="Italy Sports",Eurosport 5 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)
+#EXTINF:-1 group-title="Italy Sports",Eurosport 6 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)
+#EXTINF:-1 group-title="Italy Sports",F1 Channel (1080p)
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",F1 Channel (720p)
+https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+#EXTINF:-1 group-title="Italy Sports",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ (720p)
+https://a62dad94.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ German (720p)
+https://4397879b.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ Italy (720p)
+https://5d95f7d7.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 group-title="Italy Sports",FOX Sports
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+#EXTINF:-1 group-title="Italy Sports",FTF Sports
+https://jmp2.uk/rok-e0970e3e4ea951689b1a15f64b091cb1.m3u8
+#EXTINF:-1 group-title="Italy Sports",FTF Sports (720p)
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 group-title="Italy Sports",FTV (720p)
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",FUEL TV
+https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FUEL TV APAC
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FUEL TV Europe
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",FUEL TV US
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 group-title="Italy Sports",FanDuel TV (720p)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fight Network
+https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",FloHockey 24/7 (1080p)
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",FloRacing 24/7 (1080p)
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fox Deportes
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fox Deportes (1280p)
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fox Sports 1 (1280p)
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fubo Sports Network
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Fubo Sports Network
+https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
+#EXTINF:-1 group-title="Italy Sports",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="Italy Sports",GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="Italy Sports",GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1 group-title="Italy Sports",GLORY Kickboxing
+https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
+#EXTINF:-1 group-title="Italy Sports",GLORY Kickboxing (720p)
+https://6f972d29.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="Italy Sports",Goal Zone (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Gol Classics (1080p)
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 group-title="Italy Sports",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",HBCU-GO Sports
+https://jmp2.uk/rok-d5ac470e48d355c19371733b18be8925.m3u8
+#EXTINF:-1 group-title="Italy Sports",HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="Italy Sports",HTV Thể thao (1080p)
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Hard Knocks (1080p)
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+#EXTINF:-1 group-title="Italy Sports",Horizon Sports (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=A5pc7nNS254
+#EXTINF:-1 group-title="Italy Sports",Horse TV (720p)
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",INTROUBLE (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",IRIB3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",ITV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="Italy Sports",InTrouble
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 group-title="Italy Sports",Jordan Sport
+https://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Jordan Sport (1080p)
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Jordan Sport 2 (1080p)
+https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+#EXTINF:-1 group-title="Italy Sports",Juventus Play
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",K19
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",KCMN-LD 42.6
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",KHL (720p)
+http://31.148.48.15/KHL_TV/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",KHL Prime (720p)
+http://31.148.48.15/KHL_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",KOZOOM TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0
+#EXTINF:-1 group-title="Italy Sports",KTV Sport (1080p)
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",KTV Sport Plus (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",L'Equipe (1080p)
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="Italy Sports",L1 Max (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",LRT Plius (1080p)
+https://stream-live.lrt.lt/plius/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",LaLiga Hypermotion (1080p)
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Lacrosse TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 group-title="Italy Sports",Lucha Libre AAA
+https://jmp2.uk/plu-5c01df1759ee03633e7b272c.m3u8
+#EXTINF:-1 group-title="Italy Sports",Lóverseny közvetítés (420p)
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="Italy Sports",M4 Sport
+http://88.212.15.19/live/m4_hun/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",MLB
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",MLB Channel (1080p)
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",MMA-TV (576p)
+http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="Italy Sports",MSG Sports Zone
+https://jmp2.uk/rok-8a55c26c63bdd14653c2b02230b4ac64.m3u8
+#EXTINF:-1 group-title="Italy Sports",MUTV (720p)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Match! Boets (576p)
+http://tmptv.sunduk.tv/CH51/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Match! Strana (720p)
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Meridiano TV (480p)
+https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Monterrico TV (1080p)
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 group-title="Italy Sports",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Multivisión Sports (720p)
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 group-title="Italy Sports",NBA TV
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",NBA TV Canada (1080p)
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:-1 group-title="Italy Sports",NBC Sports NOW
+https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",NBC Sports NOW
+https://jmp2.uk/rok-a90a91570ce0536cbb22b591ad7e0da2.m3u8
+#EXTINF:-1 group-title="Italy Sports",NBC Sports NOW (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="Italy Sports",NFL Channel (1080p)
+https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",NHRA TV
+https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",NHRA TV (1080p)
+https://d265y4sk8257lt.cloudfront.net/nh.m3u8
+#EXTINF:-1 group-title="Italy Sports",Nautical Channel (720p)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Nudge Sports Channel (1080p)
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Olympic Channel
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
+#EXTINF:-1 group-title="Italy Sports",Oman Sports TV (1080p)
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Ovacion TV
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Ovacion TV (720p)
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Overtime (1080p)
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 group-title="Italy Sports",PBR RidePass (720p)
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
+#EXTINF:-1 group-title="Italy Sports",PGA Tour
+https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",PGA Tour (1080p)
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",PHLY Sports
+https://jmp2.uk/rok-9ec48964d9b9502396f19fcb3a527074.m3u8
+#EXTINF:-1 group-title="Italy Sports",PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Italy Sports",PTV Sports (1080p)
+http://103.250.28.74:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Pac 12 Insider (1080p)
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Pac-12 Insider
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Italy Sports",Pluto TV Futbol Para Fans (1080p)
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 group-title="Italy Sports",Poker Go
+https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Poker Go (1080p)
+https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Premier Sports 2 (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 1
+https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 2
+https://stm.sinalmycn.com/20003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 3
+https://stm.sinalmycn.com/20006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 4
+https://stm.sinalmycn.com/20009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 5
+https://stm.sinalmycn.com/20012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 6
+https://stm.sinalmycn.com/20015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 7
+https://stm.sinalmycn.com/20018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",Premiere FC 8
+https://stm.sinalmycn.com/20021/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",QazSport (480p)
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",RACER International (1080p)
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",RTA Sport
+https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
+#EXTINF:-1 group-title="Italy Sports",RTI La 3 (1080p)
+http://69.64.57.208/la3/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Racer Network
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Racer Network (1080p)
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Racer Select (1080p)
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="Italy Sports",Radio Turrialba TV Sports (720p)
+https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
+#EXTINF:-1 group-title="Italy Sports",Rai Sport HD (1080p)
+https://srv1.adriatelekom.com/RaiSport/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Rally TV (1080p)
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Realmadrid TV (720p)
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV (1080p)
+https://3ea22335.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV DE (1080p)
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV ES (1080p)
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV UK (1080p)
+https://1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Right Now TV
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+#EXTINF:-1 group-title="Italy Sports",Right Now Tv (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq
+#EXTINF:-1 group-title="Italy Sports",Russian Extreme (576p)
+http://tmptv.sunduk.tv/CH67/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Ryz Sports Network
+https://jmp2.uk/rok-5f9c59c52f0ad475d90a33fdfd14d651.m3u8
+#EXTINF:-1 group-title="Italy Sports",S Sport
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",SKI TV (1080p)
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+#EXTINF:-1 group-title="Italy Sports",SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",SPORT 1
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd?ck=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmNzk5OWQ2NzczOWQ=
+#EXTINF:-1 group-title="Italy Sports",SPORT 2
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd?ck=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmNzk5OWQ2NzczOWQ=
+#EXTINF:-1 group-title="Italy Sports",SPORTSGRID
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+#EXTINF:-1 group-title="Italy Sports",SPOTV (720p)
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
+#EXTINF:-1 group-title="Italy Sports",SPOTV 2 (1080p)
+http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
+#EXTINF:-1 group-title="Italy Sports",SPOTV2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dplay.it/&Origin=https://www.dplay.it/
+https://global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd?ck=MTUzOWYwNDMyNDllNDEzZDkxOTA2MDM2ZjMwNTgzMWU6NjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmE=
+#EXTINF:-1 group-title="Italy Sports",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Scripps Sports Network
+https://jmp2.uk/rok-2aefb6659b573e55d0eb5fd2ff580079.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sharjah Sports (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sin Po TV (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 group-title="Italy Sports",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sky Racing 2 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sky Thoroughbred Central (720p)
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 1 (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 1 HD (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 2 (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 2 HD (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 3 Hindi (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 3 Hindi HD (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 4 (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sony Sports Ten 4 Telugu (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8
+#EXTINF:-1 group-title="Italy Sports",Speed Sport 1
+https://jmp2.uk/rok-f450ca31c0f7dde46cfdccb15d2154cb.m3u8
+#EXTINF:-1 group-title="Italy Sports",SporTV (1280p)
+https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",SporTV 2 (1280p)
+https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",SporTV 2 Alternativo (720p)
+https://stm.sinalmycn.com/19025/video.m3u8
+#EXTINF:-1 group-title="Italy Sports",SporTV 3 (1080p)
+https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 group-title="Italy Sports",SporTV Alternativo (720p)
+https://stm.sinalmycn.com/19024/video.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sport Italia (1080p)
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sport TV 1
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=YzJiYWM5YzM5M2YxNDVmYzkyNGNlNTcyY2E5OTE1NmY6NDVmNjYzN2VlZjgwZWFmYmU3ZTYzMDIzMTEzOWRmNWI=
+#EXTINF:-1 group-title="Italy Sports",Sport TV 2
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MGQyOGVkZjRmMDU1NDA5YmIxMmQ2ZDAyNjBiMjZiNmI6YmY2OWY4YTMzYzM5YzMxZjVmZjA2YWI1MjAxMmUyN2M=
+#EXTINF:-1 group-title="Italy Sports",Sport TV 3
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MjA2ZmVjNTZmNWI3NDFlNWFhODExMjQ4OTVkOWI1OTI6MjdiOTE1MDVhYTY5MjZmNTkxOTljODI4YmMyNzc2N2I=
+#EXTINF:-1 group-title="Italy Sports",Sport TV 4
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=Y2MwYjdhYzMxYjVlNDJmOGJmOTM0Zjk5YWNmNzFhOGE6ZDc2NDI0ZDY0NGEzNjAwNTY1NjdhMjQ4ZDhiODliNmM=
+#EXTINF:-1 group-title="Italy Sports",Sport TV 5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ODFjYTQzNGM5MzFhNDAzZTk1MGRmM2Q4MDhjMjRjNDE6MTg1NDgxOTBjZjNjODI5NDA5NmFmOGEyMTQ2ZTMyYTU=
+#EXTINF:-1 group-title="Italy Sports",Sport TV 6
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ZDMxOWFhYjAyYTgzNDIyNDhjY2ViMGZkZjA2MGJjNTQ6YjM2NjY4YTgzNmIxNTA1NWJlMWYwNGI4ZDhhOGNjNzA=
+#EXTINF:-1 group-title="Italy Sports",Sport TV 7
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=NDAwOTU3YWM2OGQ1NDlmYmJiYmM2NjhkM2E5ZWI3MDk6M2RkMzUxZjE4NzViMGRkNDBhNGUzOTJmMDZhMjliMjk=
+#EXTINF:-1 group-title="Italy Sports",SportKlub 1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?ck=ODAxMTlmM2U1NzQ0NTQyMThkMzFjZjQ2NGI0MjBjNWU6ZDcxZTMxODZjNGUwMzcyNzliNGMxMjE5N2I4NjA1NTEsZmViNmEwZDViZGY5NTcyMWE2OTViZGRhODNjM2E5NDU6YTk2YmYyN2QzNmNkOWVkZTQ0N2M1YzM5MjUxMWVkNWQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 10
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk10/default/index.mpd?ck=ZmFlOGVjMjhmMTc2NWRhNmFiZGY4ZGQ0ZWRmMjkyMjc6OGJjNmVjZWJmZWQ3ZDUwYWNjZDI4OWJkMjllMGM1YzgsOWM0Y2ExMjU4OWVmNWJhZTkzNjIxMmZjZGRmODdiOTA6OWNmOGJkNTRjODViOGQ5NzMyMGIwZmRhNDUwNWM2MTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 11
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/skhd/default/index.mpd?ck=NzM4ODA4MjlmNDJhNTMzZDk4ODAwODA2NWE1ZmRkZDI6NDUyMzY5NGUyNWYxNmVjYmQzMDA3NmZiMDY3ZmY2YmMsMTI2MGZhNjIxZTkxNTM5OGE5NDcyMWQ1ZjJjODM4NGI6MjI0YjQwOGNlMTNkNGMyNzg1YjMxNTRiZDhlZjBiNWE=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 12
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/skns/default/index.mpd?ck=OGZmOTEzODg4NWI0NTM0Zjg3MjJlOWE1ZmI3ZmU0ZTI6YTBkMGRiNGE4ZjU0ODhhODRkMDg3N2UyNzRjZWFlNDYsZjlmYWM1N2EzZGRkNTEyNDllOTkxMDhkZTU3ZDc0MjM6MzVkOThiODHsagHzd2sh3Zb747gJJNL3cCUpTcRJf9C=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk2/default/index.mpd?ck=Y2FkNGY2ZjBlZjg1NTc2NWI1NmYwN2NiNDY1ODhlM2Q6YjNiNzIwYmM1MDc4ZjU4YTYzYTg2N2JmZTkyODhiNzAsMzI3NDNmM2NkYTI3NWNmNmEzNTljZGU5MmRmZDExOWM6YTU1MTc0NDMxOWU0ZjNmNTI2NzMzNWUzN2U3MDZiYzQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 3
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk3/default/index.mpd?ck=YWY3MTRkOTRlMTBkNTNjYmExYzE5YjgxOGNiYWQzOGE6N2Y3ZDQ4NDQxNDQyYmE1YWMwNGNhMzVhZTc2NDljYmEsZTkxMGIzMmI5Njk4NWZhZDliY2U0NjMyYjQ0NGNjOTE6NzRkMzBiZDg5OTY1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk4/default/index.mpd?ck=YTZiNTYzNWZjNjRiNWRiMDk1OWYwMDlhMzRhYTZhNmQ6ZWRiNGJmNGM4MjA1NTMyNDEzYWU1YWFlMTExYzIxYjksYzhhMGJlMTA5N2NlNWRhZmI2NTRiNTA5MDg1ZTM2MjQ6Mzk2NmQyMzhlYzkyN2UyYTE3NmEzZmFkYTM2YTNhZTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 5
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk5/default/index.mpd?ck=OGRmOGMxMDllODE1NWIwNTgyZGFhMGFjZjZmZmM4ZWE6ODc4ODczZDkxNGVhNjFkNzhlZDExYjI1MGRlMGVhYjQsYmYyZDJmNjY0NmNkNWQ1ZjhhOTAxM2U3MzEwN2ZlOWI6Yjk0MGE3MzdiYTgzZTQwYjI0ZjRjNjk1MTMwNzAxZGI=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 6
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk6/default/index.mpd?ck=MDUxN2EwNTdmM2IzNWZlZDk5OWJhZWRhNzM0MDEzZmM6Mzk0NmU3ZjA3ZDRhMGQ4M2RiMzUzODM1MTY4Nzk4YjEsNzAwYTVmMGYzN2VkNTMxYzgwMGMzMWJhOGM2N2MwNDc6MzhiMTczMDRlNDgyZjkwMjk2MzJjOWExZDA5ZGU1M2Y=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 7
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk7/default/index.mpd?ck=ODJhOThkNTQ0ZTJkNWNlMWFmNTU4NTI5ZjQyMTUyYjE6NWMzNzQ0YjljZmU0OGU4YWY4OGYwNjQxZmQ2YjEzNzYsN2QwNzdmMDM4ZWNjNTYxM2ExMzg5OGU2M2ExMDI3YTg6MTcyZjVlNGFjMDAyYTgxZmZiYmNlOWQ0YTRlNDBjODA=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 8
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk8/default/index.mpd?ck=YjMzNjg1ZmY1NzE2NTdiYmFkNzlhNzU5NmU2MjA4Mzc6OWU2Y2NjNzNjNDlkZWNiZjYyODI0ZDFlYjgzN2ViYWUsYmJkZDBiNTFkZmNkNTFkZmI5YWM4NGFjNGU5NzM3OGY6Mzc1YmRhMTUxNWIxN2NiZTY5ZTM1MjViZjk3YjZmNjM=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",SportKlub 9
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk9/default/index.mpd?ck=ZGUwNDBjZmJmMjhjNWQ1MGJmMjM5NTE4N2UyOGZhOGI6ZWNjNzM0ZjU1NjQwZmI0MjQwNjNjMzQ0MjUyYmNhMTUsZTJlYTBhYWUzYjBlNTk3YWE5ZGZmYWU0Y2U0MWZlNzg6YzljYzc4ZWM2ODMwNDIxYmQ1MWRkNjRhNWE1YzFkYzQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 group-title="Italy Sports",Sportdigital FUSSBALL HD (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sportitalia 24 (720p)
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sportitalia Motori (720p)
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sportitalia Solocalcio (1080p)
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sports Connect (720p)
+https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Sports TV (720p)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="Italy Sports",SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",SportsGrid (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu
+#EXTINF:-1 group-title="Italy Sports",SportsTVPlus (1080p)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC
+#EXTINF:-1 group-title="Italy Sports",Stadium
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Stadium (720p)
+https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Star Sports 2 Hindi HD (1080p)
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Strongman (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="Italy Sports",Swerve Combat (1080p)
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Swerve Sports
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",T Sports (720p)
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 group-title="Italy Sports",TJK TV 2 (1080p)
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 group-title="Italy Sports",TNC Sports (1080p)
+https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TNT Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?ck=Mjk0YjU3NjFjZWZjMjJkMGM2MzEyOTM5ZTEzZDgyNzg6NTIxNDhmMTA0MmQyMzg4NDlmMGE3ODEzZjFkYThhN2I=
+#EXTINF:-1 group-title="Italy Sports",TNT Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?ck=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU=
+#EXTINF:-1 group-title="Italy Sports",TNT Sports 3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?ck=MWQ5NmFiMzY2YmJlNjQ1MWVkZjc0MDdiNThlMmZhMTY6MDExNjIwMWY0YTYzYWM1YmY1Nzg3ZDJjNjEwYzQxYTc=
+#EXTINF:-1 group-title="Italy Sports",TNT Sports 4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?ck=MTkyYjExMTVkYTA0MTU4NWM3NzIwMDEyODU0OWVmYTE6NjM0ZTEwZWZlNGFiYmIxNGJlNDAwYTNjY2JhYzAyNTg=
+#EXTINF:-1 group-title="Italy Sports",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",TRT Spor (1080p)
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",TRT Spor Yildiz (1080p)
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",TSN 1
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?ck=ZTUxYWEyMWYyYTBmZWY5YWFiYzEyMGRmYjY1NWI1MmY6YTEyYTk4N2ZlNzI1YTQwYjZiZTk1Y2Q4NGIxNWY2ODk=
+#EXTINF:-1 group-title="Italy Sports",TSN 2
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd?ck=ZGFhOGVhOTI1NTNmZDE2Y2Q2YmZhZTJiOGM1ODI3MTU6NDA0MmUwNDFiNTYzOWI3OWI2OWFlMDdhODcyZWVmOWI=
+#EXTINF:-1 group-title="Italy Sports",TSN 3
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/cenc.mpd?ck=ZjVjMmIzMGVhYzExYmUxZThjZGZjOTU4NWY1ZmU2YWY6YTgxOThkMTdiZjliMGRhNzc0NTBmYmI5MTlhMzhiMmQ=
+#EXTINF:-1 group-title="Italy Sports",TSN 4
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?ck=YzQwODhmNWYyNjVmOWRlNTBjZmZkODBiZjg5MzA4Yjc6MmM0ZDIyMzlkOTZkNTMyYjRlYzIwNTA2NTM2MTEwMDM=
+#EXTINF:-1 group-title="Italy Sports",TSN 5
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd?ck=ZTg1MzMzM2RhMmM5MTk2ZWExMTM3NDYzNDIzMWJjNDU6ZGUyZTJkYmU4MThkNzhkZmFkMDdkNmNkOWE0YzYzZDQ=
+#EXTINF:-1 group-title="Italy Sports",TSN The Ocho (1080p)
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVMatic Fight (720p)
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVMsport+ (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 group-title="Italy Sports",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Bowling Network (720p)
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Boxing (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Classic Sports (360p)
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Sports Bureau (720p)
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Turbo (360p)
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",TVS Women Sports (720p)
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tabii Spor 6 (720p)
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Talent TV (720p)
+http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tele Rebelde (480p)
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:-1 group-title="Italy Sports",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tennis Channel (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",TennisChannel 2 (720p)
+https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 group-title="Italy Sports",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+#EXTINF:-1 group-title="Italy Sports",Thmanyah 1 (1080p)
+https://dflive.app.tc/20.m3u8
+#EXTINF:-1 group-title="Italy Sports",Thmanyah 2 (1080p)
+https://dflive.app.tc/60.m3u8
+#EXTINF:-1 group-title="Italy Sports",Thmanyah 3 (1080p)
+https://dflive.app.tc/61.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tigo Sports (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tigo Sports (720p)
+https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tigo Sports TV El Salvador (720p)
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tigo Sports+
+http://45.170.130.224:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Tour Spot TV (1280p)
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Trace Sport Stars
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Turbo
+https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09723/stb-dash-fhd-avc/SV09723.mpd?ck=MzY0NjBlOTI0MjUxNDJjNmE2NDc1YmYyNmY2NGQ1YTY6NzVkZTU5ZTI5MzM0NGVkZDM3YWU2Yzc1MWI0NTEwZTcsOGFlMzNlMGRhZTVmM2FjYzgyOWZlODM2YzAwZjc0MmM6MDEyZjg4MGVhYzY1MmI1NjM2MzdiNGM5Njk4OWZkODQ=
+#EXTINF:-1 group-title="Italy Sports",Turf Movil (720p)
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+#EXTINF:-1 group-title="Italy Sports",TyC Sports (1080p)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Türkmenistan Sport (406p)
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="Italy Sports",Unbeaten Sports Channel (1080p)
+https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+#EXTINF:-1 group-title="Italy Sports",VITAL Drive
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Varzesh TV
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Viaplay TV (Finland) (720p)
+https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
+#EXTINF:-1 group-title="Italy Sports",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Willow Sports
+https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 group-title="Italy Sports",Women's Sports Network
+https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8
+#EXTINF:-1 group-title="Italy Sports",World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 group-title="Italy Sports",World Poker Tour (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+#EXTINF:-1 group-title="Italy Sports",World Poker Tour UK
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",Yahoo! Sports Network
+https://jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8
+#EXTINF:-1 group-title="Italy Sports",Ziggo Sport 1
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621&ck=ZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM=
+#EXTINF:-1 group-title="Italy Sports",Ziggo Sport 2
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579&ck=M2NmYTg2MjVmNjUwNDA2ZWJmNmE0ZDFlYTczN2Y1NzI6MDUzNGU3NDdjNzBiMzY0YWE3MjEwZTFiZjMxOTFkZjA=
+#EXTINF:-1 group-title="Italy Sports",Ziggo Sport 3
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538&ck=NGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg=
+#EXTINF:-1 group-title="Italy Sports",Ziggo Sport 4
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538&ck=YjVjMDRjZmI2ZGE4NDEwNGJhNWJiZTUxY2QwNjViMTI6ZDk2NTYxYmU0ODE5ZDNlZDRlNWY0ZjU0MDE1YmFhY2E=
+#EXTINF:-1 group-title="Italy Sports",Ziggo Sport 5
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDRMfFSmvnfmEn7mhtahzNyrfcSPV2YnnkDJ%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039&ck=M2ZiNDBkODU3MjQ5NDJmOTk0ZDg2OTQzZjQ4MDIxZGI6YTZkYTg3NDI1MDJjOGEyMTUzMDY3ZjVmMmE3MGZiMDI=
+#EXTINF:-1 group-title="Italy Sports",Ziggo Sport 6
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EURnD_afuosWHfY5OEqRXOwfa01PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR%7EiVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014418%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014418%2C3103_S1E2%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206258&from=14&hms_devid=538&online=1717206258&mag_hms=538&_=1717206265600&ck=MWEwZmZhNTMyYWEyNDk4NDkwODI2ZTJmNmEzN2Y3Yzk6YThjZWMyN2JjN2Q0NzkwOWM1YjBkOGY0NzNiNDNlOGQ=
+#EXTINF:-1 group-title="Italy Sports",Zoy TV Sports 1 (1080p)
+https://mio.zoymilton.com/ZoyEventos/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",beIN SPORTS Xtra
+https://jmp2.uk/rok-bc932f1PbWWqgKDBDorh525uecKaGZD21FGSoCeR.m3u8
+#EXTINF:-1 group-title="Italy Sports",beIN SPORTS Xtra (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
+#EXTINF:-1 group-title="Italy Sports",beIN SPORTS Xtra en Español
+https://jmp2.uk/rok-909b1PbWWqgKDBDorh525uecKaGZD21FGSoCeR.m3u8
+#EXTINF:-1 group-title="Italy Sports",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 group-title="Italy Sports",fubo Sports Network (1080p)
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Italy Sports",ge Fast (1080p)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f3EME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",viju+ Sport (576p)
+http://tmptv.sunduk.tv/CH131/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Đồng Nai 2 (480p)
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Беларусь 5 Интернет (1080p)
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="Italy Sports",Бокс ТВ (720p)
+http://31.148.48.15/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",МАТЧ! Арена (720p)
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",МАТЧ! Игра (720p)
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Матч! Планета (720p)
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+#EXTINF:-1 group-title="Italy Sports",СТАРТ Триумф
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+#EXTINF:-1 group-title="Italy Sports",УТРК Спорт (480p)
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",Футбол (720p)
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 group-title="Italy Sports",山东体育 (1080p)
+http://livealone302.iqilu.com/iqilu/typd.m3u8
+#EXTINF:-1 group-title="Mediaset",27 TWENTYSEVEN
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",BOING
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",CANALE 5
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 group-title="Mediaset",CARTOONITO
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Mediaset",CINE 34
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",FOCUS
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Mediaset",IRIS
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",ITALIA 1
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 group-title="Mediaset",ITALIA 2
+https://live03-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",LA 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",MEDIASET 20
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",MEDIASET EXTRA
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",R101 TV
+https://live03-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",RADIO 105
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",RADIO MONTE CARLO
+https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",RETE 4
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 group-title="Mediaset",TGCOM
+https://live03-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",TOP CRIME
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Mediaset",VIRGIN RADIO
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="News",BLOOMBERG
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",EURO NEWS
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="News",SKY TG24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00365edc7f3e81a2be10976e63b46b57:8072faa54c2c80f416a836d415fd6989
+https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32519/FHD/tg24/master_stereo.mpd
+#EXTINF:-1 group-title="News",SKY TG24
+https://hlslive-web-dai-gcdn-skycdn-it.akamaized.net/linear/hls/pa/event/5FbXm2EaSmy6Hn5303wKSg/stream/1910223d-16e3-4972-a5a3-50b13aafad0a:BRU/master.m3u8?hdnea=st=1767195938~exp=1767196238~acl=*~id=c473d501-297f-43db-8d2e-0382f3e6aa10~hmac=82bf134719c71c8296c4bf86ebc531bccc117c498f16d935e0c4940a46e88933&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%225f7ca981-6a0c-4129-b7d0-28ddf17cdc2b%22%2Csu
+#EXTINF:-1 group-title="News",SKY TG24 (ESTERO)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oha.to/&Origin=https://oha.to&Connection=keep-alive&User-Agent=ipad
+https://oha.to/play/3376031355/index.m3u8
+#EXTINF:-1 group-title="Regionali",111 Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",12 Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",7Gold Emilia Romagna
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/chunklist_w1635029499.m3u8
+#EXTINF:-1 group-title="Regionali",ADN24
+https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",AM Terni Channel
+https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",AltoAdige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Amica 9 Tv
+https://streamlive17.arcapuglia.it:8080/live/amica9TV/index.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna 3 Toscana
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna Sud
+https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna Sud 92 (Extra)
+https://stream.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna Tre Nordest
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna Uno Lentini
+https://stream9.xdevel.com/video0s976442-1228/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Apulia Web Tv
+https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8
+#EXTINF:-1 group-title="Regionali",Arancia Television
+https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Bergamo TV
+https://streamcdng10-db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Regionali",Cafe TV 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",CalabriaUno TV
+https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Calabriasona  Tv
+https://59d7d6f47d7fc.streamlock.net/calabriasona/calabriasona/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Campania Felix Tv (Italia Felix Tv)
+https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
+#EXTINF:-1 group-title="Regionali",Campi Flegrei Tv
+https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 10
+https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 21 Campania
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 3
+https://stream4.xdevel.com/video0s976737-1453/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 6
+http://195.231.82.127:8082/hls/test_low.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 7
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 74 (Link2)
+https://stream.cp.ets-sistemi.it:1936/canale74/canale74/chunklist_w1938752098.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 77
+https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 8
+https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 81 Lazio
+https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 9
+https://585b674743bbb.streamlock.net/9026/9026/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 97 Sicilia
+https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Canale Salento
+https://ns333420.ip-37-187-126.eu/hls/mystream.m3u8
+#EXTINF:-1 group-title="Regionali",Canale Uno TivÃ¹
+https://rst.saiuzwebnetwork.it:8081/canaleuno/index.m3u8
+#EXTINF:-1 group-title="Regionali",Canale21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Capri Events
+https://host2.hbbtv.me:28443/cmaf/caprievents/index.m3u8
+#EXTINF:-1 group-title="Regionali",Capri Spettacoli Tv
+https://rst.saiuzwebnetwork.it:8081/fiestaloca/index.m3u8
+#EXTINF:-1 group-title="Regionali",Carina TV
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Regionali",Centro Serena
+https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Clivo Tv
+https://str61.fluid.stream/ClivoTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Contrasto TV
+https://host2.hbbtv.me:28443/cmaf/contrastotv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Cremona 1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",DI-TV
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Delta Tv
+http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Di-tv 92
+https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Dolomiti Life Tv
+https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",E'live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
+#EXTINF:-1 group-title="Regionali",ETV Rete7
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Easy TV
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Eccellenza  Calabria
+https://604e46ac2bdee.streamlock.net:1936/eccelenzacalabria/eccelenzacalabria/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",EmmeTv
+https://ssh101-fl.bozztv.com/ssh101/emmetv89/index.m3u8
+#EXTINF:-1 group-title="Regionali",Entella Tv
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/chunklist_w217528347.m3u8
+#EXTINF:-1 group-title="Regionali",Enti e Istituzioni Tv
+https://rst.saiuzwebnetwork.it:8081/istituzioni/index.m3u8
+#EXTINF:-1 group-title="Regionali",Espansione TV
+https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Esperia TV
+http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
+#EXTINF:-1 group-title="Regionali",Extra Tv Live
+https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+#EXTINF:-1 group-title="Regionali",FMTv (75 e Canale211)
+https://bbtv.intvstream.net:3988/hybrid/play.m3u8
+#EXTINF:-1 group-title="Regionali",Fano Tv
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Fly Tv Uk
+https://tv2.radiosaiuz.com:3792/hybrid/play.m3u8
+#EXTINF:-1 group-title="Regionali",GRP Televisione
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:-1 group-title="Regionali",GS Channel (95 ReteReggio)
+https://rst.saiuzwebnetwork.it:8081/retereggio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Regionali",Gargano TV
+https://load-balancer.azotosolutions.com/cdnedge3/smil:live3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Gigli Tv
+https://stream3.aswifi.it/giglitv/live/index.m3u8
+#EXTINF:-1 group-title="Regionali",Globus Television
+https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Gold TV Roma
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Icaro Tv
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Idea Plus
+https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
+#EXTINF:-1 group-title="Regionali",In Sicilia Tv
+https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
+#EXTINF:-1 group-title="Regionali",InfoCilento tv
+https://proxy.media.convergenze.it/InfoCilento/streams/EToxBtWHNs1xJzsx1719408453352.m3u8
+#EXTINF:-1 group-title="Regionali",Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Italia Cable
+https://rst.saiuzwebnetwork.it:8081/italiacable/index.m3u8
+#EXTINF:-1 group-title="Regionali",Italia2 Tv
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Kaleidos TV
+https://live20.bozztv.com/giatvplayout7/giatv-210097/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Kaleidos Tv Music
+https://live20.bozztv.com/giatvplayout7/giatv-210201/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",L' Auto del Giorno
+https://5f22d76e220e1.streamlock.net/autodelgiorno/autodelgiorno/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",La Nuova Tv
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",La Tenda TV
+https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",La3 Marsala (latr3)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",LaC Network
+https://streamcdnb1-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",LaC On Air
+https://streamcdnb4-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",LaC Tv Calabria
+https://streamcdnb4-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Lacco Ameno Tv
+https://tv.radiosaiuz.com:3528/hybrid/play.m3u8
+#EXTINF:-1 group-title="Regionali",Lacco Ameno Tv 2
+https://rst2.saiuzwebnetwork.it:8081/laccoamenotv/index.m3u8
+#EXTINF:-1 group-title="Regionali",LazioTV
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Le Cronache Lucane tv (canale 76)
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="Regionali",Lira Tv
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Love in Venice (Offline)
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Lucania TV (Offline)
+https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Luna TV
+https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",MadeinBO Radio Tv
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Mania Tv (Cagliari Tv)
+https://bbtv.intvstream.net:3303/stream/play.m3u8
+#EXTINF:-1 group-title="Regionali",MediaSud Calabria
+https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Mediterranea Tv
+https://stream1.aswifi.it/mediterraneatv/live/index.m3u8
+#EXTINF:-1 group-title="Regionali",Milano Pavia TV
+https://59d7d6f47d7fc.streamlock.net/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",NTi Canale 93
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+#EXTINF:-1 group-title="Regionali",Napoletani nel Mondo
+http://host2.hbbtv.me:28080/hls/napoletaninelmondo/index.m3u8
+#EXTINF:-1 group-title="Regionali",Napoli Itaca TV
+https://host2.hbbtv.me:28443/cmaf/itacatv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Nora TV
+https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1 group-title="Regionali",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+#EXTINF:-1 group-title="Regionali",Nuvola TV
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
+#EXTINF:-1 group-title="Regionali",Odeon 24  Netweek
+https://streaming.softwarecreation.it/Odeon24SA/Odeon24SA/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Onda Tv
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
+#EXTINF:-1 group-title="Regionali",One TV Canale 79
+https://media2.streambrothers.com:19360/8160/8160.m3u8
+#EXTINF:-1 group-title="Regionali",OttoChannel
+https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",P.B.M. Tv (Pubblimage Tv)
+https://bbtv.intvstream.net:3044/stream/play.m3u8
+#EXTINF:-1 group-title="Regionali",Paradise Tv
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Partenope TV
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
+#EXTINF:-1 group-title="Regionali",Passione Lotto Tv
+http://185.63.52.103:8080/hls/passionelotto/index.m3u8
+#EXTINF:-1 group-title="Regionali",Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 group-title="Regionali",Piana TV
+https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
+#EXTINF:-1 group-title="Regionali",PiÃ¹ Valli TV
+https://5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Political TV
+https://diretta.arcapuglia.it:8080/live/politicaltv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Prima Free
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Prima Tv Catania
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1827249215.m3u8
+#EXTINF:-1 group-title="Regionali",Prima Tv Napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Primantenna
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Primaset 149
+https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
+#EXTINF:-1 group-title="Regionali",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Promovideo Tv
+https://media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8
+#EXTINF:-1 group-title="Regionali",Quarto Canale Tv
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",R.D.E. Tv ( Radio Diffusione Europea)
+https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
+#EXTINF:-1 group-title="Regionali",R.T.C. Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",RCS 75
+https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",RMC 101 TV
+https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8
+#EXTINF:-1 group-title="Regionali",RTI Calabria
+https://stream.ets-sistemi.it:8081/rticalabria/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Regionali",RTM
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",RTN Tv (Canale 607)
+https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
+#EXTINF:-1 group-title="Regionali",RTP
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",RTTR
+https://rttr.fluid.stream/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Radio Alfa Lab TV
+https://w1.mediastreaming.it/alfalab/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Radio C.R.C. Tv Targato Italia
+https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
+#EXTINF:-1 group-title="Regionali",Radio Caserta Tv
+https://5f22d76e220e1.streamlock.net/radiocasertatv/radiocasertatv/chunklist_w653518225.m3u8
+#EXTINF:-1 group-title="Regionali",Radio Core de Roma Tv
+https://stream3.aswifi.it/radiocore/live/index.m3u8
+#EXTINF:-1 group-title="Regionali",Radio Idea Tv
+https://rst.saiuzwebnetwork.it:8081/luigi/index.m3u8
+#EXTINF:-1 group-title="Regionali",Radio Marte Tv
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Radio NapoliEmme (R.N.M)
+https://rtmp.streams.ovh:1936/radionapoliemme/radionapoliemme/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Radio Televisione Sarda
+https://stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d.m3u8
+#EXTINF:-1 group-title="Regionali",Radiorizzonti Tv
+https://video.radiorizzonti.com/hls/orizzonti.m3u8
+#EXTINF:-1 group-title="Regionali",Ran Friul
+https://5f22d76e220e1.streamlock.net/RanGem/RanGem/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Reggio Tv
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 group-title="Regionali",Rete 8 Vga
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S29887338/irn4sIk4aeF2/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rete Biella
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rete Tv Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8
+#EXTINF:-1 group-title="Regionali",Rete Veneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rete8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Retesole Umbria
+https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rieti Channel
+https://giatv.bozztv.com/giatv/giatv-centroitalia/centroitalia/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rtc Quarta Rete
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",SL48
+https://streaming.softwarecreation.it/sl48/sl48/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Salute Channel
+https://live20.bozztv.com/giatvplayout7/giatv-210160/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Sardegna live
+https://dc-global-13scw-livepush.akamaized.net/live_cdn/nsLLif8qFb3n-V7/emkb1JdlrL_X756V/index.m3u8
+#EXTINF:-1 group-title="Regionali",Sardegna1
+https://streamcdnf35-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Seilatv
+https://nrvideo1.newradio.it:1936/efstzahwew/efstzahwew/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",SestaRete (Piemonte)
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Sestarete Tv
+https://64b16f23efbee.streamlock.net/sestarete/sestarete/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 group-title="Regionali",Sicilia 24
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Siena Tv
+https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Stile Tv
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:-1 group-title="Regionali",Studio 100
+https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Super J Tv
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Super TV Oristano
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/chunklist_w370669592.m3u8
+#EXTINF:-1 group-title="Regionali",SuperSix 24
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",SuperTv Brescia
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="Regionali",T.R.G. Tv (Tele Radio Gubbio)
+https://www.trgmedia.it/hls/livestreamHD.m3u8
+#EXTINF:-1 group-title="Regionali",T.R.L. ( TELE RADIO LEO)
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",T.V.M. Napoli Web
+https://rst.saiuzwebnetwork.it:8081/tvmnapoliweb/index.m3u8
+#EXTINF:-1 group-title="Regionali",T9
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TCF TV
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TGR Randazzo
+https://video.azotosolutions.com:9553/tgrsicilia/tgrsicilia/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TGS Giornale di Sicilia
+https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w1143191259.m3u8
+#EXTINF:-1 group-title="Regionali",TRIS Siracusa
+https://streaming.teletris.it/tmp_hls/live/index.m3u8
+#EXTINF:-1 group-title="Regionali",TSN Livigno
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Regionali",TV 12 Medianordest
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TV Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:-1 group-title="Regionali",TV1 Sulmona
+https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TV33 Bolzano
+https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TV33 Trento
+https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TV7 Benevento
+https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TV9 Telemaremma
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+#EXTINF:-1 group-title="Regionali",TVA Tele Video Agrigento
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TVI Molise
+https://live.tvimolise.it/memfs/141a8c20-829a-4e01-92e1-0df3bab131a8.m3u8
+#EXTINF:-1 group-title="Regionali",TVL (TV Libera)
+https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TVM
+http://195.231.82.127:8081/hls/test_low.m3u8
+#EXTINF:-1 group-title="Regionali",TVR Xenon
+https://load-balancer.azotosolutions.com/cdnedge4/smil:live4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Taurianova Tv
+https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teatro Tv
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+#EXTINF:-1 group-title="Regionali",Tele A (Canale 18 Campania)
+https://lostream.it/hls/telea/video.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Colore Salerno
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Ercolano
+https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Futura
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Iblea
+https://5f22d76e220e1.streamlock.net:443/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Idea
+https://5b38ce71f1f00.streamlock.net/8334/8334/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Liguria Sud
+https://5f22d76e220e1.streamlock.net/tls/tls/chunklist_w679023458.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Mia
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Norba (08-18)
+https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Regionali",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Radio Maristella
+https://load-balancer.azotosolutions.com/cdnedge10/smil:live10.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Radio Monte Kronio (RMK TV)
+https://648026e87a75e.streamlock.net/rmktv/rmktv/chunklist_w2118491473.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Regione Toscana
+https://59d7d6f47d7fc.streamlock.net/moresporttv/moresporttv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Roma 2
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Romagna 24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Romagna Mia
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Spazio Messina
+https://648026e87a75e.streamlock.net/telemessina/telemessina/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Tricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Tutto
+https://streamcdnr16-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/chunklist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Tutto 2
+https://streamcdnm9-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele Tutto 24
+https://streamcdnm3-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tele8 Mazara
+https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleA1
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:-1 group-title="Regionali",TeleAbruzzo (Abruzzo Tv)
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleBari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleBelluno
+https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleBoario
+https://stream6.xdevel.com/video0s976425-1243/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Regionali",TeleClubItalia
+https://teleclubitalia.iostream.it/teleclubitalia.m3u8
+#EXTINF:-1 group-title="Regionali",TeleColor Lombardia
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Regionali",TeleCostaSmeralda
+https://streamcdnf25-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleCupole
+https://d4k.it/hls/live2/live.m3u8
+#EXTINF:-1 group-title="Regionali",TeleCupole Liguria
+https://d4k.it/hls/live3/live.m3u8
+#EXTINF:-1 group-title="Regionali",TeleFriuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleGenova
+https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleGranducato
+https://www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8
+#EXTINF:-1 group-title="Regionali",TeleLeonessa
+https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8
+#EXTINF:-1 group-title="Regionali",TeleMantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
+#EXTINF:-1 group-title="Regionali",TeleMilano
+https://648026e87a75e.streamlock.net/telemilano/telemilano/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleMistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleMontecatini (Offline)
+http://telemontecatini.sytes.net:8090/hls/test.m3u8
+#EXTINF:-1 group-title="Regionali",TeleNorba
+https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Regionali",TelePegaso
+https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleQuattro
+https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleRadio Carpegna
+https://samson.streamerr.co:8081/webtv/index.m3u8
+#EXTINF:-1 group-title="Regionali",TeleRadioErre
+https://59d7d6f47d7fc.streamlock.net/teleradioerre/teleradioerre/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleRitmo
+https://ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleSanDomenico (TSD TV Arezzo)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
+#EXTINF:-1 group-title="Regionali",TeleSardegna
+https://streamcdnf37-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleTibur
+https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
+#EXTINF:-1 group-title="Regionali",TeleVenezia
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teleacras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telearena
+https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teleblu
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telecentro 2
+https://5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telechiara
+https://fms.telemar.it:1936/telechiara/diretta/chunklist_w285735564.m3u8
+#EXTINF:-1 group-title="Regionali",TelecittÃ  Padova
+https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
+#EXTINF:-1 group-title="Regionali",Telecity Liguria
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telecity Valle D'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teledehon
+https://5f22d76e220e1.streamlock.net/Teledehon/smil:Teledehon.smil/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w386788975.m3u8
+#EXTINF:-1 group-title="Regionali",Telegela
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telegolfo RTG
+https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teleischia
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+#EXTINF:-1 group-title="Regionali",Telejato
+https://648026e87a75e.streamlock.net/telejato/telejato/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telejonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telelaser
+https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TelelibertÃ  ( Piacenza )
+https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telelombardia (Offline)
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8
+#EXTINF:-1 group-title="Regionali",Telemajg
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/chunklist_w656612441.m3u8
+#EXTINF:-1 group-title="Regionali",Telemare  Gorizia
+https://rst.latuatv.eu:3597/hybrid/play.m3u8
+#EXTINF:-1 group-title="Regionali",Telemolise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telenord
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telenova Milano
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telenuovo (Offline)
+https://ovp2-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telerama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teleregione (TR 118)
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teleregione Color
+https://stream.antennasudwebtv.it:9443/hls/vodtele.m3u8
+#EXTINF:-1 group-title="Regionali",Telerent 7 Gold (flusso .mdp)
+https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w513650171.mpd
+#EXTINF:-1 group-title="Regionali",Telereporter
+https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telesanterno
+https://64b16f23efbee.streamlock.net/telesanterno/telesanterno/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telesirio
+https://www.telesirio.it/live/stream.m3u8
+#EXTINF:-1 group-title="Regionali",Telespazio Tv
+https://5f22d76e220e1.streamlock.net/Telespaziotv/Telespaziotv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telestar Siracusa (Offline)
+https://media.streambrothers.com:19360/8534/8534.m3u8
+#EXTINF:-1 group-title="Regionali",Telestense
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/chunklist_w530758405.m3u8
+#EXTINF:-1 group-title="Regionali",Telesud3 Trapani
+https://64b16f23efbee.streamlock.net/asdfgh/asdfgh/chunklist_w1777515764.m3u8
+#EXTINF:-1 group-title="Regionali",Telesveva
+https://live2.telesveva.com:4443/hls/svevahd.m3u8
+#EXTINF:-1 group-title="Regionali",Teletricolore
+http://api.new.livestream.com/accounts/701633/events/4147166/live.m3u8
+#EXTINF:-1 group-title="Regionali",Teletrullo 80
+https://80.teletrullo.tv/hls/teletrullo2.m3u8
+#EXTINF:-1 group-title="Regionali",Teletruria
+https://streamcdnb2-cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Teleuniverso
+https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
+#EXTINF:-1 group-title="Regionali",Teleuropa Network (TEN)
+https://streamcdnb2-7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Televaldarno RTV38
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Regionali",Televallo
+https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Terre Euganee Channel
+https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Trc Santeramo
+https://stream7.livinlive.it/trc/trc/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Trentino Tv
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Triveneta (Offline)
+http://217.61.26.46:8080/hls/triveneta.m3u8
+#EXTINF:-1 group-title="Regionali",Trsp (Televisione Radio San Pietro)
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tsn Tele Sondrio News
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1 group-title="Regionali",Tuscia Sabina 2000
+https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tv 1 Toscana
+https://stream.mariatvcdn.com/tv1/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tv Luna Napoli
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+#EXTINF:-1 group-title="Regionali",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Tv Yes Italia
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 group-title="Regionali",Tva Vicenza
+https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Umbria + TRT
+https://diretta.umbriapiu.it:8080/show/show.m3u8
+#EXTINF:-1 group-title="Regionali",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Unica Tv
+https://streamcdnf28-db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S84376118/gnJqPnxrsLcY/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Uno4 Tv
+https://cdn.uno4.it/index.m3u8
+#EXTINF:-1 group-title="Regionali",VCO Azzurra TV
+https://ed04.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Vera TV
+https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Calabria
+https://streamcdnr1-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video M Italia
+https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Mediterraneo
+https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Novara
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8
+#EXTINF:-1 group-title="Regionali",Video Regione Sicilia
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Servizi Web Tv 1
+https://stmv1.srvif.com/nazionale1/nazionale1/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Servizi Web Tv Rete Asti
+https://stmv1.srvif.com/asti/asti/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Star TV
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Video Tele Carnia
+https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+#EXTINF:-1 group-title="Regionali",Video Touring
+https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
+#EXTINF:-1 group-title="Regionali",VideoNola
+https://videonola.aswifi.it/videonolaabr/live_hi/index.m3u8
+#EXTINF:-1 group-title="Regionali",VideoStar
+https://604e46ac2bdee.streamlock.net:1936/vds/vds/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",VideoTolentino
+https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Videolina
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Village Tv
+https://stream3.ondaweb.tv/hls/villagetv/0_1/index.m3u8
+#EXTINF:-1 group-title="Regionali",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",YVII TV
+http://80.211.72.5/hls/yviitv.m3u8
+#EXTINF:-1 group-title="Regionali",Yara Tv
+https://rst2.saiuzwebnetwork.it:8081/yaratv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Zerouno TV
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Zerouno Tv News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",tu Day
+https://stream.ets-sistemi.it:19360/tuday/tuday.m3u8
+#EXTINF:-1 group-title="Regionali",Ã¨tv +
+https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Ã¨tv Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sky",ADVENTURE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118064bcea5a4106fb2267f279f2649:279a852121432f14ea2e7c5d15401238
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781591564_f~0_g~1_s~5b010f54-ff5c-4426-9385-24e6bd23505e_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~58_x~b76dad9233d0a11dd4d13f2123b9d625/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyadventure)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",ARTE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11182a6b78e28a52ffe2608ab6c0f56a:39454b9b64b2d2a1dfa0788c9087418a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781560542_f~0_g~1_s~c84f6dcd-0bc0-4531-a597-9c205d2a2689_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~53_x~4f2ca308dfccdb5016aaed13f32c6809/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyarte)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",ATLANTIC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11184e6a02026b6f51de0ebeac7cb6eb:ac244b5a24bb0772511fbdc4d3b400bf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781640537_f~0_g~1_s~5d4944e8-527e-4aad-80ed-dd97d44c5d95_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~57_x~6b31b788a39d3a989c1c8562bb4c9d30/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyatlantic)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",COLLECTION
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111846ad1b8bb11b3f11bf7f0f170701:2cffd969c3e289c667474fdacb23bc17
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781560571_f~0_g~1_s~91b8186b-16bd-49e0-b25c-8d1efc935289_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~d6c34eacdd2d81aecae57f756f7fb811/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189afa675ae2e1ac1e39747f54e3ff:c48d5ac4621d7738f8442b6476618705
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781585429_f~0_g~1_s~42b88ced-61c1-4c44-bfed-856371a5d44c_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~40c74fc7efd1913297844fdb0d8cba7a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(comedycentral)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",CRIME
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186bcffdc1c47dbeaaa7d557002197:c84de6e52919f9c47726e75e5788f6b9
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781642425_f~0_g~1_s~673566a8-fdf9-4076-b19d-76e3f7db103e_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~54_x~37b403f0b54869b1adcda30863dca6e5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycrime)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",DOCUMENTARIES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183ce2812f8e6de76e9960791f373b:0b9a47e8dbd5bea92472cf8684a1bea7
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781642414_f~0_g~1_s~30a73345-37d2-46c7-8d4a-638864dca162_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~62_x~f9f46d3b82afbe72bd56d8d0899c4c01/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skydocumentaries)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",HISTORY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188c23784cc238e403a7ed90958795:a8a2fa68d6803452537b7862503f7b8b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781560514_f~0_g~1_s~41539d21-6d37-47b4-8fc9-d882c0249bbf_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~60_x~fa5cff4e81baf28b0014214c20c00710/nowitlin2/Content/CMAF_CTR_H1/Live/channel(historychannel)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118372f0e5a5be838da4313ddcd13a7:fb22d7ff7b1988bc71d03d033e8f34de
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781560510_f~0_g~1_s~b351aa90-fc18-4ccc-a0a7-f813ea27ce30_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~62_x~57cda38fe281283887bc11be601ef6d5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyinvestigation)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",MTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118e69d1a583898ef3362facf7964e8:d67dcac48e516e4c8b528d0e3fe23d24
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781556994_f~0_g~1_s~164a4771-6eb5-4a1c-b50d-63ed1a4a84be_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~49_x~b9c77f947cc801192b351b527f362b0d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(mtv)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",NATURE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188a583a6e01a1566d46ec707f5134:9b920f9b587e72c1edc914bff684c431
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781562662_f~0_g~1_s~3acaa5c9-488e-4f5f-9749-13719e51e3ba_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~55_x~39b36311bb0368d394364f81936cacb1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skynature)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",SERIE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183c4ad35abfd2fa351e15be2751f3:34d5e7802af83376b7869674e2692a28
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781591539_f~0_g~1_s~7744f25f-5eff-44d9-8e36-c1cc60fb551f_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~54_x~8e34e2d47260948ef94563bce6699a28/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyserie)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",SKY UNO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189b91ffdab15f5abbd9b60f2c609a:702032f22df8b1f3a2aaa924134e3361
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781640919_f~0_g~1_s~237f0afc-977d-434d-8a1e-90beea53bd4e_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~52_x~e887b014bfa19ce213d8f07d94ec9a5d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyuno)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",SKY UNO+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=111837d963caccec0b164c590eda3f71:106882727b6a74b4a5ca965f9412aa5b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781560609_f~0_g~1_s~375452f9-a08d-42c0-a9a7-1f21643d5200_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~34530c534283fc043b76bf5141a80ed0/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyunoplus)/master_2hr-all.mpd
+#EXTINF:-1 group-title="Sky",TG 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118a48358c744f5075ddd54441c9207:c0cd1f001bba58b1261d12ff04e4d5bd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781643811_f~0_g~1_s~b064a621-eaa9-410f-9e75-5c7beea5a246_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~50_x~aac11d5107c62286c59b5bd9914f5617/nowitlin2/Content/CMAF_CTR_H1/Live/channel(tg24)/master_2hr-all.mpd
