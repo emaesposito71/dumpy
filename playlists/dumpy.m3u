@@ -2963,6 +2963,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781622305~exp%3D1781708705~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=88ff96f222475f8e895ec9ff73875707:c76c530a808009e4090a84fafb976f10
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781632506~exp%3D1781718906~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D27ae0b89f92470b8cb1c3efde7f75f0269f80c9f012f5ac36f833f4a09ae7982%23wm%3D0~hmac%3Da520f1b7031dfd6ff91d414f90f0de92e347dc191ba2dfa9e34a84f18a914654/x22uweq0doy31mkk1h6az3moy/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="21:42 Iraq - Norvegia (MPD)",21:42 Iraq - Norvegia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bf0a9206ed35bf79d2f33f90f91e455:9ec707e322e44aee5db26adaf275d310
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781646310~exp%3D1781732710~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D0b2ce23c1fae038c35471187bade5656f744ebe2bdf18b82f558123ac07f3458%23wm%3D0~hmac%3D4c90b46396b5fee8b42be23d0af1e0263d9fb51873f3104a265713210de34075/1n4uwnoprtla31okt9a79dtmsj/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
