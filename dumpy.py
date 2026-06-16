@@ -610,12 +610,6 @@ if __name__ == "__main__":
             print(f"{len(streams)} canali")
             all_channels.extend(streams)
 
-        # Dedup
-        before = len(all_channels)
-        all_channels = dedup_channels(all_channels)
-        if before != len(all_channels):
-            print(f"  Dedup: {before} → {len(all_channels)} (-{before - len(all_channels)})")
-
         # Sort by group, then title
         all_channels.sort(key=lambda c: (c[5], c[0]))
 
