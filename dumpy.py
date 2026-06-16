@@ -14,6 +14,7 @@ import os
 import gzip
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from ssl import create_default_context, CERT_NONE
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -116,6 +117,59 @@ def fix_b64(s):
     return s + "=" * (-len(s) % 4)
 
 
+def split_clearkey_pairs(value):
+    """Return valid ClearKey pairs from a string like kid:key,kid2:key2."""
+    pairs = []
+    for part in value.split(","):
+        part = part.strip()
+        if ":" not in part:
+            return []
+        kid, key = part.split(":", 1)
+        kid = kid.strip()
+        key = key.strip()
+        if not re.fullmatch(r"[0-9a-fA-F]{32}", kid):
+            return []
+        if not re.fullmatch(r"[0-9a-fA-F]{32}", key):
+            return []
+        pairs.append((kid, key))
+    return pairs
+
+
+def extract_clearkey_from_ck_param(url):
+    """Extract ClearKey from ck= query parameter, if it is base64 kid:key.
+
+    Returns (kid, key) using the existing channel tuple convention:
+    - single key: kid, key
+    - multiple keys: first_kid, "first_key,kid2:key2,..."
+    """
+    try:
+        query = urlsplit(url).query
+        for name, value in parse_qsl(query, keep_blank_values=True):
+            if name.lower() != "ck" or not value:
+                continue
+            decoded = base64.b64decode(fix_b64(value)).decode("utf-8")
+            pairs = split_clearkey_pairs(decoded)
+            if not pairs:
+                return "", ""
+            first_kid, first_key = pairs[0]
+            if len(pairs) == 1:
+                return first_kid, first_key
+            rest = ",".join(f"{kid}:{key}" for kid, key in pairs[1:])
+            return first_kid, f"{first_key},{rest}"
+    except Exception:
+        return "", ""
+    return "", ""
+
+
+def remove_query_param(url, param_name):
+    """Remove a query parameter from URL."""
+    parts = urlsplit(url)
+    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+             if k.lower() != param_name.lower()]
+    return urlunsplit((parts.scheme, parts.netloc, parts.path,
+                       urlencode(query, doseq=True), parts.fragment))
+
+
 def get_stream_headers(url):
     """Return stream headers string based on URL domain."""
     u = url.lower()
@@ -141,6 +195,16 @@ def make_channel(title, url, group, fmt="mpd", kid="", key="", headers=""):
     """Create a normalized channel tuple."""
     # Clean pipe from URL
     clean_url = url.split("|")[0] if "|" in url and fmt == "mpd" else url
+
+    # OTT Navigator non interpreta automaticamente parametri URL tipo ck=BASE64(KID:KEY).
+    # Se il canale non ha già ClearKey esplicita, la estraiamo in modo conservativo.
+    if fmt == "mpd" and not (kid and key) and CFG.get("EXTRACT_CK_PARAM", True):
+        ck_kid, ck_key = extract_clearkey_from_ck_param(clean_url)
+        if ck_kid and ck_key:
+            kid, key = ck_kid, ck_key
+            if CFG.get("REMOVE_CK_PARAM", False):
+                clean_url = remove_query_param(clean_url, "ck")
+
     return (clean_title(title), clean_url, kid, key, headers, group, fmt)
 
 
