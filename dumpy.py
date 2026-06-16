@@ -570,7 +570,13 @@ def write_m3u(channels, path, epg_url=""):
         f.write(header + "\n")
 
         for title, url, kid, key, headers_str, group, fmt in channels:
-            f.write(f'#EXTINF:-1 group-title="{group}",{title}\n')
+            tvg_id, tvg_logo = find_epg_meta(title)
+            attrs = [f'group-title="{group}"', f'tvg-name="{title}"']
+            if tvg_id:
+                attrs.append(f'tvg-id="{tvg_id}"')
+            if tvg_logo:
+                attrs.append(f'tvg-logo="{tvg_logo}"')
+            f.write(f'#EXTINF:-1 {" ".join(attrs)},{title}\n')
 
             if fmt == "mpd":
                 f.write('#KODIPROP:inputstream.adaptive.manifest_type=mpd\n')
@@ -593,32 +599,28 @@ def write_m3u(channels, path, epg_url=""):
 
 
 # ---------------------------------------------------------------------------
-# Unified playlist ordering
+# Unified playlist ordering for OTT Navigator
 # ---------------------------------------------------------------------------
 
-MACRO_ORDER = {
-    "INTRATTENIMENTO": 0,
-    "SPORT": 1,
-    "EVENTI": 2,
-}
+# OTT Navigator mostra i group-title come categorie piatte, non come cartelle
+# annidate. Usiamo quindi categorie semplici, ordinate con prefisso numerico.
 
 LANG_ORDER = {
     "ITA": 0,
-    "ITA+ESP": 1,
-    "ITA+NED": 2,
-    "MULTI": 3,
-    "ENG": 4,
-    "ESP": 5,
-    "FRA": 6,
-    "GER": 7,
-    "POL": 8,
-    "POR": 9,
-    "HRV": 10,
-    "SRB": 11,
-    "NED": 12,
-    "GRE": 13,
-    "TUR": 14,
-    "ARA": 15,
+    "ENG": 1,
+    "ESP": 2,
+    "FRA": 3,
+    "GER": 4,
+    "POL": 5,
+    "POR": 6,
+    "HRV": 7,
+    "SRB": 8,
+    "NED": 9,
+    "GRE": 10,
+    "TUR": 11,
+    "ARA": 12,
+    "SWE": 13,
+    "MULTI": 14,
     "MIX": 99,
 }
 
@@ -642,17 +644,48 @@ LANG_NORMALIZE = {
     "SLV": "SLO",
 }
 
-ITALIAN_ENTERTAINMENT_GROUPS = {
-    "DTT Italia", "Mediaset", "Sky", "News", "Regionali", "ITA Estero",
+ITA_PROVIDER_ORDER = {
+    "SKY": 1,
+    "SKY SPORT": 2,
+    "DAZN": 3,
+    "EUROSPORT": 4,
+    "RAI": 5,
+    "MEDIASET": 6,
+    "LA7": 7,
+    "DTT ITALIA": 8,
+    "NEWS": 9,
+    "REGIONALI": 10,
+    "RSI": 11,
+    "ITALIA ESTERO": 12,
+    "SPORT": 13,
+    "ALTRO": 19,
 }
 
-ITALIAN_SPORT_GROUPS = {
-    "Sky Sport", "EuroSport",
+LANG_LABEL = {
+    "ITA": "ITA",
+    "ENG": "ENG",
+    "ESP": "ESP",
+    "FRA": "FRA",
+    "GER": "GER",
+    "POL": "POL",
+    "POR": "POR",
+    "HRV": "HRV",
+    "SRB": "SRB",
+    "NED": "NED",
+    "GRE": "GRE",
+    "TUR": "TUR",
+    "ARA": "ARA",
+    "SWE": "SWE",
+    "MULTI": "MULTI",
+    "MIX": "MIX",
 }
+
+EPG_LOGOS = {}
+EPG_IDS = {}
+EXTERNAL_LOGOS = {}
 
 
 def detect_macro(source_playlist, group, title):
-    """Return top-level category for the unified playlist."""
     if source_playlist == "eventi":
         return "EVENTI"
     if source_playlist == "sport":
@@ -685,20 +718,150 @@ def detect_language(source_playlist, group, title):
     if found:
         if len(found) == 1:
             return found[0]
-        if "ITA" in found and len(found) == 2:
-            other = [x for x in found if x != "ITA"][0]
-            return f"ITA+{other}"
+        if "ITA" in found:
+            return "ITA"
         return "MULTI"
 
-    if group in ITALIAN_ENTERTAINMENT_GROUPS:
-        return "ITA"
-    if group in ITALIAN_SPORT_GROUPS:
+    if group in {"DTT Italia", "Mediaset", "Sky", "News", "Regionali", "ITA Estero", "Sky Sport", "EuroSport"}:
         return "ITA"
     if source_playlist == "eventi":
         return "MIX"
-    if group in {"Italy Sports", "Sport MPD"}:
-        return "MIX"
     return "MIX"
+
+
+def detect_provider(group, title, url=""):
+    t = title.upper().strip()
+    u = url.lower()
+
+    if group == "Sky":
+        return "SKY"
+    if group == "Sky Sport":
+        return "SKY SPORT"
+    if group == "Mediaset":
+        return "MEDIASET"
+    if group == "DTT Italia":
+        return "DTT ITALIA"
+    if group == "News":
+        return "NEWS"
+    if group == "Regionali":
+        return "REGIONALI"
+    if group == "EuroSport":
+        return "EUROSPORT"
+
+    # Canali italiani/estero: prova a raggruppare per brand reale.
+    if group == "ITA Estero":
+        if t.startswith("RAI"):
+            return "RAI"
+        if any(x in t for x in ("CANALE 5", "ITALIA 1", "RETE 4", "MEDIASET", "GF ")):
+            return "MEDIASET"
+        if t.startswith("LA7"):
+            return "LA7"
+        if t.startswith("RSI"):
+            return "RSI"
+        if "MTV" in t:
+            return "MTV"
+        return "ITALIA ESTERO"
+
+    # Sport italiani o misti.
+    if "DAZN" in t or "dazn" in u:
+        return "DAZN"
+    if "EUROSPORT" in t or "eurosport" in u:
+        return "EUROSPORT"
+    if t.startswith("SKY "):
+        return "SKY SPORT" if "SPORT" in t else "SKY"
+    if t.startswith("ARENA SPORT"):
+        return "ARENA SPORT"
+    if t.startswith("BLUE SPORT"):
+        return "BLUE SPORT"
+    if t.startswith("SUPER TENNIS") or t.startswith("SUPERTENNIS"):
+        return "SUPERTENNIS"
+    if t.startswith("NBA"):
+        return "NBA"
+    if t.startswith("NFL"):
+        return "NFL"
+
+    if group in {"Italy Sports", "Sport MPD"}:
+        return "SPORT"
+    if group == "Calcio":
+        return "EVENTI"
+    return group.upper() if group else "ALTRO"
+
+
+def normalize_channel_title(title, group, provider):
+    """Sistema nomi troppo generici, soprattutto Sky/Sky Sport."""
+    original = title.strip()
+    t = original.upper()
+
+    if provider == "SKY SPORT":
+        if t.startswith("SKY SPORT"):
+            return original
+        if t.startswith("SPORT "):
+            return "SKY " + original
+        return "SKY SPORT " + original
+
+    if provider == "SKY":
+        if t.startswith("SKY "):
+            return original
+        if t == "TG 24":
+            return "SKY TG24"
+        if t == "SKY UNO+":
+            return original
+        return "SKY " + original
+
+    if provider == "DAZN":
+        return re.sub(r"\bdazn\b", "DAZN", original, flags=re.I)
+
+    if provider == "EUROSPORT":
+        return re.sub(r"\beurosport\b", "EuroSport", original, flags=re.I)
+
+    if provider == "RAI":
+        return re.sub(r"\brai\b", "Rai", original, flags=re.I)
+
+    return original
+
+
+def category_name(source_playlist, group, title, url=""):
+    """Categoria piatta e compatta per OTT Navigator.
+
+    Non usiamo pseudo-sottocartelle nel group-title perché OTT Navigator
+    le mostra come categorie separate. I prefissi numerici servono solo
+    a mantenere l'ordine desiderato nell'app.
+    """
+    macro = detect_macro(source_playlist, group, title)
+    lang = detect_language(source_playlist, group, title)
+    provider = detect_provider(group, title, url)
+
+    if macro == "EVENTI":
+        return "30 EVENTI"
+
+    if provider == "SKY":
+        return "01 SKY"
+    if provider == "SKY SPORT":
+        return "02 SKY SPORT"
+    if provider == "DAZN":
+        return "03 DAZN"
+    if provider == "EUROSPORT":
+        return "04 EUROSPORT"
+    if provider == "RAI":
+        return "05 RAI"
+    if provider == "MEDIASET":
+        return "06 MEDIASET"
+    if provider == "LA7":
+        return "07 LA7"
+    if provider == "DTT ITALIA":
+        return "08 DTT ITALIA"
+    if provider == "NEWS":
+        return "09 NEWS"
+
+    # Sport italiano riconosciuto ma non appartenente ai provider principali.
+    if macro == "SPORT" and lang == "ITA":
+        return "10 SPORT ITALIA"
+
+    # Tutto il resto dello sport, italiano incerto/misto/estero.
+    if macro == "SPORT":
+        return "20 SPORT ESTERO"
+
+    return "90 ALTRO"
 
 
 def normalize_title_for_sort(title):
@@ -706,21 +869,18 @@ def normalize_title_for_sort(title):
     return tuple(int(p) if p.isdigit() else p for p in parts)
 
 
-def unified_group(source_playlist, group, title):
-    macro = detect_macro(source_playlist, group, title)
-    lang = detect_language(source_playlist, group, title)
-    return macro, lang, f"{macro} | {lang} | {group or 'Altro'}"
-
-
 def unified_sort_key(item):
     source_playlist, channel = item
     title, url, kid, key, headers_str, group, fmt = channel
-    macro, lang, new_group = unified_group(source_playlist, group, title)
+    cat = category_name(source_playlist, group, title, url)
+    lang = detect_language(source_playlist, group, title)
+    provider = detect_provider(group, title, url)
+    display_title = normalize_channel_title(title, group, provider)
     return (
-        MACRO_ORDER.get(macro, 99),
-        LANG_ORDER.get(lang, 50),
-        new_group.upper(),
-        normalize_title_for_sort(title),
+        cat,
+        LANG_ORDER.get(lang, 99),
+        provider,
+        normalize_title_for_sort(display_title),
         source_playlist,
     )
 
@@ -730,14 +890,177 @@ def build_unified_channels(source_channels):
     unified = []
     for source_playlist, channel in source_channels:
         title, url, kid, key, headers_str, group, fmt = channel
-        macro, lang, new_group = unified_group(source_playlist, group, title)
-        unified.append((title, url, kid, key, headers_str, new_group, fmt))
+        provider = detect_provider(group, title, url)
+        display_title = normalize_channel_title(title, group, provider)
+        new_group = category_name(source_playlist, group, title, url)
+        unified.append((display_title, url, kid, key, headers_str, new_group, fmt))
     return unified
+
+
+def epg_norm(value):
+    value = (value or "").upper()
+    value = re.sub(r"^IT\s*-\s*", "", value)
+    value = value.replace("+", " PLUS")
+    value = re.sub(r"[^A-Z0-9]+", " ", value)
+    value = re.sub(r"\bTV\b", "", value)
+    value = re.sub(r"\s+", " ", value).strip()
+
+    # Alcune normalizzazioni comuni.
+    value = value.replace("20 MEDIASET", "MEDIASET 20")
+    value = value.replace("27 TWENTYSEVEN", "MEDIASET 27 TWENTYSEVEN")
+    value = value.replace("SKY TG 24", "SKY TG24")
+    value = value.replace("LA 7", "LA7")
+    value = re.sub(r"\b(ITA|ENG|ESP|FRA|GER|POL|HRV|SWE|MIX|MPD)$", "", value).strip()
+    return value
+
+
+def load_epg_logos(epg_path):
+    """Load tvg-id/logo from epg.xml when available."""
+    logos = {}
+    ids = {}
+    if not os.path.exists(epg_path):
+        return logos, ids
+    try:
+        import xml.etree.ElementTree as ET
+        root = ET.parse(epg_path).getroot()
+        for ch in root.findall("channel"):
+            ch_id = ch.get("id", "")
+            icon = ch.find("icon")
+            logo = icon.get("src") if icon is not None else ""
+            if not logo:
+                continue
+            names = [dn.text or "" for dn in ch.findall("display-name")]
+            for name in names:
+                n = epg_norm(name)
+                if n:
+                    logos.setdefault(n, logo)
+                    ids.setdefault(n, ch_id)
+    except Exception as e:
+        print(f"  EPG logo map non disponibile: {e}")
+    return logos, ids
+
+
+
+def load_external_logos():
+    """Load optional external logo index from config.
+
+    The script intentionally does not hardcode any logo repository URL.
+    Configure these keys in CONFIG if you want to enable it:
+      - LOGO_ENABLED: true
+      - LOGO_TREE_URL: JSON URL with a GitHub-like tree: {"tree":[{"path":"..."}]}
+      - LOGO_RAW_BASE_URL: raw base URL used to build final logo URL
+      - LOGO_PATH_PREFIXES: optional list of allowed path prefixes
+      - LOGO_OVERRIDES: optional map {"Channel Name": "relative/path.png" or "https://..."}
+    """
+    if not CFG.get("LOGO_ENABLED", False):
+        return {}
+
+    raw_base = CFG.get("LOGO_RAW_BASE_URL", "").rstrip("/")
+    tree_url = CFG.get("LOGO_TREE_URL", "")
+    prefixes = CFG.get("LOGO_PATH_PREFIXES", []) or []
+    exts = tuple(e.lower() for e in CFG.get("LOGO_EXTENSIONS", [".png", ".jpg", ".jpeg", ".webp", ".svg"]))
+    logos = {}
+
+    def add_logo(name, logo_url):
+        norm = epg_norm(name)
+        if norm and logo_url:
+            logos.setdefault(norm, logo_url)
+
+    # Manual overrides from config. Useful for special channel names.
+    for name, path in CFG.get("LOGO_OVERRIDES", {}).items():
+        if isinstance(path, str) and path.startswith(("http://", "https://")):
+            add_logo(name, path)
+        elif raw_base and isinstance(path, str):
+            add_logo(name, f"{raw_base}/{path.lstrip('/')}")
+
+    if not tree_url or not raw_base:
+        return logos
+
+    try:
+        data = json.loads(http_get(tree_url, headers={"Accept": "application/vnd.github+json"}, timeout=30))
+        for item in data.get("tree", []):
+            path = item.get("path", "")
+            if item.get("type") not in ("blob", "file", None):
+                continue
+            low = path.lower()
+            if not low.endswith(exts):
+                continue
+            if prefixes and not any(path.startswith(prefix) for prefix in prefixes):
+                continue
+            if path.startswith(".git"):
+                continue
+
+            logo_url = f"{raw_base}/{path}"
+            base = os.path.basename(path).rsplit(".", 1)[0]
+
+            # Match both basename and path-derived name.
+            add_logo(base, logo_url)
+            add_logo(path.rsplit(".", 1)[0].replace("/", " "), logo_url)
+            add_logo(base.replace("_", " ").replace("-", " "), logo_url)
+    except Exception as e:
+        print(f"  Logo esterni non disponibili: {e}")
+
+    return logos
+
+
+def title_logo_candidates(title):
+    """Generate normalized candidates for logo matching."""
+    candidates = []
+    n = epg_norm(title)
+    if n:
+        candidates.append(n)
+
+    # Remove provider prefixes for fallback matches.
+    for prefix in ("SKY ", "SKY SPORT ", "MEDIASET "):
+        if n.startswith(prefix):
+            candidates.append(n[len(prefix):])
+
+    # Eventi tipo "Team A - Team B" possono avere file "team_a_vs_team_b".
+    event = re.sub(r"\s+-\s+", " VS ", title, flags=re.I)
+    ne = epg_norm(event)
+    if ne and ne != n:
+        candidates.append(ne)
+
+    aliases = {
+        "SKY SPORT 24": "SKY SPORT24",
+        "SKY TG24": "SKY TG24",
+        "CANALE 5": "CANALE 5",
+        "ITALIA 1": "ITALIA 1",
+        "RETE 4": "RETE 4",
+        "27 TWENTYSEVEN": "MEDIASET 27 TWENTYSEVEN",
+        "MEDIASET 20": "MEDIASET 20",
+        "EUROSPORT 1": "EUROSPORT 1",
+        "EUROSPORT 2": "EUROSPORT 2",
+        "EUROSPORT 3": "EUROSPORT 3",
+        "EUROSPORT 4": "EUROSPORT 4",
+        "EUROSPORT 5": "EUROSPORT 5",
+        "EUROSPORT 6": "EUROSPORT 6",
+        "LA7 CINEMA": "LA7D",
+    }
+    if n in aliases:
+        candidates.append(aliases[n])
+
+    return list(dict.fromkeys(candidates))
+
+def find_epg_meta(title):
+    """Return (tvg_id, tvg_logo) best-effort from EPG and optional external logos."""
+    candidates = title_logo_candidates(title)
+
+    for c in candidates:
+        if c in EPG_LOGOS:
+            return EPG_IDS.get(c, ""), EPG_LOGOS[c]
+
+    for c in candidates:
+        if c in EXTERNAL_LOGOS:
+            return "", EXTERNAL_LOGOS[c]
+
+    return "", ""
 
 
 # ---------------------------------------------------------------------------
 # EPG
 # ---------------------------------------------------------------------------
+
 
 def download_epg(epg_path):
     try:
@@ -802,15 +1125,24 @@ if __name__ == "__main__":
     source_channels.sort(key=unified_sort_key)
     unified_channels = build_unified_channels(source_channels)
 
+    # EPG prima della playlist: se disponibile, viene usato anche per tvg-id/tvg-logo.
+    print(f"\n{'─' * 60}")
+    print("📡 EPG")
+    download_epg(epg_path)
+    epg_logos, epg_ids = load_epg_logos(epg_path)
+    EPG_LOGOS.update(epg_logos)
+    EPG_IDS.update(epg_ids)
+    print(f"  Loghi EPG indicizzati: {len(EPG_LOGOS)}")
+
+    external_logos = load_external_logos()
+    EXTERNAL_LOGOS.update(external_logos)
+    if CFG.get("LOGO_ENABLED", False):
+        print(f"  Loghi esterni indicizzati: {len(EXTERNAL_LOGOS)}")
+
     m3u_path = os.path.join(out_dir, "dumpy.m3u")
     print(f"\n{'─' * 60}")
     print("🧩 Playlist unica ordinata")
     write_m3u(unified_channels, m3u_path, epg_url="epg.xml")
-
-    # EPG
-    print(f"\n{'─' * 60}")
-    print("📡 EPG")
-    download_epg(epg_path)
 
     print(f"\n{'=' * 60}")
     print(f"✅ FATTO! {len(unified_channels)} canali totali in playlists/dumpy.m3u")
