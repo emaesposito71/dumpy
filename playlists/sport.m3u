@@ -1,4 +1,35 @@
 #EXTM3U url-tvg="epg.xml"
+#EXTINF:-1 group-title="EuroSport",EuroSport 1 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+#EXTINF:-1 group-title="EuroSport",EuroSport 2 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+#EXTINF:-1 group-title="EuroSport",EuroSport 3 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd7709359db4103ae799d5f8d79ae0b:6d39ec4186bed97705274a6c78c69d94
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
+#EXTINF:-1 group-title="EuroSport",EuroSport 4 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=026e140de784409b9c437fcc0212977c:6f5ad01fa42deede99ae7c6ccf5215d7
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
+#EXTINF:-1 group-title="EuroSport",EuroSport 4K (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ceae06c6ad34aada83ba86c0b511452:406862beb4af1ef8fe04ba15d9936360,fcd924bd2e45470fa2ae50ef05e357c0:266db84d3572bc889185274a90ff31df,dea135e33341468f8a4e8da806d8a6e6:fb7423db39e6fab75056f8c83f415847,31911db90ee3410f8b38e45659d01fb1:ac316ab7dfd2b50faf6d44633e4fedd5,a16f2a39adbb4974b8910cec8a651a09:c2d55e0111af955f47214af209a2c468
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4k)/manifest.mpd
+#EXTINF:-1 group-title="EuroSport",EuroSport 5 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6844bc96d46e4677a322cd4838705489:6b483aa12ba85bad2e84efb4bc6a9893
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
+#EXTINF:-1 group-title="EuroSport",EuroSport 6 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69982165690d4fef90d3f4d4e245fc27:49711e568736d9ae3ea7993571c9bcce
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 1 (Sky Sport Calcio - IT)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 10
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/10/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -101,6 +132,9 @@ https://1nyaler.streamhostingcdn.top/stream/129/index.m3u8?token=aN7QrmHIoz60HOh
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 13 (Bein Sport 8 Max)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 130 (Sky Spotrt Uno - IT)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 131 (Movistar Deportes - ES)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/131/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -116,6 +150,9 @@ https://1nyaler.streamhostingcdn.top/stream/134/index.m3u8?token=aN7QrmHIoz60HOh
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 135
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/135/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 136
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/136/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 137
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/137/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -131,6 +168,9 @@ https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 140
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/140/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 141
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/141/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 142
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/142/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -266,21 +306,69 @@ https://1nyaler.streamhostingcdn.top/stream/181/index.m3u8?token=aN7QrmHIoz60HOh
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 182
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/182/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 183
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/183/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 184
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/184/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 185
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/185/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 186
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/186/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 187
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/187/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 188
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/188/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 189
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/189/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 19 (Bein Sport 3)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 190
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/190/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 191
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/191/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 192
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/192/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 193
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/193/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 194
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/194/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 195
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/195/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 196
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/196/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 197
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/197/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 198
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/198/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 199
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/199/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 20 (Bein Sport 2)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 200
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/200/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 21 (Bein Sport 2 - FR)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -374,6 +462,9 @@ https://1nyaler.streamhostingcdn.top/stream/48/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 49 (Cosmote Sport 5)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/49/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Mediahosting",CHANNEL 5 (DAZN 1 - IT)
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
+https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Mediahosting",CHANNEL 50 (Cosmote Sport 3)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/50/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -682,7 +773,7 @@ https://pcoamislongx.s3-accelerate.amazonaws.com/commanders_720p60.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",DAZN
-https://lovely.lovetier.bz/ZonaDAZN/tracks-v1a1/mono.m3u8?token=Wm9uYURBWk58bm9fY2hlY2tfaXB8MTc4MTU2OTIxMA==.83f25498647461a141d395d641497413a8e59211770e4ee0d4b1f807e8849355
+https://lovely.lovetier.bz/ZonaDAZN/tracks-v1a1/mono.m3u8?token=Wm9uYURBWk58bm9fY2hlY2tfaXB8MTc4MTU2OTQ0NQ==.1785d26864ec8bd477eef16d7df737b84b835ca372b1fe35f54440a9104f167d
 #EXTINF:-1 group-title="Sky Sport",SPORT 24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111818c434b48263e6fed0d62a0bc01a:6ac97ddc137ad88f151bd6a2151d6b29
@@ -771,12 +862,12 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781556962_f~0_g~1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/334/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport 24
-https://lovely.lovetier.bz/SkySport24IT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnQyNElUfG5vX2NoZWNrX2lwfDE3ODE1NjkyMDY=.31d55bcd8751f7689b5263dfc5b3422a239bd404e70d89fd6e5ce7e3867e93e3
+https://lovely.lovetier.bz/SkySport24IT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnQyNElUfG5vX2NoZWNrX2lwfDE3ODE1Njk0NDA=.1d5ce0d5d6b047f9bfaa80d38221198af24594da8e6fd8b091d804effc1183cd
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Arena
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/331/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Arena
-https://lovely.lovetier.bz/SkySportArenaIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRBcmVuYUlUfG5vX2NoZWNrX2lwfDE3ODE1NjkyMDc=.7c69c4d68787f4369bef20e26df337838bdbd0b84377d53d6b07c82a2c08ae79
+https://lovely.lovetier.bz/SkySportArenaIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRBcmVuYUlUfG5vX2NoZWNrX2lwfDE3ODE1Njk0NDE=.b5993de5bc0bc786c9d5a9133cff53c6551421ccd16f7f0d88c870f809bc0b60
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Basket
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/335/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -786,17 +877,17 @@ https://community.lovetier.bz/SkySportNBAIT/index.m3u8?token=U2t5U3BvcnROQkFJVHx
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Calcio
-https://lovely.lovetier.bz/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzgxNTY5MjEw.595773972584a9398534913e8bb87f6f708c35a03369849243266f0667e8b915
+https://lovely.lovetier.bz/SkySportCalcioIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRDYWxjaW9JVHxub19jaGVja19pcHwxNzgxNTY5NDQ1.721f9500eaeefbe2600962ae0b0a88e270a62569ec036ddda42298241d6946fc
 #EXTINF:-1 group-title="Sky Sport",Sky Sport F1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/327/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport F1
-https://lovely.lovetier.bz/SkySportF1IT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRGMUlUfG5vX2NoZWNrX2lwfDE3ODE1NjkyMDg=.b0fb8ca1b73134a637b6f021532fa39a2710f0680fbe9ce97ccdea8676e7191c
+https://lovely.lovetier.bz/SkySportF1IT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRGMUlUfG5vX2NoZWNrX2lwfDE3ODE1Njk0NDM=.00c0a3f1cab18c4e6449f5905805dfaf3d6f2004c2abeb3dd458804ecd056ee7
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Golf
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/237/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Golf
-https://lovely.lovetier.bz/SkySportGolfIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRHb2xmSVR8bm9fY2hlY2tfaXB8MTc4MTU2OTIwOQ==.e9960a31c1004d60f29b899239c73e565492f28e1dff5ec79177cf10c8c713de
+https://lovely.lovetier.bz/SkySportGolfIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRHb2xmSVR8bm9fY2hlY2tfaXB8MTc4MTU2OTQ0NA==.537cdb8c5e67c1cf958b34fd2d2166e04ac4a666f7b6ad3f8c5604e786065870
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Legend
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/336/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -804,7 +895,7 @@ https://1nyaler.streamhostingcdn.top/stream/336/index.m3u8?token=aN7QrmHIoz60HOh
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/332/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Max
-https://lovely.lovetier.bz/SkySportMaxIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRNYXhJVHxub19jaGVja19pcHwxNzgxNTY5MjA3.1ad7ea91f2f6c200cadcb8f5af589703865f0a1631e458bfe3d663f2dbbac4d8
+https://lovely.lovetier.bz/SkySportMaxIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRNYXhJVHxub19jaGVja19pcHwxNzgxNTY5NDQy.7bed290e8ce382b52c3524516f070c1dc15616acb249a0a8185ee376ea16eb8c
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Mix
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/337/index.m3u8?token=aN7QrmHIoz60HOhI
@@ -812,17 +903,17 @@ https://1nyaler.streamhostingcdn.top/stream/337/index.m3u8?token=aN7QrmHIoz60HOh
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/330/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport MotoGP
-https://lovely.lovetier.bz/SkySportMotoGPIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRNb3RvR1BJVHxub19jaGVja19pcHwxNzgxNTY5MjA4.164cf20cc1f16a36ef6e7ab8271f0e41d407d756a9951cbabee920b4c286a7c0
+https://lovely.lovetier.bz/SkySportMotoGPIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRNb3RvR1BJVHxub19jaGVja19pcHwxNzgxNTY5NDQ0.d62243ebbe17c3562894f260a85e3e422d157f3f5867c0809a80b73cab9e44c5
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Tennis
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/329/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Tennis
-https://lovely.lovetier.bz/SkySportTennisIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRUZW5uaXNJVHxub19jaGVja19pcHwxNzgxNTY5MjA4.29d529b5178f6b0d6d1cfdbd4e01e2cc26ccd9c44c834cd9ba1869c2c1038d6f
+https://lovely.lovetier.bz/SkySportTennisIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRUZW5uaXNJVHxub19jaGVja19pcHwxNzgxNTY5NDQy.c7e6d9558831e3fb57a1ac245d99b22520ba0c823c697f0125da486ab89e8d5e
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Uno
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://mediahosting.space/&Origin=https://mediahosting.space/
 https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sky Sport",Sky Sport Uno
-https://lovely.lovetier.bz/SkySportUnoIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzgxNTY5MjA2.905604c23693fae537648797660d8bb1d47a0f40cb980bf6abbc709beb19d239
+https://lovely.lovetier.bz/SkySportUnoIT/tracks-v1a1/mono.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzgxNTY5NDQx.82e1da2a983fe9c1929c79cea5b3b4deb0ffa47b792b9f9ebe5cbaf0c2134371
 #EXTINF:-1 group-title="Sport CDN",ES: DAZN 1 FHD
 https://1nyaler.streamhostingcdn.top/stream/201/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sport CDN",ES: DAZN 2 FHD
@@ -923,6 +1014,8 @@ https://1nyaler.streamhostingcdn.top/stream/239/index.m3u8?token=aN7QrmHIoz60HOh
 https://1nyaler.streamhostingcdn.top/stream/232/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sport CDN",IT: Sky Sport F1
 https://1nyaler.streamhostingcdn.top/stream/231/index.m3u8?token=aN7QrmHIoz60HOhI
+#EXTINF:-1 group-title="Sport CDN",IT: Sky Sport Golf
+https://1nyaler.streamhostingcdn.top/stream/237/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sport CDN",IT: Sky Sport Legend
 https://1nyaler.streamhostingcdn.top/stream/240/index.m3u8?token=aN7QrmHIoz60HOhI
 #EXTINF:-1 group-title="Sport CDN",IT: Sky Sport Max
@@ -972,7 +1065,11 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",5 SPORT 🇮🇱
 http://185.132.134.159:80/sport1/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",5 SPORT 🇮🇱
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",5 SPORT 🇮🇱
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",5 SPORT 🇮🇱
+http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",6 SPORT 🇮🇱
 http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",ARENA SPORT 1 🇨🇿
@@ -987,6 +1084,8 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 http://169.150.223.25/ArenaPremium1HD/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Arena Premium 1 HD 🇷🇸
 http://79.127.207.193:80/ArenaPremium1HD/playlist.m3u8
+#EXTINF:-1 group-title="Sport M3U",Arena Premium 1 HD 🇷🇸
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Arena Premium 2 HD 🇷🇸
 http://169.150.223.25/ArenaPremium2HD/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Arena Premium 2 HD 🇷🇸
@@ -1099,6 +1198,10 @@ http://84.54.128.52:9090/play/13001/index.m3u8
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Bein Sport 3 🇫🇷
 http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",CANAL + Sport 🇫🇷
 http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",CAZE TV 1 🇧🇷
@@ -1117,6 +1220,8 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",DSPORTS 1 🇦🇷
 http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",DSPORTS 🇦🇷
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Dazn 1 🇵🇹
@@ -1181,6 +1286,8 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",IDMANTV 🇹🇷
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport M3U",IDMANTV 🇹🇷
+https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b2231548857bf0a078bb6387e8830040aa18cee-1ee342667d60c2ac2e8f0c594cf33331-1753218237000000-1753207437000
 #EXTINF:-1 group-title="Sport M3U",INFOSPORT 🇫🇷
 http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",IRIB3 🇮🇷
@@ -1189,6 +1296,8 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",JOJ Sport 2 🇸🇰
 http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",KCMN-LD6 🇻🇳
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 group-title="Sport M3U",KSport 1 HD 🇦🇱
 http://79.127.207.193:80/KSport1/playlist.m3u8
 #EXTINF:-1 group-title="Sport M3U",KSport 2 HD 🇦🇱
@@ -1209,6 +1318,8 @@ http://dvr1.kablova.tv/M4/index.m3u8
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
 #EXTINF:-1 group-title="Sport M3U",MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_47.m3u8
+#EXTINF:-1 group-title="Sport M3U",MASR 🇶🇦
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",MASR 🇶🇦
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",MAXSPORT_1 🇭🇷
@@ -1285,6 +1396,8 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",SPORTYTV 🇨🇿
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",Setanta Sport 2 🇬🇪
+http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Setanta Sport 2 🇬🇪
 http://94.43.1.138:8081/setanta2/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Setanta Sport 🇺🇦
@@ -1421,6 +1534,10 @@ http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",Varzesh TV 🇮🇷
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Varzesh TV 🇸🇦
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",WIN SPORT 🇨🇴
@@ -1441,18 +1558,30 @@ http://84.54.128.52:9090/play/13004/index.m3u8
 http://84.54.128.52:9090/play/1004/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",beIN SPORTS 1 🇶🇦
 http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="Sport M3U",beIN SPORTS 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="Sport M3U",beIN SPORTS 🇲🇦
 http://154.197.91.169:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="Sport M3U",bein 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 group-title="Sport M3U",bein_sd_1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="Sport M3U",smart1 🇹🇷
 http://65.108.239.207/smart1/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",smart2 🇹🇷
 http://65.108.239.207/smart2/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Беларусь 5 🇧🇾
 http://cdntv.online/low/9mlxywika2/778.m3u8
+#EXTINF:-1 group-title="Sport M3U",Беларусь 5 🇧🇾
+http://cdntv.online/low/9mlxywika2/778.m3u8
 #EXTINF:-1 group-title="Sport M3U",МАТЧ! ФУТБOЛ 1HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/55.m3u8
 #EXTINF:-1 group-title="Sport M3U",МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 group-title="Sport M3U",МАТЧ! ФУТБOЛ 2HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/56.m3u8
+#EXTINF:-1 group-title="Sport M3U",МАТЧ! ФУТБOЛ 3HD 🇷🇺
+http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 group-title="Sport M3U",МАТЧ! ФУТБOЛ 3HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 group-title="Sport M3U",Матч! Футбол 3 HD 🇷🇺
@@ -1472,7 +1601,15 @@ http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="Sport M3U",Матч! 🇷🇺
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport M3U",Матч! 🇷🇺
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport M3U",Матч! 🇷🇺
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 group-title="Sport M3U",Матч! 🇷🇺
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 group-title="Sport M3U",Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Sport M3U",Матч! 🇷🇺
+http://cdntv.online/low/9mlxywika2/48.m3u8
 #EXTINF:-1 group-title="Sport M3U",Суспільне Kiev Спорт HD 🇺🇦
 https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
 #EXTINF:-1 group-title="Sport M3U",Футбол 3 (SD) 🇷🇺
@@ -1481,8 +1618,24 @@ http://185.57.68.33:80/110/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=325daf9ae36d550da1a42c645dc110dd:085a5a1b5595f7492d804dab2c406287,47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c,0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
 https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
+#EXTINF:-1 group-title="Sport MPD",3 CAT (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=325daf9ae36d550da1a42c645dc110dd:085a5a1b5595f7492d804dab2c406287,47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c,0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
+https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd
 #EXTINF:-1 group-title="Sport MPD",6TER (FRA)
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+#EXTINF:-1 group-title="Sport MPD",6TER (FRA)
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+#EXTINF:-1 group-title="Sport MPD",ACL CORNHOLE (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-508/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",ACL CORNHOLE (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-515/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",ACL CORNHOLE (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
@@ -1497,6 +1650,14 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-515/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9002ec8c3dbc55c5bccdcd6871d80fd0:7099325123bae7810db508727bb0bc7d,712090aae2065c21951b170bc3002330:a97774e4175b80205c3cf104e9574208
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 1 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9002ec8c3dbc55c5bccdcd6871d80fd0:7099325123bae7810db508727bb0bc7d,712090aae2065c21951b170bc3002330:a97774e4175b80205c3cf104e9574208
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 2 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d256b403efcc5c3db701fc696885e102:d46e4215e279b224e9d2a772db9c74a1,c5e5ac1b3cc15fe790f1bc96535fe329:3defe59c38079ccad25a436200ad3bd7
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",ARENA SPORT 2 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d256b403efcc5c3db701fc696885e102:d46e4215e279b224e9d2a772db9c74a1,c5e5ac1b3cc15fe790f1bc96535fe329:3defe59c38079ccad25a436200ad3bd7
@@ -1505,6 +1666,14 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=25c3df3202005cc98c47700295be59ca:073f5a39d84dd14a9debd1a72bb1f055,3bedf4a896695958907e0984165090f0:a58317ffddf318f1540f31f67d95b5fb,ccebefcba0a3546ba34d3fc587651708:18f2b2027ce26867c23dcd7f57faa245
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 3 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=25c3df3202005cc98c47700295be59ca:073f5a39d84dd14a9debd1a72bb1f055,3bedf4a896695958907e0984165090f0:a58317ffddf318f1540f31f67d95b5fb,ccebefcba0a3546ba34d3fc587651708:18f2b2027ce26867c23dcd7f57faa245
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 4 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d1dc54692e5b4fb5995fc0953bf5bf:31b8953ab60b90fefc93d9bd1b806fbc,68cd661dbc8352fda000c532840f6340:0255fb620f4f707ea7ba090058718306
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",ARENA SPORT 4 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d1dc54692e5b4fb5995fc0953bf5bf:31b8953ab60b90fefc93d9bd1b806fbc,68cd661dbc8352fda000c532840f6340:0255fb620f4f707ea7ba090058718306
@@ -1513,6 +1682,14 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34a709bbeac052f293c778c0770829fd:2b801fde1ad4839d4080d6ec6b0ec4cee473ec5d96f45a9f9a22eb665b5b1ea9:ace54ce15b69d249b00395c9e6b85b90
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 5 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34a709bbeac052f293c778c0770829fd:2b801fde1ad4839d4080d6ec6b0ec4cee473ec5d96f45a9f9a22eb665b5b1ea9:ace54ce15b69d249b00395c9e6b85b90
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 6 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bfd8ff04a3625fcea8335c9575401697:769d61a2d6fd7030a5088df2e70c26545a86e42c58cf5d008546861c0f0fb22a:67b1172a05bcb38a91a304d7098ce7f5
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",ARENA SPORT 6 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfd8ff04a3625fcea8335c9575401697:769d61a2d6fd7030a5088df2e70c26545a86e42c58cf5d008546861c0f0fb22a:67b1172a05bcb38a91a304d7098ce7f5
@@ -1521,6 +1698,14 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d4b5005dbd355559b3c7fe4dae1fb05:10e65a5b74158216190e654cdf05b584,5998265ef8fc5748822fef96229831aa:9110b6be31b4bbdce67374bae3395269
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 7 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d4b5005dbd355559b3c7fe4dae1fb05:10e65a5b74158216190e654cdf05b584,5998265ef8fc5748822fef96229831aa:9110b6be31b4bbdce67374bae3395269
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ARENA SPORT 8 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6fc5b27b74e5b8e82ca19da484eb174:51f8fd5eef736dccaea9235b621731e7,b9e9546bc9ba52d1a75fba9222efa7f5:2cec65c6b79be6c2d4481c6e0ef79bfc
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",ARENA SPORT 8 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6fc5b27b74e5b8e82ca19da484eb174:51f8fd5eef736dccaea9235b621731e7,b9e9546bc9ba52d1a75fba9222efa7f5:2cec65c6b79be6c2d4481c6e0ef79bfc
@@ -1529,6 +1714,14 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41c7579e600258b18dc099d15b3d98a4:949108e0652065214eccde89a1d51210,feaac16af596581f95f3cf14d9ffcbe9:f43096d1accd63771f6b4aaafe15e26d,69835a5f5b9851b6b1a20a195aa0b845:fc888aecf3ece044c37b2c8b0e672a69
 https://bpkcdn.telekom.me/bpk-tv/arenasport_1/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 1 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c7579e600258b18dc099d15b3d98a4:949108e0652065214eccde89a1d51210,feaac16af596581f95f3cf14d9ffcbe9:f43096d1accd63771f6b4aaafe15e26d,69835a5f5b9851b6b1a20a195aa0b845:fc888aecf3ece044c37b2c8b0e672a69
+https://bpkcdn.telekom.me/bpk-tv/arenasport_1/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 1 Premium (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Arena Sport 1 Premium (RS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddf7a6d83eb05ab48a757b638244af57:720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
@@ -1537,6 +1730,14 @@ https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2715a673d0b852cb9a90df0bc273a6d3:ece2c709dfb339878f24d7628dd27754,88f1e3719e755b52850204d5cb8dac69:09b443affb969cd1319086fb1c065bb2,fc8cac5ecac451448489687848066465:a79cfd6121cb66555eeb92f3d4012480
 https://bpkcdn.telekom.me/bpk-tv/arenasport_10/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 10 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2715a673d0b852cb9a90df0bc273a6d3:ece2c709dfb339878f24d7628dd27754,88f1e3719e755b52850204d5cb8dac69:09b443affb969cd1319086fb1c065bb2,fc8cac5ecac451448489687848066465:a79cfd6121cb66555eeb92f3d4012480
+https://bpkcdn.telekom.me/bpk-tv/arenasport_10/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 2 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16c25e879df45ec298524e7d21404a98:80fe93c754faaebc8e8bdbfad7cfc107,4bd0cff22dc85ea5b225d7f9a952e965:acf2c5ff11f481972e0f5ceb979b25bb,0e496cb5280256678de0ac8c4a3f6eac:b70540aeb2f3609c9c3b69bffed51f50
+https://bpkcdn.telekom.me/bpk-tv/arenasport_2/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Arena Sport 2 (RS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16c25e879df45ec298524e7d21404a98:80fe93c754faaebc8e8bdbfad7cfc107,4bd0cff22dc85ea5b225d7f9a952e965:acf2c5ff11f481972e0f5ceb979b25bb,0e496cb5280256678de0ac8c4a3f6eac:b70540aeb2f3609c9c3b69bffed51f50
@@ -1545,6 +1746,14 @@ https://bpkcdn.telekom.me/bpk-tv/arenasport_2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50e2b92181a35cd9a603bf398660e5c7:0779f9325ccbb29b5926793236a1537d,dc5ff1824cd650569eb2252dce236b67:55e89387b90d67f0fe7b8f7845c3b9e6,39a06f8583d25d1dbf62a4cee3170342:5976017af75ba543275891b960e403ab
 https://bpkcdn.telekom.me/bpk-tv/arena_premium_2/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 2 Premium (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50e2b92181a35cd9a603bf398660e5c7:0779f9325ccbb29b5926793236a1537d,dc5ff1824cd650569eb2252dce236b67:55e89387b90d67f0fe7b8f7845c3b9e6,39a06f8583d25d1dbf62a4cee3170342:5976017af75ba543275891b960e403ab
+https://bpkcdn.telekom.me/bpk-tv/arena_premium_2/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 3 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b56ffef5277f53ee897b6cd5f9f1592a:5e47506c9c41dbfe2b2c363c849d0580,1b15f7f038925b8cb24114202aa57ef9:8e1eaab640fc730bf61981e5da56d23c,f2bdc52385035dbf8d604bfcbbc7c331:83e12c55225e86dfb2ab80b315b10f35
+https://bpkcdn.telekom.me/bpk-tv/arenasport_3/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Arena Sport 3 (RS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b56ffef5277f53ee897b6cd5f9f1592a:5e47506c9c41dbfe2b2c363c849d0580,1b15f7f038925b8cb24114202aa57ef9:8e1eaab640fc730bf61981e5da56d23c,f2bdc52385035dbf8d604bfcbbc7c331:83e12c55225e86dfb2ab80b315b10f35
@@ -1553,6 +1762,14 @@ https://bpkcdn.telekom.me/bpk-tv/arenasport_3/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83bbb54e895350c8b0a427fd37708c2d:6b8697bea26aeea2295f958893b5ae15,7e6b68480d655385925932de025210c9:ca2b051c5333722a1af9bf3815bcc76c,0208912a7ff35a8faec820a2e7ce1a27:fdd2b16fdbf20b29c161008b71c4f7c8
 https://bpkcdn.telekom.me/bpk-tv/arenasport_4/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 4 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83bbb54e895350c8b0a427fd37708c2d:6b8697bea26aeea2295f958893b5ae15,7e6b68480d655385925932de025210c9:ca2b051c5333722a1af9bf3815bcc76c,0208912a7ff35a8faec820a2e7ce1a27:fdd2b16fdbf20b29c161008b71c4f7c8
+https://bpkcdn.telekom.me/bpk-tv/arenasport_4/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 5 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a12f07778add595c995a042b07a215c1:b1cf1115e304e49b86c419c39d72f30d,d7fcd530af715898ae723a8b26a1f0d8:4d5747ecae8d16025e03de6188c60f18,2ab81af790b05af097f0a28c80a3197a:a186f78a570edfa81f331d35604ea30d
+https://bpkcdn.telekom.me/bpk-tv/arenasport_5/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Arena Sport 5 (RS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a12f07778add595c995a042b07a215c1:b1cf1115e304e49b86c419c39d72f30d,d7fcd530af715898ae723a8b26a1f0d8:4d5747ecae8d16025e03de6188c60f18,2ab81af790b05af097f0a28c80a3197a:a186f78a570edfa81f331d35604ea30d
@@ -1561,6 +1778,14 @@ https://bpkcdn.telekom.me/bpk-tv/arenasport_5/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4027767195c75c43b4467c8b201f2bb1:92ea546360c6d3e57a476fab293cb5c8,7469ff6e477e53b68dc0579914b245f0:ef31f822ff8011e0773f0c14673744a1,0e66a3e432e25bdf802316df8583c596:f0c31e7787e533ef4cebd586b44b3484
 https://bpkcdn.telekom.me/bpk-tv/arenasport_6/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 6 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4027767195c75c43b4467c8b201f2bb1:92ea546360c6d3e57a476fab293cb5c8,7469ff6e477e53b68dc0579914b245f0:ef31f822ff8011e0773f0c14673744a1,0e66a3e432e25bdf802316df8583c596:f0c31e7787e533ef4cebd586b44b3484
+https://bpkcdn.telekom.me/bpk-tv/arenasport_6/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 7 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81051832458d509db363f4a5aed1a472:a98dabbda32a86e1548b0b7c563acd71,1d04472a796c539b820a063bea92b1df:550726f74926d3c53fb827dba16eb1fc,afea1cecda505388975694ab0f44e6cd:6583df90f3471ba63e284f43d7597450
+https://bpkcdn.telekom.me/bpk-tv/arenasport_7/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Arena Sport 7 (RS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81051832458d509db363f4a5aed1a472:a98dabbda32a86e1548b0b7c563acd71,1d04472a796c539b820a063bea92b1df:550726f74926d3c53fb827dba16eb1fc,afea1cecda505388975694ab0f44e6cd:6583df90f3471ba63e284f43d7597450
@@ -1569,6 +1794,14 @@ https://bpkcdn.telekom.me/bpk-tv/arenasport_7/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bdfbe0295bd157b39b40e745ba157a6f:397706ac43ef0f6c141cf6821f6c83a9,566342eb1d7f5963b0e9910af774904c:d734c76eaf118805c83aa622b5862073,5ea142af4e4258bd8be14a5a99d3eb57:dd97325699a16cba5bcb97164b76e7b8
 https://bpkcdn.telekom.me/bpk-tv/arenasport_8/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 8 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdfbe0295bd157b39b40e745ba157a6f:397706ac43ef0f6c141cf6821f6c83a9,566342eb1d7f5963b0e9910af774904c:d734c76eaf118805c83aa622b5862073,5ea142af4e4258bd8be14a5a99d3eb57:dd97325699a16cba5bcb97164b76e7b8
+https://bpkcdn.telekom.me/bpk-tv/arenasport_8/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Arena Sport 9 (RS)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1520e24803351a5bc943ffd1f1454fa:7f6e46a065b9b5e2e8ce1ecd5211d3b4,726dde62b9215a10bc81ec2dd7405ff1:3277540ba4de3dd477e9058a32153098,03b34fed16da58448bd6cb72f251a3df:0a61e7516e978815639d4d2d672ac5dc
+https://bpkcdn.telekom.me/bpk-tv/arenasport_9/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Arena Sport 9 (RS)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1520e24803351a5bc943ffd1f1454fa:7f6e46a065b9b5e2e8ce1ecd5211d3b4,726dde62b9215a10bc81ec2dd7405ff1:3277540ba4de3dd477e9058a32153098,03b34fed16da58448bd6cb72f251a3df:0a61e7516e978815639d4d2d672ac5dc
@@ -1577,10 +1810,22 @@ https://bpkcdn.telekom.me/bpk-tv/arenasport_9/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",BEIN SPORT 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",BEIN SPORT 2 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",BEIN SPORT 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",BEIN SPORT 3 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",BEIN SPORT 3 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -1590,8 +1835,19 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-511/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",BILLIARD TV (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-511/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",BLUE ZOOM (GER)
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+#EXTINF:-1 group-title="Sport MPD",BLUE ZOOM (GER)
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 1 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c65a49e0c4ea4bf7046b87fa684c201:2c6a7193ca4257a0f97b2f2e9ff79191
+https://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228661/3221228661.mpd
 #EXTINF:-1 group-title="Sport MPD",Bundesliga 1 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c65a49e0c4ea4bf7046b87fa684c201:2c6a7193ca4257a0f97b2f2e9ff79191
@@ -1600,6 +1856,14 @@ https://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052e9a002969a41bb5040d49c3eab07f:df5d71fcf352db55c4980ab6eeb00009
 https://svc40.main.sl.t-online.de/LCID3221228655.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228655/3221228655.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 2 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=052e9a002969a41bb5040d49c3eab07f:df5d71fcf352db55c4980ab6eeb00009
+https://svc40.main.sl.t-online.de/LCID3221228655.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228655/3221228655.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 3 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44c62bb2b4349f4918c5a31ab2419d8e:bb71ca68a858478d2b683330815daaea
+https://svc40.main.sl.t-online.de/LCID3221228662.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228662/3221228662.mpd
 #EXTINF:-1 group-title="Sport MPD",Bundesliga 3 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44c62bb2b4349f4918c5a31ab2419d8e:bb71ca68a858478d2b683330815daaea
@@ -1608,6 +1872,14 @@ https://svc40.main.sl.t-online.de/LCID3221228662.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9ae8f417abf8b4e4d243bf768219771:1525ae01784daf73d7fb378ff7623669
 https://svc40.main.sl.t-online.de/LCID3221228652.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228652/3221228652.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 4 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9ae8f417abf8b4e4d243bf768219771:1525ae01784daf73d7fb378ff7623669
+https://svc40.main.sl.t-online.de/LCID3221228652.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228652/3221228652.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 5 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a588a0dcc057c909d9e04203d190baa:c326c15fc1b909ada0929d1d6cb66933
+https://svc40.main.sl.t-online.de/LCID3221228656.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228656/3221228656.mpd
 #EXTINF:-1 group-title="Sport MPD",Bundesliga 5 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a588a0dcc057c909d9e04203d190baa:c326c15fc1b909ada0929d1d6cb66933
@@ -1616,6 +1888,14 @@ https://svc40.main.sl.t-online.de/LCID3221228656.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bbe925286e5f259610c7161e75ac109:a1211314d6db4692f75200894e5fb091
 https://svc40.main.sl.t-online.de/LCID3221228657.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228657/3221228657.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 6 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bbe925286e5f259610c7161e75ac109:a1211314d6db4692f75200894e5fb091
+https://svc40.main.sl.t-online.de/LCID3221228657.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228657/3221228657.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 7 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f93774693227c32e1ff7aaf038758d69:60bcf4c42dff2d4a073ff7bda177b5a7
+https://svc40.main.sl.t-online.de/LCID3221228658.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228658/3221228658.mpd
 #EXTINF:-1 group-title="Sport MPD",Bundesliga 7 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f93774693227c32e1ff7aaf038758d69:60bcf4c42dff2d4a073ff7bda177b5a7
@@ -1624,6 +1904,14 @@ https://svc40.main.sl.t-online.de/LCID3221228658.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b515a54f277731478899911227339:5350da39164e676184b82f30953cf0a9
 https://linear204-de-dash1-prd-ak.cdn12.skycdp.com/bced/032129-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Bundesliga 8 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b515a54f277731478899911227339:5350da39164e676184b82f30953cf0a9
+https://linear204-de-dash1-prd-ak.cdn12.skycdp.com/bced/032129-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",CBS SPORT (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",CBS SPORT (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
@@ -1632,6 +1920,14 @@ https://netskrt.live.pv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d760edc9d9203f0d8548dcae7e3d94f5:89e05206f61f1044bc05d83cdcdc8b5d
 https://ocdn.antennaplus.gr/live/media0/Sports1/Dash/Sports1.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 1 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d760edc9d9203f0d8548dcae7e3d94f5:89e05206f61f1044bc05d83cdcdc8b5d
+https://ocdn.antennaplus.gr/live/media0/Sports1/Dash/Sports1.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 2 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8364963648f03fdc896f0f5bd10625ff:77d4de2b86dcdcbedeba738aa4639410
+https://ocdn.antennaplus.gr/live/media0/Sports2/Dash/Sports2.mpd
 #EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 2 (GR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8364963648f03fdc896f0f5bd10625ff:77d4de2b86dcdcbedeba738aa4639410
@@ -1640,6 +1936,14 @@ https://ocdn.antennaplus.gr/live/media0/Sports2/Dash/Sports2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccdc61dfeb333bf3b1940205fa6d7893:10999001dbc80aca9a63b40e960fb217
 https://ocdn.antennaplus.gr/live/media0/Sports3/Dash/Sports3.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 3 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccdc61dfeb333bf3b1940205fa6d7893:10999001dbc80aca9a63b40e960fb217
+https://ocdn.antennaplus.gr/live/media0/Sports3/Dash/Sports3.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 4 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05d12515d8d138ab8cf1337594d9e45b:31b5b2ed0a13cb9b54260b4a0a169f98
+https://ocdn.antennaplus.gr/live/media0/Sports4/Dash/Sports4.mpd
 #EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 4 (GR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05d12515d8d138ab8cf1337594d9e45b:31b5b2ed0a13cb9b54260b4a0a169f98
@@ -1648,6 +1952,14 @@ https://ocdn.antennaplus.gr/live/media0/Sports4/Dash/Sports4.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d50097783cb0389c86f5121d1696a7d2:e06ee1d3afdb56c923e42d232060af82
 https://ocdn.antennaplus.gr/live/media0/Sports5/Dash/Sports5.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 5 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d50097783cb0389c86f5121d1696a7d2:e06ee1d3afdb56c923e42d232060af82
+https://ocdn.antennaplus.gr/live/media0/Sports5/Dash/Sports5.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 6 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2e0d3ee63fe3c62884e377b42073fac:309a229b2d158579b9336ec180a2e155
+https://ocdn.antennaplus.gr/live/media0/Sports6/Dash/Sports6.mpd
 #EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 6 (GR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2e0d3ee63fe3c62884e377b42073fac:309a229b2d158579b9336ec180a2e155
@@ -1656,6 +1968,14 @@ https://ocdn.antennaplus.gr/live/media0/Sports6/Dash/Sports6.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f620d764ca63eadad50adb01de3c397:4846d1401895d7a4f797b941e509606b
 https://ocdn.antennaplus.gr/live/media0/Sports7/Dash/Sports7.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 7 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f620d764ca63eadad50adb01de3c397:4846d1401895d7a4f797b941e509606b
+https://ocdn.antennaplus.gr/live/media0/Sports7/Dash/Sports7.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 8 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6df9c0790f743961990bba94bd9bbae7:8132ba97efd64cd8233c6cbfdcbea49f
+https://ocdn.antennaplus.gr/live/media0/Sports8/Dash/Sports8.mpd
 #EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 8 (GR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6df9c0790f743961990bba94bd9bbae7:8132ba97efd64cd8233c6cbfdcbea49f
@@ -1664,8 +1984,18 @@ https://ocdn.antennaplus.gr/live/media0/Sports8/Dash/Sports8.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca7e73a605b835228e64dd2baeff8cab:1d17fe78f69d57e59c24eb3f0e3ce38f
 https://ocdn.antennaplus.gr/live/media0/Sports9/Dash/Sports9.mpd
+#EXTINF:-1 group-title="Sport MPD",COSMOTE SPORT 9 (GR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca7e73a605b835228e64dd2baeff8cab:1d17fe78f69d57e59c24eb3f0e3ce38f
+https://ocdn.antennaplus.gr/live/media0/Sports9/Dash/Sports9.mpd
 #EXTINF:-1 group-title="Sport MPD",DAS ERSTE (GER)
 https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw478084596_1838232048/PLTV/42/224/3221236630/3221236630.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7E3OhOYyBSpefKAS5sSyWSYw817cd03cb55d434e83ee28e1f0d2705e%7ERzl1g9hfnw8WtxPdEj54BTKlVN6Z8vTV3cM2zrdLNzC9HKVjppDyw0ga7VK-MK_2ef468faac70bc64e605ef754082fe432%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601215206%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601215206%2C3103_ARD_%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717278726&from=16&hms_devid=895&online=1717278726&mag_hms=895,298&_=1717278756113
+#EXTINF:-1 group-title="Sport MPD",DAS ERSTE (GER)
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw478084596_1838232048/PLTV/42/224/3221236630/3221236630.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7E3OhOYyBSpefKAS5sSyWSYw817cd03cb55d434e83ee28e1f0d2705e%7ERzl1g9hfnw8WtxPdEj54BTKlVN6Z8vTV3cM2zrdLNzC9HKVjppDyw0ga7VK-MK_2ef468faac70bc64e605ef754082fe432%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601215206%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601215206%2C3103_ARD_%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717278726&from=16&hms_devid=895&online=1717278726&mag_hms=895,298&_=1717278756113
+#EXTINF:-1 group-title="Sport MPD",DAZN 1 (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",DAZN 1 (ESP)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
@@ -1674,6 +2004,14 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 1 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 2 (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",DAZN 2 (ESP)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
@@ -1682,6 +2020,14 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 2 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 3 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",DAZN 3 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
@@ -1690,10 +2036,22 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 4 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",DAZN 5 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d931d671884145dfb392be0cade5088c:beee3956b769c39f00fa3ce84a2efaba
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 5 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d931d671884145dfb392be0cade5088c:beee3956b769c39f00fa3ce84a2efaba
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",DAZN 6 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2736d4bb70174ef6814f979fcee0ce24:7e0daaeac661e7446403ef6ab45abfcd
+http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",DAZN 6 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2736d4bb70174ef6814f979fcee0ce24:7e0daaeac661e7446403ef6ab45abfcd
@@ -1703,10 +2061,24 @@ http://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$526/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",DAZN BOXE (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",DAZN F1 (ESP)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",DAZN F1 (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",DAZN FAST+ (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",DAZN FAST+ (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
@@ -1717,6 +2089,16 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",DAZN PGA (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",DAZN RISE (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",DAZN RISE (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
@@ -1724,14 +2106,28 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",DMAX (ITA)
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 group-title="Sport MPD",DMAX (ITA)
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 group-title="Sport MPD",DUBAI SPORT 1 (ENG)
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk.m3u8
+#EXTINF:-1 group-title="Sport MPD",DUBAI SPORT 1 (ENG)
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk.m3u8
+#EXTINF:-1 group-title="Sport MPD",DUBAI SPORT 2 (ENG)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunk.m3u8
 #EXTINF:-1 group-title="Sport MPD",DUBAI SPORT 2 (ENG)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunk.m3u8
 #EXTINF:-1 group-title="Sport MPD",ESPN (NL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f8188ea91070593e7893ceba1e96296:085a2a1601de23d829d59e2158a821df
 https://bpm.tv.delta.nl/live/3036/3036_live.isml/playlist.mpd?bk-network=ftth-mobile
+#EXTINF:-1 group-title="Sport MPD",ESPN (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f8188ea91070593e7893ceba1e96296:085a2a1601de23d829d59e2158a821df
+https://bpm.tv.delta.nl/live/3036/3036_live.isml/playlist.mpd?bk-network=ftth-mobile
+#EXTINF:-1 group-title="Sport MPD",ESPN 1 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 #EXTINF:-1 group-title="Sport MPD",ESPN 1 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
@@ -1744,6 +2140,18 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 1 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 1 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 2 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 #EXTINF:-1 group-title="Sport MPD",ESPN 2 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
@@ -1752,6 +2160,14 @@ https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=479c3d94b58ddde64950d6470e985988:25051a0217e322e685a080d76d3465ad
 https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd?bk-network=ftth-mobile
+#EXTINF:-1 group-title="Sport MPD",ESPN 2 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=479c3d94b58ddde64950d6470e985988:25051a0217e322e685a080d76d3465ad
+https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd?bk-network=ftth-mobile
+#EXTINF:-1 group-title="Sport MPD",ESPN 2 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",ESPN 2 (SPA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
@@ -1760,6 +2176,14 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 3 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 3 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82a17b1e98bfc1c323117a1b1a0319ee:a554d3a4d071a38ca895fe5ee63586a8
+https://bpm.tv.delta.nl/live/3038/3038_live.isml/playlist.mpd?bk-network=ftth-mobile
 #EXTINF:-1 group-title="Sport MPD",ESPN 3 (NL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82a17b1e98bfc1c323117a1b1a0319ee:a554d3a4d071a38ca895fe5ee63586a8
@@ -1768,6 +2192,14 @@ https://bpm.tv.delta.nl/live/3038/3038_live.isml/playlist.mpd?bk-network=ftth-mo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 3 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_3_HD)/master.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 4 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 #EXTINF:-1 group-title="Sport MPD",ESPN 4 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
@@ -1776,6 +2208,14 @@ https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN4HDH265/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88634692e57956c5eeb4e7928558060e:63e6a59ea65b436ea4cde41ba73c0f64
 https://bpm.tv.delta.nl/live/3039/3039_live.isml/playlist.mpd?bk-network=ftth-mobile
+#EXTINF:-1 group-title="Sport MPD",ESPN 4 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88634692e57956c5eeb4e7928558060e:63e6a59ea65b436ea4cde41ba73c0f64
+https://bpm.tv.delta.nl/live/3039/3039_live.isml/playlist.mpd?bk-network=ftth-mobile
+#EXTINF:-1 group-title="Sport MPD",ESPN 4 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",ESPN 4 (SPA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
@@ -1784,6 +2224,14 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 5 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 6 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",ESPN 6 (SPA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
@@ -1792,6 +2240,14 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",ESPN 7 (SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",Eleven Sport 1 (PL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=751db0bb03145084973c6cf9c85fa16e:6571153c39eed18c29cdc63eb83c553a,4853dbe4c4cf51f3ba95424c6e6f69c7:39c0346198bc9b1614eb319115afdb84,fd9b5f8ae64a51edacd4f245ef515287:c867d24646b170b5c0e0556b56b291d7
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Eleven Sport 1 (PL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=751db0bb03145084973c6cf9c85fa16e:6571153c39eed18c29cdc63eb83c553a,4853dbe4c4cf51f3ba95424c6e6f69c7:39c0346198bc9b1614eb319115afdb84,fd9b5f8ae64a51edacd4f245ef515287:c867d24646b170b5c0e0556b56b291d7
@@ -1800,6 +2256,14 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef5e40e00d43450bbeeb40c6849e0309:614c349de0e08585c7b503568cacd5a1
 https://lb2.pluscdn.pl/ch/1522637/357/dash/b929c9fb/live.mpd
+#EXTINF:-1 group-title="Sport MPD",Eleven Sport 1 4K (PL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef5e40e00d43450bbeeb40c6849e0309:614c349de0e08585c7b503568cacd5a1
+https://lb2.pluscdn.pl/ch/1522637/357/dash/b929c9fb/live.mpd
+#EXTINF:-1 group-title="Sport MPD",Eleven Sport 2 (PL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a118a928ea39552f976c8fad437f71ad:f58fb7a53ee86de9d0b9823446ba9756,78f826af752f54ddbc4ad9959ff2a42d:c1479ffada263000730d627a989e96ab,95c2aefadb7e522c9deeed393207f853:16e857224e16ab01a3c549212cdbdbb8
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Eleven Sport 2 (PL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a118a928ea39552f976c8fad437f71ad:f58fb7a53ee86de9d0b9823446ba9756,78f826af752f54ddbc4ad9959ff2a42d:c1479ffada263000730d627a989e96ab,95c2aefadb7e522c9deeed393207f853:16e857224e16ab01a3c549212cdbdbb8
@@ -1808,6 +2272,14 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3dd9d531eee578fbd08c87de8ab84d5:133e5a170236f4ba5930f5ba4213ee03,e3a9d5c27a6d5eac955daf5a1a640c69:4c2e674f97ff33c5de13032b92e78bc9,d895d50a5a0f55758d31f247e6743815:9f4882e56631edb0da1c7bf1e0fa4904
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports3/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Eleven Sport 3 (PL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3dd9d531eee578fbd08c87de8ab84d5:133e5a170236f4ba5930f5ba4213ee03,e3a9d5c27a6d5eac955daf5a1a640c69:4c2e674f97ff33c5de13032b92e78bc9,d895d50a5a0f55758d31f247e6743815:9f4882e56631edb0da1c7bf1e0fa4904
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports3/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Eleven Sport 4 (PL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a7d8f8dbee564981beb470f22b529b:a0e341fec141f8733c0805f5480762ba,14e62b5f16385a139e2a1c747b8b1cc4:0cece074b5f3fabc76fc9ed109b3819d,37b0bbf897ad5bd5a3ec19b5a91f54f9:3e84e6b93e19197d5aea59ef8ad9d270
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports4/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Eleven Sport 4 (PL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=54a7d8f8dbee564981beb470f22b529b:a0e341fec141f8733c0805f5480762ba,14e62b5f16385a139e2a1c747b8b1cc4:0cece074b5f3fabc76fc9ed109b3819d,37b0bbf897ad5bd5a3ec19b5a91f54f9:3e84e6b93e19197d5aea59ef8ad9d270
@@ -1816,6 +2288,14 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports4/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://idx1.karmakurama.com/firstlokal1/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://idx1.karmakurama.com/firstlokal1/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 1 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",EuroSport 1 (ITA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
@@ -1824,6 +2304,14 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 2 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 3 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd7709359db4103ae799d5f8d79ae0b:6d39ec4186bed97705274a6c78c69d94
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",EuroSport 3 (ITA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fd7709359db4103ae799d5f8d79ae0b:6d39ec4186bed97705274a6c78c69d94
@@ -1832,6 +2320,14 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=026e140de784409b9c437fcc0212977c:6f5ad01fa42deede99ae7c6ccf5215d7
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 4 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=026e140de784409b9c437fcc0212977c:6f5ad01fa42deede99ae7c6ccf5215d7
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 4K (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ceae06c6ad34aada83ba86c0b511452:406862beb4af1ef8fe04ba15d9936360,fcd924bd2e45470fa2ae50ef05e357c0:266db84d3572bc889185274a90ff31df,dea135e33341468f8a4e8da806d8a6e6:fb7423db39e6fab75056f8c83f415847,31911db90ee3410f8b38e45659d01fb1:ac316ab7dfd2b50faf6d44633e4fedd5,a16f2a39adbb4974b8910cec8a651a09:c2d55e0111af955f47214af209a2c468
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4k)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",EuroSport 4K (ITA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ceae06c6ad34aada83ba86c0b511452:406862beb4af1ef8fe04ba15d9936360,fcd924bd2e45470fa2ae50ef05e357c0:266db84d3572bc889185274a90ff31df,dea135e33341468f8a4e8da806d8a6e6:fb7423db39e6fab75056f8c83f415847,31911db90ee3410f8b38e45659d01fb1:ac316ab7dfd2b50faf6d44633e4fedd5,a16f2a39adbb4974b8910cec8a651a09:c2d55e0111af955f47214af209a2c468
@@ -1840,22 +2336,46 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4k)/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6844bc96d46e4677a322cd4838705489:6b483aa12ba85bad2e84efb4bc6a9893
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 5 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6844bc96d46e4677a322cd4838705489:6b483aa12ba85bad2e84efb4bc6a9893
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",EuroSport 6 (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69982165690d4fef90d3f4d4e245fc27:49711e568736d9ae3ea7993571c9bcce
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",EuroSport 6 (ITA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69982165690d4fef90d3f4d4e245fc27:49711e568736d9ae3ea7993571c9bcce
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",FRANCE 2 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 group-title="Sport MPD",FRANCE 2 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 group-title="Sport MPD",FRANCE 3 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 #EXTINF:-1 group-title="Sport MPD",FRANCE 3 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 #EXTINF:-1 group-title="Sport MPD",FRANCE 4 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 group-title="Sport MPD",FRANCE 4 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 group-title="Sport MPD",FRANCE 5 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 group-title="Sport MPD",FRANCE 5 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:-1 group-title="Sport MPD",FUBOTV 1 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",FUBOTV 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",FUBOTV 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",FUBOTV 2 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
@@ -1872,6 +2392,14 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+#EXTINF:-1 group-title="Sport MPD",GO3 Sport 1 (LT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
+#EXTINF:-1 group-title="Sport MPD",GO3 Sport 2 (LT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
 #EXTINF:-1 group-title="Sport MPD",GO3 Sport 2 (LT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
@@ -1880,6 +2408,14 @@ https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+#EXTINF:-1 group-title="Sport MPD",GO3 Sport 3 (LT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+#EXTINF:-1 group-title="Sport MPD",GO3 Sport 4 (LT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:f47ce553d7e6e13509a4a1ab93fe4548
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 #EXTINF:-1 group-title="Sport MPD",GO3 Sport 4 (LT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:f47ce553d7e6e13509a4a1ab93fe4548
@@ -1888,6 +2424,14 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+#EXTINF:-1 group-title="Sport MPD",GO3 Sport Open (LT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+#EXTINF:-1 group-title="Sport MPD",INFOSPORT+ (FRA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b002b139dcc7149a8c1de34168332842:a77fda48fd486c153e8cb4d93a51831c
+https://viamotionhsi.netplus.ch/live/eds/infosportplus/browser-dash-VMX/infosportplus.mpd
 #EXTINF:-1 group-title="Sport MPD",INFOSPORT+ (FRA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b002b139dcc7149a8c1de34168332842:a77fda48fd486c153e8cb4d93a51831c
@@ -1896,8 +2440,18 @@ https://viamotionhsi.netplus.ch/live/eds/infosportplus/browser-dash-VMX/infospor
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",INTER TV (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",L'EQUIPE (FRA)
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
+#EXTINF:-1 group-title="Sport MPD",L'EQUIPE (FRA)
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
+#EXTINF:-1 group-title="Sport MPD",LA 1 (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd0fc341d44b5ccdaa2d03f0bedb5ddb:9724f09ead510de82908d9b44c2d8504,25c3263f252d54dead2ace331b9c72c9:27b1e0c3f5d3398d2283219bb1994f48,c0920e7ce7f453d8ad001e68ceb0645d:1580d663bc0628337f597fe135643b51
+https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
 #EXTINF:-1 group-title="Sport MPD",LA 1 (ESP)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd0fc341d44b5ccdaa2d03f0bedb5ddb:9724f09ead510de82908d9b44c2d8504,25c3263f252d54dead2ace331b9c72c9:27b1e0c3f5d3398d2283219bb1994f48,c0920e7ce7f453d8ad001e68ceb0645d:1580d663bc0628337f597fe135643b51
@@ -1906,12 +2460,26 @@ https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f,620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",LIGA TV (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f,620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",LIGA TV (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/out/v1/8086df78d3ce479e8e375147f72942c6/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",LIGA TV (ESP)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/yasjqprt7n/out/v1/8086df78d3ce479e8e375147f72942c6/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",M6 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 group-title="Sport MPD",M6 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 group-title="Sport MPD",MAGENTA 1 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3368e6befd88c7c9f8e9199f8fdaa8c2:628fc4a60f3c80e6b8a6116c7984b792
+https://svc40.main.sl.t-online.de/LCID3221228118.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228118/3221228118.mpd
 #EXTINF:-1 group-title="Sport MPD",MAGENTA 1 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3368e6befd88c7c9f8e9199f8fdaa8c2:628fc4a60f3c80e6b8a6116c7984b792
@@ -1920,6 +2488,14 @@ https://svc40.main.sl.t-online.de/LCID3221228118.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d13be1bed68becd16ce511a6a601ab6:9677f035dd3a8cfe7155e89a03527c7e
 https://svc40.main.sl.t-online.de/LCID3221228159.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228159/3221228159.mpd
+#EXTINF:-1 group-title="Sport MPD",MAGENTA 5 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d13be1bed68becd16ce511a6a601ab6:9677f035dd3a8cfe7155e89a03527c7e
+https://svc40.main.sl.t-online.de/LCID3221228159.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228159/3221228159.mpd
+#EXTINF:-1 group-title="Sport MPD",MAGENTA 8 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dec6bb8639830519594cae5083e9d555:ccbf51906f3c1554d364e5b060b463a4
+https://svc40.main.sl.t-online.de/LCID3221228134.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228134/3221228134.mpd
 #EXTINF:-1 group-title="Sport MPD",MAGENTA 8 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dec6bb8639830519594cae5083e9d555:ccbf51906f3c1554d364e5b060b463a4
@@ -1928,6 +2504,14 @@ https://svc40.main.sl.t-online.de/LCID3221228134.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=602f114e6caa09eb9ec0dc18d0b01cb0:0c433e2a2157f7c1e240ad7eac62d604
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",MILAN TV (ITA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=602f114e6caa09eb9ec0dc18d0b01cb0:0c433e2a2157f7c1e240ad7eac62d604
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",NBA TV (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",NBA TV (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
@@ -1936,6 +2520,14 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(knbc)/master.mpd
+#EXTINF:-1 group-title="Sport MPD",NBC (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(knbc)/master.mpd
+#EXTINF:-1 group-title="Sport MPD",NBC KTVB (ENG/SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f2538b413a2d72e1d315e05b1ac39a6:2d94e5c99812f3a3baec2139ccfdb0ed
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qdieceo8gt/out/v1/11ec2b980fda4bfcbd4babefd08a364f/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",NBC KTVB (ENG/SPA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f2538b413a2d72e1d315e05b1ac39a6:2d94e5c99812f3a3baec2139ccfdb0ed
@@ -1945,9 +2537,22 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qdieceo8gt/
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it/
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 group-title="Sport MPD",NBC UNIVERSO (ENG/SPA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it/
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 group-title="Sport MPD",NPO 1 (NL)
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw4129465343_-1336309813/PLTV/42/224/3221236881/3221236881.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EZsp6zyOyruGphnPtuG9GsAf3d4c3584b0c59b5ffe31c083fac4565%7E6X9VzIpNqFDl-IFGaB5Msk7vRVttLMjEuiD0vfuLNnBVOKZ0g_3LF2ITOfNsmf4Xc70605b6734b862b43b288bde6411b17%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601191813%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601191813%2C3103_TV01%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269492685&RTS=1717269493&from=16&hms_devid=304&online=1717269493&mag_hms=304,1008,311,305
 #EXTINF:-1 group-title="Sport MPD",NPO 1 (NL)
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw4129465343_-1336309813/PLTV/42/224/3221236881/3221236881.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EZsp6zyOyruGphnPtuG9GsAf3d4c3584b0c59b5ffe31c083fac4565%7E6X9VzIpNqFDl-IFGaB5Msk7vRVttLMjEuiD0vfuLNnBVOKZ0g_3LF2ITOfNsmf4Xc70605b6734b862b43b288bde6411b17%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601191813%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601191813%2C3103_TV01%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269492685&RTS=1717269493&from=16&hms_devid=304&online=1717269493&mag_hms=304,1008,311,305
 #EXTINF:-1 group-title="Sport MPD",NPO 2 (NL)
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
+#EXTINF:-1 group-title="Sport MPD",NPO 2 (NL)
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
+#EXTINF:-1 group-title="Sport MPD",NPO 3 (NL)
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
+#EXTINF:-1 group-title="Sport MPD",NPO 3 (NL)
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
 #EXTINF:-1 group-title="Sport MPD",OTHER (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1958,6 +2563,16 @@ https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-510/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",PLL (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-510/stream.mpd
+#EXTINF:-1 group-title="Sport MPD",POWER SPORTS (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-507/stream.mpd
 #EXTINF:-1 group-title="Sport MPD",POWER SPORTS (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
@@ -1967,6 +2582,14 @@ https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-507/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 1 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 2 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://abc3orwaaaaaaaamliumq7klym4kj.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 2 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
@@ -1975,6 +2598,14 @@ https://abc3orwaaaaaaaamliumq7klym4kj.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 https://abc3orwaaaaaaaamliumq7klym4kj.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 3 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://abc3orwaaaaaaaamliumq7klym4kj.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 4 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 4 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
@@ -1983,6 +2614,14 @@ https://abc3orwaaaaaaaamhpui7wlnmfqgh.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
 https://abc3orwaaaaaaaamph5ea7uktav3d.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 5 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://abc3orwaaaaaaaamph5ea7uktav3d.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 6 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 6 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
@@ -1991,6 +2630,14 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 7 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 8 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",PREMIERE SPORT 8 (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
@@ -2014,18 +2661,38 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",Premiere Sport 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",Premiere Sport 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",Premiere Sport 2 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",RADIO TV SERIE A (ITA)
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+#EXTINF:-1 group-title="Sport MPD",RADIO TV SERIE A (ITA)
+https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+#EXTINF:-1 group-title="Sport MPD",RAI SPORT (ITA)
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="Sport MPD",RAI SPORT (ITA)
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="Sport MPD",RSI LA1 (ITA)
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 group-title="Sport MPD",RSI LA1 (ITA)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 group-title="Sport MPD",RSI LA2 (ITA)
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 group-title="Sport MPD",RSI LA2 (ITA)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 group-title="Sport MPD",RTE ONE (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+https://live.rte.ie/live/a/vc11/vc11.isml/manifest.mpd
 #EXTINF:-1 group-title="Sport MPD",RTE ONE (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
@@ -2034,6 +2701,14 @@ https://live.rte.ie/live/a/vc11/vc11.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",RTE TWO (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 1 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b98b7e0f2806332ab627c0177e5708f6:62240705d69fbf3b6850bfdfab2a787a,770cf796cbf53210a7d7c414ddceeb9a:903dea32932e10161034e0fdb8b2fba8
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1be36fc4bd365e/dash_long_cenc10_ucl1_hd_index.mpd
 #EXTINF:-1 group-title="Sport MPD",RTL+ 1 (HU)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b98b7e0f2806332ab627c0177e5708f6:62240705d69fbf3b6850bfdfab2a787a,770cf796cbf53210a7d7c414ddceeb9a:903dea32932e10161034e0fdb8b2fba8
@@ -2042,6 +2717,14 @@ https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1b
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e73158c6d3d934528081c3bbecb97280:19a086ec0321f29543d60974c68d36c1,5f343a038b983cdb935477bbaff58b29:37f8b099e1c7493000d4c945ab84e8a3
 https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/dcac658c914b4c1eac3d0059b3ba6cac/dash_long_cenc10_live2_hd_index.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 2 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e73158c6d3d934528081c3bbecb97280:19a086ec0321f29543d60974c68d36c1,5f343a038b983cdb935477bbaff58b29:37f8b099e1c7493000d4c945ab84e8a3
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/dcac658c914b4c1eac3d0059b3ba6cac/dash_long_cenc10_live2_hd_index.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 3 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=399d10bc571f316d8e4f41defc2e7f68:c68a3cf508f79e40578ac50ce48411f6,02b04dc970593ce899bcb2cd1f47cb9a:94c60063d2ed6ea466725e52cab0760a
+https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/bef86dba33324e3dbccd8b864dc08605/dash_long_cenc10_live3_hd_index.mpd
 #EXTINF:-1 group-title="Sport MPD",RTL+ 3 (HU)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=399d10bc571f316d8e4f41defc2e7f68:c68a3cf508f79e40578ac50ce48411f6,02b04dc970593ce899bcb2cd1f47cb9a:94c60063d2ed6ea466725e52cab0760a
@@ -2050,6 +2733,14 @@ https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/bef86dba33324e3dbccd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=551e07d6ce5639a1a2aed6353610eac9:a043d204d49f281d0fd08fb8c083651c,1b723e7939773059a4bdd15321467e3b:d6e3a51b57ef392ead25fc09cd782ac5
 https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/f7062d248a664676b44bd1d916f757c8/dash_long_cenc10_live4_hd_index.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 4 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=551e07d6ce5639a1a2aed6353610eac9:a043d204d49f281d0fd08fb8c083651c,1b723e7939773059a4bdd15321467e3b:d6e3a51b57ef392ead25fc09cd782ac5
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/f7062d248a664676b44bd1d916f757c8/dash_long_cenc10_live4_hd_index.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 5 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd37e77d76dc359b8401fb2d44ad7ebb:2aca550343473c4bc7a27ad60635d15d,90625046d3223be99547b65151231503:7e7c48adb4b144124ae06d8a2095ffd2
+https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/c5a7d0c9dff14db29f64b6a2a0166ae1/dash_long_cenc10_live5_hd_index.mpd
 #EXTINF:-1 group-title="Sport MPD",RTL+ 5 (HU)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd37e77d76dc359b8401fb2d44ad7ebb:2aca550343473c4bc7a27ad60635d15d,90625046d3223be99547b65151231503:7e7c48adb4b144124ae06d8a2095ffd2
@@ -2058,6 +2749,14 @@ https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/c5a7d0c9dff14db29f64
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f879023b8c3434e8a5e4ae1880fd54d9:b5ce82ec1d322cdff2821972967e0732,e4651d05cdef3f16a9b365c9bfe872c8:8c60838f477925a9400e3a6ff41b0d88
 https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/8a10637eca244be4ad7fb724dbefd3e7/dash_long_cenc10_live6_hd_index.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 6 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f879023b8c3434e8a5e4ae1880fd54d9:b5ce82ec1d322cdff2821972967e0732,e4651d05cdef3f16a9b365c9bfe872c8:8c60838f477925a9400e3a6ff41b0d88
+https://origin-caf900c010ea8046-rtlhu.live.6cloud.fr/out/v1/8a10637eca244be4ad7fb724dbefd3e7/dash_long_cenc10_live6_hd_index.mpd
+#EXTINF:-1 group-title="Sport MPD",RTL+ 7 (HU)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10df2d9b58d13e9e98ddd402bfcfece5:40145c7b73416281df9fd5edabeb0a8f,0d7e99171960343fa529dd56b23121f4:1deeeac60d35f51b6450a7c4f02975ab
+https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/d58d043b4c3d4ad582e94768da0ae507/dash_long_cenc10_live7_hd_index.mpd
 #EXTINF:-1 group-title="Sport MPD",RTL+ 7 (HU)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10df2d9b58d13e9e98ddd402bfcfece5:40145c7b73416281df9fd5edabeb0a8f,0d7e99171960343fa529dd56b23121f4:1deeeac60d35f51b6450a7c4f02975ab
@@ -2066,6 +2765,14 @@ https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/d58d043b4c3d4ad582e9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
 https://linear308-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master_stereo.mpd
+#EXTINF:-1 group-title="Sport MPD",Rally TV (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+https://linear308-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master_stereo.mpd
+#EXTINF:-1 group-title="Sport MPD",SCRIPPS NEWS (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61b3e7297fb28001fb075d6ec2da1a97:1f7e62c1aca0f74f81f298f1c8459f98
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dl4dahjuyx/out/v1/6dd9220e991f4d31bbca3b54e8253ded/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",SCRIPPS NEWS (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61b3e7297fb28001fb075d6ec2da1a97:1f7e62c1aca0f74f81f298f1c8459f98
@@ -2074,6 +2781,14 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/dl4dahjuyx/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
 https://sky-nz.b-cdn.net/skysport1/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://sky-nz.b-cdn.net/skysport1/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+https://sky-nz.b-cdn.net/skysport2/master.mpd
 #EXTINF:-1 group-title="Sport MPD",SKY SPORT 2 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
@@ -2082,6 +2797,14 @@ https://sky-nz.b-cdn.net/skysport2/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
 https://sky-nz.b-cdn.net/skysport3/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 3 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://sky-nz.b-cdn.net/skysport3/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 4 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
+https://sky-nz.b-cdn.net/skysport4/master.mpd
 #EXTINF:-1 group-title="Sport MPD",SKY SPORT 4 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
@@ -2090,6 +2813,14 @@ https://sky-nz.b-cdn.net/skysport4/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
 https://sky-nz.b-cdn.net/skysport5/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 5 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
+https://sky-nz.b-cdn.net/skysport5/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 6 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
+https://sky-nz.b-cdn.net/skysport6/master.mpd
 #EXTINF:-1 group-title="Sport MPD",SKY SPORT 6 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
@@ -2098,10 +2829,30 @@ https://sky-nz.b-cdn.net/skysport6/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
 https://sky-nz.b-cdn.net/skysport7/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 7 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
+https://sky-nz.b-cdn.net/skysport7/master.mpd
 #EXTINF:-1 group-title="Sport MPD",SKY SPORT 8 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
 https://sky-nz.b-cdn.net/skysport9/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 8 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
+https://sky-nz.b-cdn.net/skysport9/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 9 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
+https://sky-nz.b-cdn.net/skysport9/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SKY SPORT 9 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
+https://sky-nz.b-cdn.net/skysport9/master.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT 1 (CZ)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",SPORT 1 (CZ)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -2110,6 +2861,14 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd?ck=
+#EXTINF:-1 group-title="Sport MPD",SPORT 2 (CZ)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd?ck=
+#EXTINF:-1 group-title="Sport MPD",SPORT KLUB 1 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80119f3e574454218d31cf464b420c5e:d71e3186c4e037279b4c12197b860551,feb6a0d5bdf95721a695bdda83c3a945:a96bf27d36cd9ede447c5c392511ed5d
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",SPORT KLUB 1 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80119f3e574454218d31cf464b420c5e:d71e3186c4e037279b4c12197b860551,feb6a0d5bdf95721a695bdda83c3a945:a96bf27d36cd9ede447c5c392511ed5d
@@ -2118,6 +2877,14 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cad4f6f0ef855765b56f07cb46588e3d:b3b720bc5078f58a63a867bfe9288b70,32743f3cda275cf6a359cde92dfd119c:a551744319e4f3f5267335e37e706bc4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk2/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT KLUB 2 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cad4f6f0ef855765b56f07cb46588e3d:b3b720bc5078f58a63a867bfe9288b70,32743f3cda275cf6a359cde92dfd119c:a551744319e4f3f5267335e37e706bc4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk2/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT KLUB 3 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af714d94e10d53cba1c19b818cbad38a:7f7d48441442ba5ac04ca35ae7649cba,e910b32b96985fad9bce4632b444cc91:74d30bd8996577761c4e159708fb703d
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk3/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",SPORT KLUB 3 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=af714d94e10d53cba1c19b818cbad38a:7f7d48441442ba5ac04ca35ae7649cba,e910b32b96985fad9bce4632b444cc91:74d30bd8996577761c4e159708fb703d
@@ -2126,10 +2893,22 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk3/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b5635fc64b5db0959f009a34aa6a6d:edb4bf4c8205532413ae5aae111c21b9,c8a0be1097ce5dafb654b509085e3624:3966d238ec927e2a176a3fada36a3ae4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk4/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT KLUB 4 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b5635fc64b5db0959f009a34aa6a6d:edb4bf4c8205532413ae5aae111c21b9,c8a0be1097ce5dafb654b509085e3624:3966d238ec927e2a176a3fada36a3ae4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk4/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",SPORT KLUB 5 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8df8c109e8155b0582daa0acf6ffc8ea:878873d914ea61d78ed11b250de0eab4,bf2d2f6646cd5d5f8a9013e73107fe9b:b940a737ba83e40b24f4c695130701db
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk5/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT KLUB 5 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df8c109e8155b0582daa0acf6ffc8ea:878873d914ea61d78ed11b250de0eab4,bf2d2f6646cd5d5f8a9013e73107fe9b:b940a737ba83e40b24f4c695130701db
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk5/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT KLUB 6 (HRV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0517a057f3b35fed999baeda734013fc:3946e7f07d4a0d83db353835168798b1,700a5f0f37ed531c800c31ba8c67c047:38b17304e482f9029632c9a1d09de53f
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk6/default/index.mpd
 #EXTINF:-1 group-title="Sport MPD",SPORT KLUB 6 (HRV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0517a057f3b35fed999baeda734013fc:3946e7f07d4a0d83db353835168798b1,700a5f0f37ed531c800c31ba8c67c047:38b17304e482f9029632c9a1d09de53f
@@ -2139,6 +2918,15 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk6/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it/
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPORT NET (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it/
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPOTV (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://idx1.karmakurama.com/firstlokal1/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #EXTINF:-1 group-title="Sport MPD",SPOTV (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -2152,6 +2940,19 @@ https://idx1.karmakurama.com/firstlokal2/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dplay.it/&Origin=https://www.dplay.it/
 https://global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 group-title="Sport MPD",SPOTV 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://idx1.karmakurama.com/firstlokal2/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#EXTINF:-1 group-title="Sport MPD",SPOTV 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dplay.it/&Origin=https://www.dplay.it/
+https://global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 group-title="Sport MPD",STARZPLAY 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
+https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.mpd
 #EXTINF:-1 group-title="Sport MPD",STARZPLAY 1 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42
@@ -2160,6 +2961,14 @@ https://sps1.starzplayarabia.com/out/v1/56d8b44c7b9a4eaeae45bd9f5f509af5/index.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
 https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd
+#EXTINF:-1 group-title="Sport MPD",STARZPLAY 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0
+https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Setanta Sport 1 (UA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Setanta Sport 1 (UA)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
@@ -2168,6 +2977,14 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Setanta Sport 2 (UA)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
+https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sport TOP EVENT (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b3265e1f9d52374c6c4705a258f7a:d223e0fec55e0a22344d1cacb8cd2855
+https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd
 #EXTINF:-1 group-title="Sport MPD",Sky Sport TOP EVENT (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b3265e1f9d52374c6c4705a258f7a:d223e0fec55e0a22344d1cacb8cd2855
@@ -2176,6 +2993,14 @@ https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=32b74c0f2f6553f884ddaac24d8d5fa6:cf18c1ff1fdd422263c6d459374567a4,725d9e0d8544596a92de41d42f2dc2f9:de4e7e6d9bac3c2d72c58a3dbf732068
 https://at-live-6.tentcdn.eu/bpk-tv/Sky_Sport_Austria_HD/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 1 (AT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b74c0f2f6553f884ddaac24d8d5fa6:cf18c1ff1fdd422263c6d459374567a4,725d9e0d8544596a92de41d42f2dc2f9:de4e7e6d9bac3c2d72c58a3dbf732068
+https://at-live-6.tentcdn.eu/bpk-tv/Sky_Sport_Austria_HD/default/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 1 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bb4f41aca8f0cc5c3bce2d89b11c7:fe0b0d6afc9c3aea3e072f4fa84fd4fd
+https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/031133-50/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Sky Sports 1 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000bb4f41aca8f0cc5c3bce2d89b11c7:fe0b0d6afc9c3aea3e072f4fa84fd4fd
@@ -2184,6 +3009,14 @@ https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/031133-50/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b30baaef9ce42989c3cbc4547756a:6401b5955507bfd8e1b69a943e2cde09
 https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/031134-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 2 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b30baaef9ce42989c3cbc4547756a:6401b5955507bfd8e1b69a943e2cde09
+https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/031134-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 3 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b26e63fa6d54eaa78068ec56ccb9e:30dce00cfc4a954f38ac587983df1bab
+https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/031135-50/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Sky Sports 3 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b26e63fa6d54eaa78068ec56ccb9e:30dce00cfc4a954f38ac587983df1bab
@@ -2192,6 +3025,14 @@ https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/031135-50/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000bf8acf94dda31314f272f257fef35:17968773e35048dd95fd31fad0236116
 https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/031136-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 4 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bf8acf94dda31314f272f257fef35:17968773e35048dd95fd31fad0236116
+https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/031136-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 5 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000bd759564061ca717c4115315c5c3e:ec6cd1c7a10bf657d7df2d1660dc2495
+https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/031137-50/index.mpd
 #EXTINF:-1 group-title="Sport MPD",Sky Sports 5 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000bd759564061ca717c4115315c5c3e:ec6cd1c7a10bf657d7df2d1660dc2495
@@ -2200,6 +3041,14 @@ https://linear207-de-dash1-prd-ak.cdn12.skycdp.com/031137-50/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000b071401ece1c0ef596e844fa25a90:a267b189a262af087b094f7a64ba0457
 https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/032138-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports 6 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b071401ece1c0ef596e844fa25a90:a267b189a262af087b094f7a64ba0457
+https://linear206-de-dash1-prd-ak.cdn12.skycdp.com/032138-50/index.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports F1 (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f2f5b47e77e0fc55a51e98f01ec0e99:a6661dc26defcb54c20f3871ae2e04e3
+https://svc40.main.sl.t-online.de/LCID3221228660.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228660/3221228660.mpd
 #EXTINF:-1 group-title="Sport MPD",Sky Sports F1 (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f2f5b47e77e0fc55a51e98f01ec0e99:a6661dc26defcb54c20f3871ae2e04e3
@@ -2208,6 +3057,14 @@ https://svc40.main.sl.t-online.de/LCID3221228660.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+#EXTINF:-1 group-title="Sport MPD",Sky Sports La Liga (ESP)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+#EXTINF:-1 group-title="Sport MPD",Sport TV 1 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",Sport TV 1 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
@@ -2216,6 +3073,14 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",Sport TV 2 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",Sport TV 3 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",Sport TV 3 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
@@ -2224,6 +3089,14 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",Sport TV 4 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",Sport TV 5 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",Sport TV 5 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
@@ -2232,12 +3105,26 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",Sport TV 6 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
+#EXTINF:-1 group-title="Sport MPD",Sport TV 7 (PT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",Sport TV 7 (PT)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_FULLHD
 #EXTINF:-1 group-title="Sport MPD",TF1 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 group-title="Sport MPD",TF1 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 group-title="Sport MPD",TNT Sport 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",TNT Sport 1 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -2246,6 +3133,14 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TNT Sport 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TNT Sport 3 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",TNT Sport 3 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
@@ -2254,6 +3149,14 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TNT Sport 4 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TNT Sport 5 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",TNT Sport 5 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
@@ -2262,6 +3165,14 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TSN 1 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TSN 2 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",TSN 2 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
@@ -2270,6 +3181,14 @@ https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
 https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TSN 3 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TSN 4 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 #EXTINF:-1 group-title="Sport MPD",TSN 4 (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
@@ -2278,6 +3197,14 @@ https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TSN 5 (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+#EXTINF:-1 group-title="Sport MPD",TV4 Sport Live 1 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5
+https://live.streaming.a2d.tv/asset/20465729.isml/.mpd
 #EXTINF:-1 group-title="Sport MPD",TV4 Sport Live 1 (SWE)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c2908a6d85d35fd9a33db46d6b157b2:2327be90af966a52a164cc46e18b35f5
@@ -2286,6 +3213,14 @@ https://live.streaming.a2d.tv/asset/20465729.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af
 https://live.streaming.a2d.tv/asset/20465730.isml/.mpd
+#EXTINF:-1 group-title="Sport MPD",TV4 Sport Live 2 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=729e43e22f86327ea9cbfd859b6e50e9:bbd3b6b123a10cb4cdfd79751f56b0af
+https://live.streaming.a2d.tv/asset/20465730.isml/.mpd
+#EXTINF:-1 group-title="Sport MPD",TV4 Sport Live 3 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf
+https://live.streaming.a2d.tv/asset/20465731.isml/.mpd
 #EXTINF:-1 group-title="Sport MPD",TV4 Sport Live 3 (SWE)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e30426a0a5c36359b1606dd7bc90937:508fb8a6038bf24a216c27e3efe3d9cf
@@ -2294,12 +3229,26 @@ https://live.streaming.a2d.tv/asset/20465731.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746
 https://live.streaming.a2d.tv/asset/20465732.isml/.mpd
+#EXTINF:-1 group-title="Sport MPD",TV4 Sport Live 4 (SWE)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08c544c527b93252a34932c4890903a1:86a3d7e41bd51161039cfc80d880c746
+https://live.streaming.a2d.tv/asset/20465732.isml/.mpd
+#EXTINF:-1 group-title="Sport MPD",USA (ENG)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
 #EXTINF:-1 group-title="Sport MPD",USA (ENG)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
 https://akam.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
 #EXTINF:-1 group-title="Sport MPD",W9 (FRA)
 https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 group-title="Sport MPD",W9 (FRA)
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 group-title="Sport MPD",ZDF (GER)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc352fa54683accf20b12f679027661:993400c4b5ad851c8d6368417d6a3b4c
+https://fl-009.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
 #EXTINF:-1 group-title="Sport MPD",ZDF (GER)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fc352fa54683accf20b12f679027661:993400c4b5ad851c8d6368417d6a3b4c
@@ -2308,6 +3257,14 @@ https://fl-009.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+#EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+#EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 2 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579
 #EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 2 (NL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
@@ -2316,6 +3273,14 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538
+#EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 3 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538
+#EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 4 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538
 #EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 4 (NL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca
@@ -2324,6 +3289,14 @@ https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039
+#EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 5 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039
+#EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 6 (NL)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EURnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278%7EiVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014418%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014418%2C3103_S1E2%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206258&from=14&hms_devid=538&online=1717206258&mag_hms=538&_=1717206265600
 #EXTINF:-1 group-title="Sport MPD",ZIGGO SPORT 6 (NL)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
