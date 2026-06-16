@@ -39,6 +39,11 @@ CHROME_UA = CFG.get("STREAM_UA", "")
 SKIP_DOMAINS = CFG.get("SKIP_DOMAINS", [])
 SKY_CDN_PATTERNS = CFG.get("SKY_CDN_PATTERNS", [])
 
+# Default: genera solo flussi MPD/DASH.
+# Se in futuro vuoi riabilitare anche HLS/M3U8, aggiungi nel config:
+# "INCLUDE_HLS": true
+INCLUDE_HLS = bool(CFG.get("INCLUDE_HLS", False))
+
 # ---------------------------------------------------------------------------
 # SSL / HTTP helpers
 # ---------------------------------------------------------------------------
@@ -250,6 +255,8 @@ def resolve_zappr():
             tipo = ch.get("type", "")
             if tipo not in ("hls", "dash"):
                 continue
+            if tipo == "hls" and not INCLUDE_HLS:
+                continue
 
             lcn = str(ch.get("lcn", ""))
             name = ch.get("name", "?")
@@ -267,7 +274,7 @@ def resolve_zappr():
                     if is_mpd(resolved):
                         channels.append(make_channel(title, resolved, "DTT Italia", "mpd",
                                                      headers=get_stream_headers(resolved)))
-                    elif is_m3u8(resolved):
+                    elif INCLUDE_HLS and is_m3u8(resolved):
                         channels.append(make_channel(title, resolved, "DTT Italia", "hls"))
                 continue
 
@@ -368,7 +375,7 @@ def extract_streams(endpoint, group="Live"):
                 if is_mpd(line):
                     h = get_stream_headers(line)
                     channels.append(make_channel(current_title, line, group, "mpd", headers=h))
-                elif is_m3u8(line):
+                elif INCLUDE_HLS and is_m3u8(line):
                     # Parse pipe headers from M3U8 URLs
                     url_part = line.split("|")[0]
                     h = ""
@@ -399,7 +406,7 @@ def extract_streams(endpoint, group="Live"):
                 channels.append(make_channel(title, val, group, "mpd", headers=h))
                 resolved = True
                 break
-            elif is_m3u8(val):
+            elif INCLUDE_HLS and is_m3u8(val):
                 url_part = val.split("|")[0]
                 h = val.split("|", 1)[1] if "|" in val else ""
                 channels.append(make_channel(title, url_part, group, "hls", headers=h))
@@ -438,36 +445,39 @@ def extract_streams(endpoint, group="Live"):
                 if url:
                     if is_mpd(url):
                         channels.append(make_channel(title, url, group, "mpd", headers=get_stream_headers(url)))
-                    elif is_m3u8(url):
+                    elif INCLUDE_HLS and is_m3u8(url):
                         channels.append(make_channel(title, url, group, "hls"))
                 resolved = True
                 break
 
             # daddyCode@@
             if val.startswith("daddyCode@@"):
-                code = val.removeprefix("daddyCode@@")
-                result = resolve_daddy_code(code)
-                if result:
-                    m3u8, h = result
-                    channels.append(make_channel(title, m3u8, group, "hls", headers=h))
+                if INCLUDE_HLS:
+                    code = val.removeprefix("daddyCode@@")
+                    result = resolve_daddy_code(code)
+                    if result:
+                        m3u8, h = result
+                        channels.append(make_channel(title, m3u8, group, "hls", headers=h))
                 resolved = True
                 break
 
             # mediahosting@@
             if val.startswith("mediahosting@@"):
-                stream_id = val.removeprefix("mediahosting@@")
-                m3u8, h = resolve_mediahosting(stream_id)
-                channels.append(make_channel(title, m3u8, group, "hls", headers=h))
+                if INCLUDE_HLS:
+                    stream_id = val.removeprefix("mediahosting@@")
+                    m3u8, h = resolve_mediahosting(stream_id)
+                    channels.append(make_channel(title, m3u8, group, "hls", headers=h))
                 resolved = True
                 break
 
             # freeshot@@
             if val.startswith("freeshot@@"):
-                code = val.removeprefix("freeshot@@")
-                result = resolve_freeshot(code)
-                if result:
-                    m3u8, h = result
-                    channels.append(make_channel(title, m3u8, group, "hls", headers=h))
+                if INCLUDE_HLS:
+                    code = val.removeprefix("freeshot@@")
+                    result = resolve_freeshot(code)
+                    if result:
+                        m3u8, h = result
+                        channels.append(make_channel(title, m3u8, group, "hls", headers=h))
                 resolved = True
                 break
 
@@ -483,7 +493,7 @@ def extract_streams(endpoint, group="Live"):
                 if raw_url.startswith("http") and not is_skipped(raw_url):
                     if is_mpd(raw_url):
                         channels.append(make_channel(title, raw_url, group, "mpd", headers=get_stream_headers(raw_url)))
-                    elif is_m3u8(raw_url):
+                    elif INCLUDE_HLS and is_m3u8(raw_url):
                         url_part = raw_url.split("|")[0]
                         h = raw_url.split("|", 1)[1] if "|" in raw_url else ""
                         channels.append(make_channel(title, url_part, group, "hls", headers=h))
@@ -496,7 +506,7 @@ def extract_streams(endpoint, group="Live"):
                 if raw_url.startswith("http") and not is_skipped(raw_url):
                     if is_mpd(raw_url):
                         channels.append(make_channel(title, raw_url, group, "mpd", headers=get_stream_headers(raw_url)))
-                    elif is_m3u8(raw_url):
+                    elif INCLUDE_HLS and is_m3u8(raw_url):
                         channels.append(make_channel(title, raw_url, group, "hls"))
                 resolved = True
                 break
@@ -525,11 +535,34 @@ def dedup_channels(channels):
 
 
 # ---------------------------------------------------------------------------
-# Write M3U — format KODIPROP (supports both MPD and M3U8)
+# Write M3U — formato KODIPROP ottimizzato per OTT Navigator
 # ---------------------------------------------------------------------------
 
+def format_clearkey_for_ott(kid, key):
+    """Formatta ClearKey in modo compatibile con OTT Navigator.
+
+    - singola chiave: kid:key
+    - chiavi multiple: {"kid1":"key1","kid2":"key2"}
+    """
+    raw = f"{kid}:{key}".strip()
+    pairs = []
+    for part in raw.split(","):
+        part = part.strip()
+        if ":" not in part:
+            continue
+        k, v = part.split(":", 1)
+        k = k.strip()
+        v = v.strip()
+        if k and v:
+            pairs.append((k, v))
+
+    if len(pairs) <= 1:
+        return raw
+    return json.dumps(dict(pairs), separators=(",", ":"))
+
+
 def write_m3u(channels, path, epg_url=""):
-    """Write playlist in KODIPROP format."""
+    """Write playlist in KODIPROP format optimized for OTT Navigator."""
     with open(path, "w", encoding="utf-8") as f:
         header = "#EXTM3U"
         if epg_url:
@@ -539,10 +572,13 @@ def write_m3u(channels, path, epg_url=""):
         for title, url, kid, key, headers_str, group, fmt in channels:
             f.write(f'#EXTINF:-1 group-title="{group}",{title}\n')
 
+            if fmt == "mpd":
+                f.write('#KODIPROP:inputstream.adaptive.manifest_type=mpd\n')
+
             # ClearKey (MPD only)
-            if kid and key:
-                f.write('#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n')
-                f.write(f'#KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n')
+            if fmt == "mpd" and kid and key:
+                f.write('#KODIPROP:inputstream.adaptive.license_type=clearkey\n')
+                f.write(f'#KODIPROP:inputstream.adaptive.license_key={format_clearkey_for_ott(kid, key)}\n')
 
             # Stream headers
             if headers_str:
@@ -554,6 +590,149 @@ def write_m3u(channels, path, epg_url=""):
     hls_count = sum(1 for c in channels if c[6] == "hls")
     ck_count = sum(1 for c in channels if c[2] and c[3])
     print(f"  → {path}: {len(channels)} canali ({mpd_count} MPD, {hls_count} HLS, {ck_count} con ClearKey)")
+
+
+# ---------------------------------------------------------------------------
+# Unified playlist ordering
+# ---------------------------------------------------------------------------
+
+MACRO_ORDER = {
+    "INTRATTENIMENTO": 0,
+    "SPORT": 1,
+    "EVENTI": 2,
+}
+
+LANG_ORDER = {
+    "ITA": 0,
+    "ITA+ESP": 1,
+    "ITA+NED": 2,
+    "MULTI": 3,
+    "ENG": 4,
+    "ESP": 5,
+    "FRA": 6,
+    "GER": 7,
+    "POL": 8,
+    "POR": 9,
+    "HRV": 10,
+    "SRB": 11,
+    "NED": 12,
+    "GRE": 13,
+    "TUR": 14,
+    "ARA": 15,
+    "MIX": 99,
+}
+
+LANG_CODES = {
+    "ITA", "ENG", "ESP", "FRA", "GER", "DEU", "POL", "POR", "BRA",
+    "HRV", "CRO", "SRB", "NED", "DUT", "GRE", "ELL", "TUR", "ARA",
+    "RUS", "UKR", "SWE", "NOR", "DAN", "FIN", "CZE", "SVK", "HUN",
+    "ROU", "BUL", "SLO", "SLV", "ALB", "BOS", "MKD", "ISR", "HEB",
+    "JPN", "KOR", "CHI", "ZHO", "IND", "HIN", "THA", "VIE",
+}
+
+LANG_NORMALIZE = {
+    "DEU": "GER",
+    "CRO": "HRV",
+    "DUT": "NED",
+    "ELL": "GRE",
+    "BRA": "POR",
+    "HEB": "ISR",
+    "ZHO": "CHI",
+    "HIN": "IND",
+    "SLV": "SLO",
+}
+
+ITALIAN_ENTERTAINMENT_GROUPS = {
+    "DTT Italia", "Mediaset", "Sky", "News", "Regionali", "ITA Estero",
+}
+
+ITALIAN_SPORT_GROUPS = {
+    "Sky Sport", "EuroSport",
+}
+
+
+def detect_macro(source_playlist, group, title):
+    """Return top-level category for the unified playlist."""
+    if source_playlist == "eventi":
+        return "EVENTI"
+    if source_playlist == "sport":
+        return "SPORT"
+    if group in {"Italy Sports", "Sky Sport", "EuroSport", "Sport MPD", "Calcio"}:
+        return "SPORT"
+    return "INTRATTENIMENTO"
+
+
+def detect_language(source_playlist, group, title):
+    """Detect language from title tags like (ITA), (ENG), (ITA/ESP - MPD)."""
+    text = title.upper()
+    found = []
+
+    for chunk in re.findall(r"\(([^)]*)\)", text):
+        chunk = chunk.replace("-", "/").replace(",", "/").replace("+", "/")
+        for token in re.split(r"[/\s]+", chunk):
+            token = token.strip().upper()
+            if token in {"MPD", "HD", "FHD", "UHD", "4K", "SD", "LIVE"}:
+                continue
+            if token in LANG_CODES:
+                found.append(LANG_NORMALIZE.get(token, token))
+
+    for m in re.finditer(r"\b([A-Z]{3})(?:/([A-Z]{3}))+\b", text):
+        for token in m.group(0).split("/"):
+            if token in LANG_CODES:
+                found.append(LANG_NORMALIZE.get(token, token))
+
+    found = list(dict.fromkeys(found))
+    if found:
+        if len(found) == 1:
+            return found[0]
+        if "ITA" in found and len(found) == 2:
+            other = [x for x in found if x != "ITA"][0]
+            return f"ITA+{other}"
+        return "MULTI"
+
+    if group in ITALIAN_ENTERTAINMENT_GROUPS:
+        return "ITA"
+    if group in ITALIAN_SPORT_GROUPS:
+        return "ITA"
+    if source_playlist == "eventi":
+        return "MIX"
+    if group in {"Italy Sports", "Sport MPD"}:
+        return "MIX"
+    return "MIX"
+
+
+def normalize_title_for_sort(title):
+    parts = re.split(r"(\d+)", title.upper())
+    return tuple(int(p) if p.isdigit() else p for p in parts)
+
+
+def unified_group(source_playlist, group, title):
+    macro = detect_macro(source_playlist, group, title)
+    lang = detect_language(source_playlist, group, title)
+    return macro, lang, f"{macro} | {lang} | {group or 'Altro'}"
+
+
+def unified_sort_key(item):
+    source_playlist, channel = item
+    title, url, kid, key, headers_str, group, fmt = channel
+    macro, lang, new_group = unified_group(source_playlist, group, title)
+    return (
+        MACRO_ORDER.get(macro, 99),
+        LANG_ORDER.get(lang, 50),
+        new_group.upper(),
+        normalize_title_for_sort(title),
+        source_playlist,
+    )
+
+
+def build_unified_channels(source_channels):
+    """Convert (source_playlist, channel) entries into regular channel tuples."""
+    unified = []
+    for source_playlist, channel in source_channels:
+        title, url, kid, key, headers_str, group, fmt = channel
+        macro, lang, new_group = unified_group(source_playlist, group, title)
+        unified.append((title, url, kid, key, headers_str, new_group, fmt))
+    return unified
 
 
 # ---------------------------------------------------------------------------
@@ -584,20 +763,27 @@ if __name__ == "__main__":
     os.makedirs(out_dir, exist_ok=True)
     epg_path = os.path.join(out_dir, "epg.xml")
 
-    print("=== TURBO v2 — Multi-playlist Generator ===\n")
+    print("=== DUMPY — Unified MPD playlist for OTT Navigator ===\n")
 
     playlists = CFG.get("PLAYLISTS", {})
-    total_all = 0
+    source_channels = []
+
+    # Rimuove vecchie playlist separate generate dalle versioni precedenti.
+    # La playlist finale supportata ora è solo playlists/dumpy.m3u.
+    for old_name in playlists.keys():
+        old_path = os.path.join(out_dir, f"{old_name}.m3u")
+        if os.path.exists(old_path):
+            os.remove(old_path)
 
     for playlist_name, playlist_cfg in playlists.items():
         desc = playlist_cfg.get("description", "")
         endpoints = playlist_cfg.get("endpoints", {})
 
         print(f"\n{'─' * 60}")
-        print(f"📋 {playlist_name}.m3u — {desc}")
+        print(f"📥 Sorgente {playlist_name} — {desc}")
         print(f"{'─' * 60}")
 
-        all_channels = []
+        playlist_count = 0
         for ep_name, (ep_code, ep_group) in endpoints.items():
             print(f"  {ep_name} [{ep_code}]...", end=" ", flush=True)
 
@@ -608,15 +794,18 @@ if __name__ == "__main__":
                 streams = extract_streams(ep_code, ep_group)
 
             print(f"{len(streams)} canali")
-            all_channels.extend(streams)
+            playlist_count += len(streams)
+            source_channels.extend((playlist_name, stream) for stream in streams)
 
-        # Sort by group, then title
-        all_channels.sort(key=lambda c: (c[5], c[0]))
+        print(f"  Totale sorgente {playlist_name}: {playlist_count} canali")
 
-        # Write
-        m3u_path = os.path.join(out_dir, f"{playlist_name}.m3u")
-        write_m3u(all_channels, m3u_path, epg_url="epg.xml")
-        total_all += len(all_channels)
+    source_channels.sort(key=unified_sort_key)
+    unified_channels = build_unified_channels(source_channels)
+
+    m3u_path = os.path.join(out_dir, "dumpy.m3u")
+    print(f"\n{'─' * 60}")
+    print("🧩 Playlist unica ordinata")
+    write_m3u(unified_channels, m3u_path, epg_url="epg.xml")
 
     # EPG
     print(f"\n{'─' * 60}")
@@ -624,6 +813,6 @@ if __name__ == "__main__":
     download_epg(epg_path)
 
     print(f"\n{'=' * 60}")
-    print(f"✅ FATTO! {total_all} canali totali in {len(playlists)} playlist")
+    print(f"✅ FATTO! {len(unified_channels)} canali totali in playlists/dumpy.m3u")
     print(f"   Output: {out_dir}/")
     print(f"{'=' * 60}")
