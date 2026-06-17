@@ -2975,6 +2975,12 @@ https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1781716440~exp%3D1781802840~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=c6a49addb1ec50ee85fb581c75e47305:87d07808926be3f74d342ac88d71d3fc
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1781722506~exp%3D1781808906~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D69c5ea0fb6b7582eb02348dff5505daded1b5360391cc3fd6fa21fbc5cf46623~hmac%3D9d1ebd950bb254997bd9e391450af4ed6f7f6ebb6ee7089ec9ebe57355e5fd24/1ht5nrlcpsg521mjo6nk5bibtq/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="22:42 Ghana - Panama (MPD)",22:42 Ghana - Panama (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86d0b6fb30f25a31823df1ab82684691:e1b94da0424d4e9fd34fefe386c794f6
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1781736304~exp%3D1781822704~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6e9dbf5170bac891232f5d0f65b5f77e8e3959e82a0fd882ca970c110e8e45a3~hmac%3Df22dd88dceab31e07721ac0362d3d114e0e40da20fb1060ed0363a1bd4bf7b29/12nbay8ciblmm1slybd95uv04k/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
