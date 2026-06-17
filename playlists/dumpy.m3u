@@ -2944,37 +2944,13 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6adc92d94f35934a29831ef81d49aff:6f50a6b0f15f1146f088efb1e002b603
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781657105~exp%3D1781743505~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5d3f387be74a4e82c3ca862c5dd06391c645f1f6082a3cda20787c41d4e7b336%23wm%3D0~hmac%3D8f5b485f4ff0a0e866b4c3f6fbcb737c8368628c6a808d6af3b945810eabe748/sr956j70su841p2cw6qazjk8e/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Iran - Nuova Zelanda (MPD)",00:42 Iran - Nuova Zelanda (MPD)
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781665206~exp%3D1781751606~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5d3f387be74a4e82c3ca862c5dd06391c645f1f6082a3cda20787c41d4e7b336%23wm%3D0~hmac%3D666db8dddf00f9880e8de3359f0f6c3b7c4c935ae9a27ddaa28e9a833fd8d1ed/sr956j70su841p2cw6qazjk8e/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="03:42 Austria - Giordania (MPD)",03:42 Austria - Giordania (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74fc1594804f504f97a512c1b45e161e:41411c652ab5517aea7b64e66972ba81
+#KODIPROP:inputstream.adaptive.license_key=fb593ce51f265abfad2f014b318ba4e9:1200d74923b34d5be0bd73a8225013fb
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781578806~exp%3D1781665206~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D0f23b425dac3c3281cde0d93ebb28a45d19dcff962e9950947bd702817264e9f%23wm%3D0~hmac%3D5803a3611c32acb7308f824c105548c4fee4ce9ae009a21f16e47a92f37efde5/1e29y9akmv7my11eh0jkw69zvl/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Tutti Convocati (MPD)",12:00 Tutti Convocati (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3a53aec36550b995d047e90220d166:53055224aeb6fb11a1c632a9371d5b1d
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781611205~exp%3D1781697605~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da10ad42150ffe00e25891199f942892dc2e388fa8b7449dab20b472db44ff6cd%23wm%3D0~hmac%3D520fee7fbef5e78a88c9a7c7e1892d4ebf8155aad022954b9828a3bf668f937a/15as6ujxpigqa1pjpzwmwhla9l/web/stream.mpd?channel=4543&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:55 Copa Mundial | Episodio 5 (MPD)",14:55 Copa Mundial | Episodio 5 (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88ac1f5c24df50fcb509fe628fa4068d:a16401e2111125d070f1a07eeb26fa5d
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781622305~exp%3D1781708705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dcc21005ee0e3f0026f53e8b2c1c67d4fb6de23713c23dd375c827f0ad178f174%23wm%3D0~hmac%3D2206dc01944ad12d1273b9ed292c1a1023dc2f1c6bcb4be38fdcf97aa42c5582/1emg4z2day1g612bb4hpvtqbw9/web/stream.mpd?channel=4543&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="17:52 Francia - Senegal (MPD)",17:52 Francia - Senegal (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88ff96f222475f8e895ec9ff73875707:c76c530a808009e4090a84fafb976f10
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781632506~exp%3D1781718906~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D27ae0b89f92470b8cb1c3efde7f75f0269f80c9f012f5ac36f833f4a09ae7982%23wm%3D0~hmac%3Da520f1b7031dfd6ff91d414f90f0de92e347dc191ba2dfa9e34a84f18a914654/x22uweq0doy31mkk1h6az3moy/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="21:42 Iraq - Norvegia (MPD)",21:42 Iraq - Norvegia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bf0a9206ed35bf79d2f33f90f91e455:9ec707e322e44aee5db26adaf275d310
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781646310~exp%3D1781732710~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D0b2ce23c1fae038c35471187bade5656f744ebe2bdf18b82f558123ac07f3458%23wm%3D0~hmac%3D4c90b46396b5fee8b42be23d0af1e0263d9fb51873f3104a265713210de34075/1n4uwnoprtla31okt9a79dtmsj/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781667904~exp%3D1781754304~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D948ee0d9dde1b322678f7e6a623f5f60b606b5f119db033d0e42fb118368d040%23wm%3D0~hmac%3D5b15ad45503e9ef1cac5b44392aa44d1172678703a9877a149639257a92a0361/1e9zncopobeki1qxmuww1h3k1n/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
