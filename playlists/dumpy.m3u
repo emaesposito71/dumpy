@@ -2951,6 +2951,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781665206~exp%3D1781751606~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=fb593ce51f265abfad2f014b318ba4e9:1200d74923b34d5be0bd73a8225013fb
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781667904~exp%3D1781754304~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D948ee0d9dde1b322678f7e6a623f5f60b606b5f119db033d0e42fb118368d040%23wm%3D0~hmac%3D5b15ad45503e9ef1cac5b44392aa44d1172678703a9877a149639257a92a0361/1e9zncopobeki1qxmuww1h3k1n/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="08:00 Repubblica Ceca - Italia (MPD)",08:00 Repubblica Ceca - Italia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=145413c1ac245ea9ab706a94be22b7e9:ba58d50ab044aa8c7b50d4f4230d930b
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781682306~exp%3D1781768706~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D2995da95e4c41e12639a53fe224dd3237c3f965ae145d9ed225e888dc1e6759e%23wm%3D0~hmac%3Dde6b469e38f033e7731a7ee6976b993d6cc8df2a54088c034e4b9aebaaeed18f/3nrzr46zmbiy17hf9lnq0kapi/web/stream.mpd?channel=6949&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
