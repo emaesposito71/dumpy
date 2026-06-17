@@ -2939,6 +2939,12 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Argentina - Algeria (MPD)",00:42 Argentina - Algeria (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6adc92d94f35934a29831ef81d49aff:6f50a6b0f15f1146f088efb1e002b603
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781657105~exp%3D1781743505~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5d3f387be74a4e82c3ca862c5dd06391c645f1f6082a3cda20787c41d4e7b336%23wm%3D0~hmac%3D8f5b485f4ff0a0e866b4c3f6fbcb737c8368628c6a808d6af3b945810eabe748/sr956j70su841p2cw6qazjk8e/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Iran - Nuova Zelanda (MPD)",00:42 Iran - Nuova Zelanda (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
