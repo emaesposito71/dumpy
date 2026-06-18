@@ -1,4 +1,79 @@
 #EXTM3U url-tvg="epg.xml"
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY ADVENTURE" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-adventure.jpg",SKY ADVENTURE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118064bcea5a4106fb2267f279f2649:279a852121432f14ea2e7c5d15401238
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781766606_f~0_g~1_s~4907ebe9-4719-47fe-bb95-6f16f115312f_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~58_x~5f03323cff4e687c20edbaaab2e04966/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyadventure)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY ARTE" tvg-id="SkyArte.it" tvg-logo="https://iptv-epg.org/images/Jb1Vvjh07hwjA46jKe1BmMWcGzJ5keVxjdi2HdpNPR6H2buwQUr-u8Rat2thqFaGvfwgOmET2JSlP9SK-Pm7eWABuupB0KfrPHQR9uFDbw",SKY ARTE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11182a6b78e28a52ffe2608ab6c0f56a:39454b9b64b2d2a1dfa0788c9087418a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781740553_f~0_g~1_s~04d5345a-43c7-4d26-93ef-63282032dcc7_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~53_x~0fac2c39612724fd38a3e91ef9c7820e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyarte)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY ATLANTIC" tvg-id="SkyAtlantic.it" tvg-logo="https://iptv-epg.org/images/eK3zNXjP7rxRYYg37ZxgbHAWS8zN8aE9knm8FBEXrX1lQABdc2HWDZEFgk9BcjfvqFf4ajpqekUGcSnkBcbnts6bT-U79ybDMNNQNW1spYqtBWw",SKY ATLANTIC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11184e6a02026b6f51de0ebeac7cb6eb:ac244b5a24bb0772511fbdc4d3b400bf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781730573_f~0_g~1_s~6262f6ba-6b75-46ae-8ecb-6d673698784b_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~57_x~603dd44b1ae840f5d18fe45964708505/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyatlantic)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY COLLECTION" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-collection.jpg",SKY COLLECTION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=111846ad1b8bb11b3f11bf7f0f170701:2cffd969c3e289c667474fdacb23bc17
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781740647_f~0_g~1_s~e4e70db9-6740-4f34-87c5-6522efa22149_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~fb3c06952ea26c0a12071e9dc1cd1ee3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY COMEDY CENTRAL" tvg-id="ComedyCentral.it" tvg-logo="https://iptv-epg.org/images/6xyw90Hf80t4UKp6w54YlS5Zhte2iMI9OQkpTaoxdvUZszE-I6K-orjNH_4O1Pw4j5htyn-uyT9KBu5AgfAGlUhK-hV222I--eodBueSKwA6Ju0U0A",SKY COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189afa675ae2e1ac1e39747f54e3ff:c48d5ac4621d7738f8442b6476618705
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781732624_f~0_g~1_s~62799031-54a1-4c28-991d-abdedd9c56ef_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~9668d8e1b6b1590a6b273bb835b709d3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(comedycentral)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY CRIME" tvg-id="SkyCrime.it" tvg-logo="https://iptv-epg.org/images/aykW13R5XgxI_LGbsYiNQbSu03hFHrpWMxsXSAUF87YYVeChwLclxLi-UktTDnwZsIwIOj6368EpkzAR0H-8spS9NEaD06dicpa67lleHqc",SKY CRIME
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186bcffdc1c47dbeaaa7d557002197:c84de6e52919f9c47726e75e5788f6b9
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781732431_f~0_g~1_s~6e9b1ee7-0f84-4cd9-a2b4-2bb2cb2e605b_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~54_x~4729eebb1adaa84ebe194489f8787422/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycrime)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY DOCUMENTARIES" tvg-id="SkyDocumentaries.it" tvg-logo="https://iptv-epg.org/images/7eyhi7yC3ISFxnFOTl4_qo-u60MC_BLYpY0Ys5XqnsaAlLEbM7FHDMvyn1z-M5AA1wD7fDOJ19XVyh6cmPl-ZczvhOuY12FHCJrbKVAdRi2y-a8jwhHhvw",SKY DOCUMENTARIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183ce2812f8e6de76e9960791f373b:0b9a47e8dbd5bea92472cf8684a1bea7
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781732420_f~0_g~1_s~fd87761d-a150-4c3e-abf0-37ad73b6de34_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~62_x~5abb6ac851d54b9b94ba7739901f2d0e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skydocumentaries)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY HISTORY" tvg-id="History.it" tvg-logo="https://iptv-epg.org/images/t_kYph7u86XxQ6aqxcZJspd66wUgN4finzeZeDNYIysYreOsNlFaZy80HS5G13pRDbIVOudoTUU32p2WRYRORIUHGL85eqxn4ORE9l0f2w",SKY HISTORY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188c23784cc238e403a7ed90958795:a8a2fa68d6803452537b7862503f7b8b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781740557_f~0_g~1_s~e9ca94fb-e89b-4254-8504-3f1be604041e_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~60_x~4730d98fb25104a400b7f9352c20f146/nowitlin2/Content/CMAF_CTR_H1/Live/channel(historychannel)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY INVESTIGATION" tvg-id="SkyInvestigation.it" tvg-logo="https://iptv-epg.org/images/bySYKiC1_ME1H3iyIY-S0T3aprwTSTjshhszTfHdJr2G6eafNzKdlXYJETWgUcCFtqFyGfNeJn2bfmXxOigetEnNg_rVcaLovtwgUxDaoRUkvongcc5Hig",SKY INVESTIGATION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118372f0e5a5be838da4313ddcd13a7:fb22d7ff7b1988bc71d03d033e8f34de
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781740525_f~0_g~1_s~96f8898b-18a1-47f1-9168-83c24158f093_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~62_x~8055d7d7ac3f1cba120b761c5ee09ab6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyinvestigation)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY MTV" tvg-id="MTV.it" tvg-logo="https://iptv-epg.org/images/_fai0_dtZisqXRzB0DeTQ-C-2bEAk7HCTPujDnLDNimC-yFi3uo-Qk0zuDJQKZr_wuo-WM46R0s2fB3sak_9sqBIL9FrwCf49iTi",SKY MTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118e69d1a583898ef3362facf7964e8:d67dcac48e516e4c8b528d0e3fe23d24
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781737034_f~0_g~1_s~646a6076-bf27-46fd-908e-08edb58227c8_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~49_x~53895f091c3d6c2f7f23e2db6a1bdb02/nowitlin2/Content/CMAF_CTR_H1/Live/channel(mtv)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY NATURE" tvg-id="SkyNature.it" tvg-logo="https://iptv-epg.org/images/744avY2NcO5KUWXSd3hmSs-1GvdMbTCTk4U-z6H9OkwpG8BeaV-RHJVTlIsgoeN6pVOT3jUKjXdnHRvMwglPirnTEjdZyR5Y02QvqqFpXhhI",SKY NATURE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188a583a6e01a1566d46ec707f5134:9b920f9b587e72c1edc914bff684c431
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781742710_f~0_g~1_s~1ee0834c-e335-4b0b-adc7-a32fc2cb5ea6_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~55_x~5027b1a39d62f8e0844e86e0909d9028/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skynature)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY SERIE" tvg-id="SkySerie.it" tvg-logo="https://iptv-epg.org/images/OGyN6j32Tge5GezGeSclY89ou5d_quV9kWjgvzyHSyYtkK97U_mSP9kd4dlI8ATcgPTOSu9hd3JzBt0DB0X9JG7pb0xJFbhEYhNodJD13I8",SKY SERIE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183c4ad35abfd2fa351e15be2751f3:34d5e7802af83376b7869674e2692a28
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781766608_f~0_g~1_s~f19ea10f-c9bf-4c84-9856-e1d6c7436325_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~54_x~4c0ac7ec87a004b0730bdd5bbb90396d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyserie)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY TG24" tvg-id="SkyTG24.it" tvg-logo="https://iptv-epg.org/images/YzoPRpK2KwpoBp0pmY9QyRP9S1u658p63y3MQijCFKkTIoojMTg_hVUteF3c-bKWvvBv1qeq9vsCP12guQYgyEd3UtIfgYWossqpfpr-DQ",SKY TG24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118a48358c744f5075ddd54441c9207:c0cd1f001bba58b1261d12ff04e4d5bd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781733850_f~0_g~1_s~743b5b0d-dca3-45d5-8c44-d312e27be84e_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~50_x~9a212677614fddd1a65428e83c475deb/nowitlin2/Content/CMAF_CTR_H1/Live/channel(tg24)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY UNO" tvg-id="SkyUno.it" tvg-logo="https://iptv-epg.org/images/MbCOg1ipKtytRR8oZGdjeJjhipWfrcO6Ebc4EAq31_H4Nu9KSiQTytXImzYA4_moYNx-RO5DfjH1CiIk1sagcesFqm2Hhot3TvJU6Aae",SKY UNO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11189b91ffdab15f5abbd9b60f2c609a:702032f22df8b1f3a2aaa924134e3361
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781730958_f~0_g~1_s~22c0b602-ee17-4b25-8509-e636a2bfc53c_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~52_x~506d86a5cfb948b10534e640cdaf2067/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyuno)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY UNO+" tvg-id="SkyUno+.it" tvg-logo="https://iptv-epg.org/images/gv6TilmTQ3flOboyBnr7A6U0MsueTSWPEDj3N10uss25ipv3_6RPWWq5TsBMIy-x0Enjm2NZAtkjfHQP73v3PcKR5Er2y2SN98rl8DeGNQl-",SKY UNO+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=111837d963caccec0b164c590eda3f71:106882727b6a74b4a5ca965f9412aa5b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781733371_f~0_g~1_s~4fe9f02b-e2d4-4161-97a6-67650d6df349_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~47a0eefa02fb0671f890416b97e59f7e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyunoplus)/master_2hr-all.mpd
 #EXTINF:-1 group-title="02 SKY SPORT" tvg-name="SKY SPORT 24" tvg-id="SkySport24.it" tvg-logo="https://iptv-epg.org/images/DLdtGXZqwpM58uOlIwIE_D6mnKHe0pr__1k_xqOed5UEN3JwEjT_vnf_vclA6N0W4tn1UaTQVnq9eeCrFlsVX-vQEhSXI0QKgH0OOH-_---3lQ",SKY SPORT 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -666,6 +741,39 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)
 #EXTINF:-1 group-title="04 EUROSPORT" tvg-name="EuroSport 6 (it)",EuroSport 6 (it)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="https://iptv-epg.org/images/Gs37GhTMJpTSbC67BhHRddcB1gtmIOWv2SZ_5U_mujS-SWMrkfoGfaK3K5DPcpbu2oHQpAe2GmDIQyAtmWyy2wJ2vERj9NCtxFVCww",Rai 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai 2" tvg-id="Rai2.it" tvg-logo="https://iptv-epg.org/images/r9JypxrlYM42craPXAVOCtmBA0UGhidpW5arFwRQ_oD8W5U5FWfxsYbpGRfVt6nObdnUeWMKSwAU6BgXWVKOSWe2f6YJVCmuJHf1nw",Rai 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai 3" tvg-id="Rai3.it" tvg-logo="https://iptv-epg.org/images/0Fs3VC7FdajKPA1Wfjy2jhHcP5fR4rxdXDIDQR13Lzq0cvHxgp1M5G5hu_REBX-6iaMEIzy0JmOrX6EGAtWTbRXZcNeaAwq1v3puMQ",Rai 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/rai-4k.jpg",Rai 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.nowtv.it/&Origin=https://www.nowtv.it/
+https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai Gulp" tvg-id="RaiGulp.it" tvg-logo="https://iptv-epg.org/images/kZD8dRTfVFOMi2P9k4Fk-fT6RT57jQOLgYU-mQZLYM61nJcRQu7FlisR5p3Yfk75cI4RS6Y693_D75zMymFuZyoN5FSA8-mSzhdNLngXiA",Rai Gulp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai Italia",Rai Italia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+https://idx1.karmakurama.com/firstlokal2/live/eds/RaiItalia/mpd/RaiItalia.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai News" tvg-id="RaiNews.it" tvg-logo="https://iptv-epg.org/images/9RywuGnBux7XLkgMtkZb2Hg1DTwC4ttBq44uOMEn_OkKMTjMafqhmvYBF8pNEd8rVnE24ADEcKAZ_fWE-qWCEs8b5RgckAk-oCg607pzOw",Rai News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai Scuola" tvg-id="RaiScuola.it" tvg-logo="https://iptv-epg.org/images/LC85h6VRzvZcEDBvA5tL3pGsKo_p1sIzX3FPkuckJ28kZTWMA37Nq9IxCWAcwUzLi3wFNUVt8lUP7D4cwk1rZM8J9g0wCEQGM0UpmDm5YWWm",Rai Scuola
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai Sport" tvg-id="RAISport.it" tvg-logo="https://iptv-epg.org/images/HhQE_8gizDPsQaY2m0xF6Qy1sb1ZQLFvOCw3lDgHD04Hts3qr-XvSs9LRLT22rCXwLRHvoE43rpzFAqiEUykZcr6HXv3FVgfFnEUzBOopWo",Rai Sport
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="05 RAI" tvg-name="Rai Storia" tvg-id="RaiStoria.it" tvg-logo="https://iptv-epg.org/images/akdxcleOYOnavrZMtiEKCUZCk8jbJk3lEXQNkG5YEISL3IlTy3d1aOHN1fRWqp2jKS6ZJbdgTvNIJRTexGvCNYWepPxXMrXtEG9zCDFnf0Wt",Rai Storia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="27 TWENTYSEVEN",27 TWENTYSEVEN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hr.mpd
@@ -673,6 +781,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hr.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="CANALE 5" tvg-id="Canale5.it" tvg-logo="https://iptv-epg.org/images/C9_jU-XOZ8pmNZYMpCZwYsfHF7GigQkOEevSBJ6Ap0VnDpfzzSs_erggv075aZbTefHQmecyGns132LE6dE_c0gKLEvZkQJkeY0dMoZ1wA",CANALE 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="Canale 5" tvg-id="Canale5.it" tvg-logo="https://iptv-epg.org/images/C9_jU-XOZ8pmNZYMpCZwYsfHF7GigQkOEevSBJ6Ap0VnDpfzzSs_erggv075aZbTefHQmecyGns132LE6dE_c0gKLEvZkQJkeY0dMoZ1wA",Canale 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="CARTOONITO" tvg-id="CARTOONITO.it" tvg-logo="https://iptv-epg.org/images/ToU8IH2tptxFMZjGLFKk04BqxRRh9AdO8lw6N-ASARgNlGl4AEdVycVn20aB4ax3iHMfCuR_tmIqfRkqdKgljp3l4g23MWf9zlRXRG4ZXFyqdA",CARTOONITO
@@ -684,10 +795,22 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="FOCUS" tvg-id="Focus.it" tvg-logo="https://iptv-epg.org/images/1oPQrrYhFqdcZV9kfBsPEoWXmOwkl2_XpXevOUAAS0iIAFu1JUVnK-2UV_g0HR2P9lZrXXocS0Rwnpmc4Ey-6gCy7IiU3wb4qFjj0Ho",FOCUS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="GF Regia 1",GF Regia 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="GF Regia 2",GF Regia 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="GF Un'ora fa",GF Un'ora fa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="IRIS" tvg-id="Iris.it" tvg-logo="https://iptv-epg.org/images/ijxxwVmU2SPW7zUcsCJxmHR05bbZRaZ1za8vWeXkYaytfGmE2W0useFgQOh9mMhQAofZOl9TS5WKtOGBvTi1BCem-yPRjywrcNOhmA",IRIS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="ITALIA 1" tvg-id="Italia1.it" tvg-logo="https://iptv-epg.org/images/F6lZAY7BxOYRF1yvl0rA9QtUzfQlwE8FbGxwXhEPxzqig0SRqdRYXKGdbkB3yFG_Sj2VmUrl6PHJYbQyCjpibJoSxpOjcgWtHhgG1x5JaQ",ITALIA 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="Italia 1" tvg-id="Italia1.it" tvg-logo="https://iptv-epg.org/images/F6lZAY7BxOYRF1yvl0rA9QtUzfQlwE8FbGxwXhEPxzqig0SRqdRYXKGdbkB3yFG_Sj2VmUrl6PHJYbQyCjpibJoSxpOjcgWtHhgG1x5JaQ",Italia 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="ITALIA 2" tvg-id="Italia2.it" tvg-logo="https://iptv-epg.org/images/jonv__2UnzxPkRy1EYUBsebm7hPUOMwd5qVuLub-CPRMQAkuztrpvFt-QS2Ct7ja4wOlPhxr1L6vsssyT_NAMNrqIQZ2e7BLDWzKDg4z7g",ITALIA 2
@@ -701,6 +824,11 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest_hr.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="Mediaset 20" tvg-id="Mediaset20.it" tvg-logo="https://iptv-epg.org/images/d14y9IEduJCqSxEcSuWVD_SZnZ_YUZa3MrZSfm-iACGsajc9EGGdwawV37RT7_gHZVLcOoE00_65liS9tdyk9w2T0c2fulhFEYLuDsN9jlwojQ",Mediaset 20
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
+https://live03p-col.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="MEDIASET EXTRA" tvg-id="MediasetExtra.it" tvg-logo="https://iptv-epg.org/images/ARKL75cWQkCJ_iPf1JQbxjKZ7c6Io0DxVlj9HYry3p_DFE9MfXGtFeNf1iWNu8yN1PZSXtvqCIM1LLaVVA3d1NPyl9dVEDYLfbjYlsIyk9TCBR1GOg",MEDIASET EXTRA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest_hr.mpd
@@ -716,6 +844,9 @@ https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="RETE 4" tvg-id="Rete4.it" tvg-logo="https://iptv-epg.org/images/uSN5KWwn-zSOsWAiXOuKNqHfiInUTyJGe6VR3T4Wf7ChPOgeMp_H4xepb1Q_-Zqk9xoRjut1uybkwyS7H5HLCjm4tfSIVyyFX9lOTaU",RETE 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 group-title="06 MEDIASET" tvg-name="Rete 4" tvg-id="Rete4.it" tvg-logo="https://iptv-epg.org/images/uSN5KWwn-zSOsWAiXOuKNqHfiInUTyJGe6VR3T4Wf7ChPOgeMp_H4xepb1Q_-Zqk9xoRjut1uybkwyS7H5HLCjm4tfSIVyyFX9lOTaU",Rete 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="TGCOM",TGCOM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest_hr.mpd
@@ -725,6 +856,12 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="VIRGIN RADIO",VIRGIN RADIO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="07 LA7" tvg-name="La7" tvg-id="La7.it" tvg-logo="https://iptv-epg.org/images/wMdSEiT4yZKmgYc_mp7m0UVdUR3mJrMYsortBTulgp6bLKxuP1WYFE5TedrNqATnGvPHor4KO1msFCN3qfpLKoS8inoevXNvmh4h",La7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 group-title="07 LA7" tvg-name="La7 Cinema" tvg-id="La7D.it" tvg-logo="https://iptv-epg.org/images/qxPUPjPQRixxvVoNxT2-7V2CQASU-YWr8Qp4JeRvZYjWloiHK4IpzO_jvrfQLDI1B_KoE0udtxzjslrLDaz7-r26BLOooIVKT69MTg",La7 Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 group-title="08 DTT ITALIA" tvg-name="Frisbee" tvg-id="-frisbee-.it" tvg-logo="https://iptv-epg.org/images/i3zlXVMYI3qmS52chZeTqu1j-7BBFFGpAocx5VWCeef1acXVtoBujsH6aVtCaKt5M8AZtBVooUyCyVD8o7VQ3T-8KbiyEamtKS0tQItfzFFF",Frisbee
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2844,6 +2981,23 @@ https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1781722506~exp%3D1781808906~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=86d0b6fb30f25a31823df1ab82684691:e1b94da0424d4e9fd34fefe386c794f6
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1781736304~exp%3D1781822704~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6e9dbf5170bac891232f5d0f65b5f77e8e3959e82a0fd882ca970c110e8e45a3~hmac%3Df22dd88dceab31e07721ac0362d3d114e0e40da20fb1060ed0363a1bd4bf7b29/12nbay8ciblmm1slybd95uv04k/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 group-title="90 ALTRO" tvg-name="Nove" tvg-id="NOVE.it" tvg-logo="https://iptv-epg.org/images/dnviFkfUtgoNVBKsVi9nyStEqitT9JZ8QsGrOlExvKyyMG-XjOzRtx9_dZ8BWapgnxmeTyGb5jf7O4p4NGpUyMDiIFs2W88oiJPIVQ",Nove
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 group-title="90 ALTRO" tvg-name="MTV 90s" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers-world/landscape/mtv-90s.jpg",MTV 90s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://idx1.karmakurama.com/firstlokal1/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="Telerent 7 Gold (flusso .mdp)",Telerent 7 Gold (flusso .mdp)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w513650171.mpd
+#EXTINF:-1 group-title="90 ALTRO" tvg-name="RSI LA1",RSI LA1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 group-title="90 ALTRO" tvg-name="RSI LA2",RSI LA2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
