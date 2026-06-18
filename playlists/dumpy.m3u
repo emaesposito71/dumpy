@@ -2981,6 +2981,12 @@ https://dca-de-livedazn.daznedge.net/@tend%3A1781886307~geo%3AIT~asn%3A16232~pat
 #KODIPROP:inputstream.adaptive.license_key=e31f2e36507855869d4eb43d0edfdf71:a4a12148f6114c9e448e968003650a4e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1781805610~exp%3D1781892010~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dfa86cf2a6f6f39d58993d3a7cf1abbe96473d59e402282dcf74091b8046089b3%23wm%3D0~hmac%3D177f31ef010b187146e0c73012acfc686722a915ddd2ad35b0b39266ad732ffe/140gl6nd0uwrr1n5o0kabsplt7/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="21:42 Canada - Qatar (MPD)",21:42 Canada - Qatar (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d45c8ac35e9a56c1ae4e82de38e52e7d:7ecdd89cd5cbd0b8b9cf956e7cf80345
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781819105~exp%3D1781905505~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D7dce7564f704d8b685c1efb8cddfd54d0713553390c189b73c7ca0ee40d4482f%23wm%3D0~hmac%3D53969846e0878d2840240adc0a1778d3803512bd4ba3218d8f3c98209520ce6b/cmhc8d711xh71rgmk4mayybdm/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
