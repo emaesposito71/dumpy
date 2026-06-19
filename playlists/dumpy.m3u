@@ -18,7 +18,7 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781946616_f~0_g~1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111846ad1b8bb11b3f11bf7f0f170701:2cffd969c3e289c667474fdacb23bc17
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781867215_f~0_g~1_s~045d7282-c1ec-4929-b553-520a30cfa3be_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~eb3c221803cc135ae4be1820f1ccc7b6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1781956428_s~bb643848-79d2-43aa-98a6-8247d088d6f3_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_l~59_x~723b2a38d2747d5d975ed8510001c643c061a6ab2f08191ecc9b5c44daff6e0b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
 #EXTINF:-1 group-title="01 SKY" tvg-name="SKY COMEDY CENTRAL" tvg-id="ComedyCentral.it" tvg-logo="https://iptv-epg.org/images/6xyw90Hf80t4UKp6w54YlS5Zhte2iMI9OQkpTaoxdvUZszE-I6K-orjNH_4O1Pw4j5htyn-uyT9KBu5AgfAGlUhK-hV222I--eodBueSKwA6Ju0U0A",SKY COMEDY CENTRAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2969,6 +2969,12 @@ https://dca-de-livedazn.daznedge.net/@tend%3A1781972706~geo%3AIT~asn%3A16232~pat
 #KODIPROP:inputstream.adaptive.license_key=f851e5cbc40657bfb3d74cc4c709f003:9ae1f36c627c6c818fdc55fcb70fec74
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781892006~exp%3D1781978406~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D23a02baf3748da1d6628b8b2ab3901f64dc8ec78ba6d72eedde7339c9a2619ce%23wm%3D0~hmac%3D7a20cf9fe6c920de7603b215d67b1f88822444486da7d84d5869801f0ad50256/n0f7vghq58iu1688veps1o5dt/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="21:42 Scozia - Marocco (MPD)",21:42 Scozia - Marocco (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bfd5ec5e636542a9fd13e3ac7d2dc71:fc65ae85fcfdcfc86ceeb92d97e42da2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781905508~exp%3D1781991908~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dcaedb2664631d10ad97659c615f590ae686b4c63ced58d93a0f4ddfdf4e8cd8d%23wm%3D0~hmac%3D2c1059d1940e358c6e32acf852cf97b7c4d89411b3bfd1c4703af09e1e58e7e0/1ashibtj0uvz91ovisybym5mtq/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
