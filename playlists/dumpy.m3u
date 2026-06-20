@@ -2939,6 +2939,12 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="00:12 Brasile - Haiti (MPD)",00:12 Brasile - Haiti (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe5c9d4410e258bc81e2d5df765c9f80:b9056ee42d4f970037200c1d9b175f1d
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781914504~exp%3D1782000904~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6e117b13f65c6e8983cb752893855e21436155187de237387620ae6d54a970eb%23wm%3D0~hmac%3Deba07b5b7fefd91c1fd64920571493651d864c6e8434220331e2d986ab26576a/1hizm91cucfe21pfxzsb3at5te/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Messico - Corea del Sud (MPD)",00:42 Messico - Corea del Sud (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
