@@ -2957,6 +2957,12 @@ https://dca-de-livedazn.daznedge.net/@tend%3A1782059104~geo%3AIT~asn%3A16232~pat
 #KODIPROP:inputstream.adaptive.license_key=8eb91b785b0e50748cdc5e66dfe70165:8151b68efcd8387992f694b617a4c7be
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781973904~exp%3D1782060304~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D9ac81162dcbd9ad81c12799c6ca4b6e3f6c2ed54cb54b27620b059e4eda3bc50%23wm%3D0~hmac%3D9e4ea807cbca727bc2ec19bdb88452a039391d0cbecbfd226b4aa80e96730a08/42j9j0se9kq31cj6h33wpgp49/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:52 Germania - Costa d'Avorio (MPD)",18:52 Germania - Costa d'Avorio (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e7ba54ce7a58068ff0595b845a1e27:bcd3a02d5d3b731a5004bed3777a8dcb
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781981705~exp%3D1782068105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3096ef28213264446a4de314d2a5b4bbf443d2061131292c5603e91f34b71489%23wm%3D0~hmac%3D4696d992a45e0b13d03a1bf346e5f18d916eb021b10fd0a0edca171c732f04eb/cet5dnw0yfu71s3uvcgl3vsa3/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
