@@ -2969,6 +2969,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782056705~exp%3D1782143105~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=2ebe0b95dc455307a90a40a20c6b8f57:06892386276c91174c3621a1a072395c
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-de-livedazn.daznedge.net/@tend%3A1782145205~geo%3AIT~asn%3A16232~path%3A1_1_ef5755aaf168b81227cdf341d2348fd84dc7b279bca451c5dd607c3dcb6e092a~id%3Ac455b0b765db~tk3%3Ab44c103a363ad996baf84d6d0bb427e331caa8c87b0f114388377a2706f3b337/jwd42uzqe9111stu97tha3bj2/web/stream.mpd?channel=5062&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="17:52 Belgio - Iran (MPD)",17:52 Belgio - Iran (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e59b132f5685772ac57faa5038287e5:2f16f04e84e0dca818346d3bd35e0644
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782064506~exp%3D1782150906~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D78ef88e0076c60eb6094a2bc2a530027f6c84e152edebc6ffdc3aee9ac79dc58~hmac%3De75e9aa7ade0af105a2ffeccf7e3e6d7ff5f34f42796ccd52ca054b582e85f26/hjl93i7s9hsw1fhilxlmas94b/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
