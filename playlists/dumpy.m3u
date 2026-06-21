@@ -2963,6 +2963,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781973904~exp%3D1782060304~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=17e7ba54ce7a58068ff0595b845a1e27:bcd3a02d5d3b731a5004bed3777a8dcb
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1781981705~exp%3D1782068105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3096ef28213264446a4de314d2a5b4bbf443d2061131292c5603e91f34b71489%23wm%3D0~hmac%3D4696d992a45e0b13d03a1bf346e5f18d916eb021b10fd0a0edca171c732f04eb/cet5dnw0yfu71s3uvcgl3vsa3/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="23:42 Ecuador - Curaçao (MPD)",23:42 Ecuador - Curaçao (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e7f72a477eb5fcb99f17e1b82e881a1:b7486b69ba05fa4944790f1d608753c4
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1781999105~exp%3D1782085505~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D072f89e0e9a177d23eee5338c4a1f9b4657048865d9d896c313ae24ddf553c74~hmac%3De7c59e3f012a6eb1d5408a78ec3d76ff24df12f1c30a3d059dc2d14669dee267/10hw44zbofetp12734i95j8z6p/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
