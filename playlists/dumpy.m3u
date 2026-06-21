@@ -2945,6 +2945,30 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0fba645cec185f8fa0e2035fe896c6ee:1ca4fa98de80fe651949e345b2f053fc
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782013504~exp%3D1782099904~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D37e02cb62bb1187612ad4e82f00bd723ffa18609b5c574e0932ebba0566c6a57%23wm%3D0~hmac%3Dd867d8b627488c691872568fb77df719ec06fbfbe3c9722351baaaa167d303e8/1kxbnrnplr34g16v161gjqyhun/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Giappone - Italia (MPD)",12:00 Giappone - Italia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221f67ea7c44527290d7668f2cdcbfb3:7398448fce762853d9043e8959e22494
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782042305~exp%3D1782128705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Deaeace415ce1f5689080ca9a7a65a749ebd3c6dda4a886359d198bb4d3a62c63%23wm%3D0~hmac%3D497391c7a0a722d3626849e2324461110099ae52748c462f3db68c13a777dbab/i5qql7l5g2h114lko5w4dycgq/web/stream.mpd?channel=3929&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:55 Copa Mundial | Episodio 10 (MPD)",14:55 Copa Mundial | Episodio 10 (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a299f6014b1550b3984993edb0b36ca7:45a14493468fd657efa917f7a7d52148
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782053704~exp%3D1782140104~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D847410f05bb8d1e2e47ccf056605c43e56af97f42453a970b58712a1bcd0044a%23wm%3D0~hmac%3D38f8de51096d605c73bb8676d8b613017d524040a84c2b021d9b6df2b679f21f/8zqid83id1qh1caa5odu0ign1/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="15:42 Spagna - Arabia Saudita (MPD)",15:42 Spagna - Arabia Saudita (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d7e95ece71254e7be1078eea7decb07:f481b0cd2de756b1250da7eba61fb814
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782056705~exp%3D1782143105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D347f4868bb3a0a64969e38a5995dc31aef8eb9d178fa3269b988554602687cea%23wm%3D0~hmac%3D5a83611f283ebf9a92061d135aecd335650b2d7486b61e68f851d145a4207705/1d5cw6r4pt6pe15j6aroyjxyhp/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="16:30 Turchia - Cina (MPD)",16:30 Turchia - Cina (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ebe0b95dc455307a90a40a20c6b8f57:06892386276c91174c3621a1a072395c
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-de-livedazn.daznedge.net/@tend%3A1782145205~geo%3AIT~asn%3A16232~path%3A1_1_ef5755aaf168b81227cdf341d2348fd84dc7b279bca451c5dd607c3dcb6e092a~id%3Ac455b0b765db~tk3%3Ab44c103a363ad996baf84d6d0bb427e331caa8c87b0f114388377a2706f3b337/jwd42uzqe9111stu97tha3bj2/web/stream.mpd?channel=5062&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
