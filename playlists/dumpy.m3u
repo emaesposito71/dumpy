@@ -4,21 +4,46 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118064bcea5a4106fb2267f279f2649:279a852121432f14ea2e7c5d15401238
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971772_f~0_g~1_s~75d76339-80fb-4778-a889-adbbfc58963c_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~58_x~28d3b1ac0b61b3b18e874b1b1fad4947/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyadventure)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY ARTE" tvg-id="SkyArte.it" tvg-logo="https://iptv-epg.org/images/Jb1Vvjh07hwjA46jKe1BmMWcGzJ5keVxjdi2HdpNPR6H2buwQUr-u8Rat2thqFaGvfwgOmET2JSlP9SK-Pm7eWABuupB0KfrPHQR9uFDbw",SKY ARTE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11182a6b78e28a52ffe2608ab6c0f56a:39454b9b64b2d2a1dfa0788c9087418a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971774_f~0_g~1_s~1cbb8111-8d82-46da-bb9d-31e8850f97b2_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~53_x~9f864c2e71c164b0a6394ff2470d6068/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyarte)/master_2hr-all.mpd
 #EXTINF:-1 group-title="01 SKY" tvg-name="SKY ATLANTIC" tvg-id="SkyAtlantic.it" tvg-logo="https://iptv-epg.org/images/eK3zNXjP7rxRYYg37ZxgbHAWS8zN8aE9knm8FBEXrX1lQABdc2HWDZEFgk9BcjfvqFf4ajpqekUGcSnkBcbnts6bT-U79ybDMNNQNW1spYqtBWw",SKY ATLANTIC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11184e6a02026b6f51de0ebeac7cb6eb:ac244b5a24bb0772511fbdc4d3b400bf
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1782054233_f~0_g~1_s~489da428-769c-460b-9c7a-55d6b25a2695_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~57_x~6e1f5e8d5697ecd635614175b1904a21/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyatlantic)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY COLLECTION" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/logo/main/generated-covers/landscape/sky-collection.jpg",SKY COLLECTION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=111846ad1b8bb11b3f11bf7f0f170701:2cffd969c3e289c667474fdacb23bc17
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971769_f~0_g~1_s~3bf95bdd-cad4-451c-92ce-43d8fd108839_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~a67e5074e8bf57ea0f0cf436485203a4/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
 #EXTINF:-1 group-title="01 SKY" tvg-name="SKY COMEDY CENTRAL" tvg-id="ComedyCentral.it" tvg-logo="https://iptv-epg.org/images/6xyw90Hf80t4UKp6w54YlS5Zhte2iMI9OQkpTaoxdvUZszE-I6K-orjNH_4O1Pw4j5htyn-uyT9KBu5AgfAGlUhK-hV222I--eodBueSKwA6Ju0U0A",SKY COMEDY CENTRAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11189afa675ae2e1ac1e39747f54e3ff:c48d5ac4621d7738f8442b6476618705
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971746_f~0_g~1_s~f056d0c3-bb62-412b-be0b-e5e090bc2477_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~59_x~4a863a3177db5e0c3b47406ad177dcff/nowitlin2/Content/CMAF_CTR_H1/Live/channel(comedycentral)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY CRIME" tvg-id="SkyCrime.it" tvg-logo="https://iptv-epg.org/images/aykW13R5XgxI_LGbsYiNQbSu03hFHrpWMxsXSAUF87YYVeChwLclxLi-UktTDnwZsIwIOj6368EpkzAR0H-8spS9NEaD06dicpa67lleHqc",SKY CRIME
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11186bcffdc1c47dbeaaa7d557002197:c84de6e52919f9c47726e75e5788f6b9
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971742_f~0_g~1_s~472e0db8-e776-4e2e-a4c4-d5e8c7afb037_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~54_x~d64dc10646dce247c60cd8a6018e4273/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycrime)/master_2hr-all.mpd
 #EXTINF:-1 group-title="01 SKY" tvg-name="SKY DOCUMENTARIES" tvg-id="SkyDocumentaries.it" tvg-logo="https://iptv-epg.org/images/7eyhi7yC3ISFxnFOTl4_qo-u60MC_BLYpY0Ys5XqnsaAlLEbM7FHDMvyn1z-M5AA1wD7fDOJ19XVyh6cmPl-ZczvhOuY12FHCJrbKVAdRi2y-a8jwhHhvw",SKY DOCUMENTARIES
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183ce2812f8e6de76e9960791f373b:0b9a47e8dbd5bea92472cf8684a1bea7
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971768_f~0_g~1_s~e1edf846-6517-4a1b-a0e8-f7d5e70edd9a_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~62_x~3ae6861ce4c9796eef04ed93d4be9235/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skydocumentaries)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY HISTORY" tvg-id="History.it" tvg-logo="https://iptv-epg.org/images/t_kYph7u86XxQ6aqxcZJspd66wUgN4finzeZeDNYIysYreOsNlFaZy80HS5G13pRDbIVOudoTUU32p2WRYRORIUHGL85eqxn4ORE9l0f2w",SKY HISTORY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11188c23784cc238e403a7ed90958795:a8a2fa68d6803452537b7862503f7b8b
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971772_f~0_g~1_s~9acdf4f1-e419-49ec-887b-f135bff2a461_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~60_x~8f3256f61bd2924b36262a119640c3dc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(historychannel)/master_2hr-all.mpd
+#EXTINF:-1 group-title="01 SKY" tvg-name="SKY INVESTIGATION" tvg-id="SkyInvestigation.it" tvg-logo="https://iptv-epg.org/images/bySYKiC1_ME1H3iyIY-S0T3aprwTSTjshhszTfHdJr2G6eafNzKdlXYJETWgUcCFtqFyGfNeJn2bfmXxOigetEnNg_rVcaLovtwgUxDaoRUkvongcc5Hig",SKY INVESTIGATION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118372f0e5a5be838da4313ddcd13a7:fb22d7ff7b1988bc71d03d033e8f34de
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1781971742_f~0_g~1_s~c2d90124-0759-4880-b9eb-e5b8baf300d2_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~62_x~d2206552885237c7ade87ca951035606/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyinvestigation)/master_2hr-all.mpd
 #EXTINF:-1 group-title="01 SKY" tvg-name="SKY MTV" tvg-id="MTV.it" tvg-logo="https://iptv-epg.org/images/_fai0_dtZisqXRzB0DeTQ-C-2bEAk7HCTPujDnLDNimC-yFi3uo-Qk0zuDJQKZr_wuo-WM46R0s2fB3sak_9sqBIL9FrwCf49iTi",SKY MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
