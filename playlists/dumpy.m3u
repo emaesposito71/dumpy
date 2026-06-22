@@ -2963,6 +2963,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782140104~exp%3D1782226504~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=1044bddb462358be91f4687fe8d73348:0682f373a89ed2f19b24b7984f1ab215
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782146705~exp%3D1782233105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D997d00248b9550771e1c8d991b0e35271c902a9e07ca02ea05b308ef7b6238d9%23wm%3D0~hmac%3Df3968b816884cddd6111146883016e790371e1fc62180330fd61a298dba7904f/19wdby47hqfd81rya0t8pd8zv8/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:52 Francia - Iraq (MPD)",18:52 Francia - Iraq (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6eadc515f35a557aa84f2bfc6465656e:a965ddf35359c9ddbc31c96b818e0fa0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782154505~exp%3D1782240905~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D470e35aeb950b227b511e897e45261627bbe283e592977aae1308622e3944365%23wm%3D0~hmac%3Daa15dc669aa51e1d3425af1ad05754035c3b5b7630b14b1a84255101921aa66e/zb3k7w7cvm3w17hux73pd1pob/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
