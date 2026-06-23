@@ -2963,6 +2963,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782226509~exp%3D1782312909~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=cd5282d618b352a1b579d2ac71d10410:b282234b486fe044c27a7b828a1b674b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782233106~exp%3D1782319506~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D8f338b6c971096ed6076c9a0b841ba2d60567b4efbef696857130450952e82d4%23wm%3D0~hmac%3Dea1a1fbb12c3a7a6268aad8fe7ebec16efce25260f47e1070d040459bbe80e29/1j3x4dnv5ri0r18x5gbmy58kex/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:52 Inghilterra - Ghana (MPD)",18:52 Inghilterra - Ghana (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=babb35afaca65e63b6bc83cf67e0f26d:af7f30c1d74660d07f46860c2a14ec9b
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782240906~exp%3D1782327306~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D05f75e5381cfe70b432416200a933188562778d5d88632f7fffc787dab736120%23wm%3D0~hmac%3D906c6a26ad88a1ebfebe0b0e17c23f687fe260b09219859b4cd3d18cea577522/15mekwocdyyzr13f7z9e3um0j3/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
