@@ -2945,6 +2945,12 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bd9cb3602ac35ea190ac9f6d63714975:11eff37425f46f508f9b170224232d82
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782097205~exp%3D1782183605~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D491146bb2eb7a874775ac0b584f4c4f348084bcec98ecc92e37fa14935d17f41%23wm%3D0~hmac%3D97d09d29fe25fc08e88651415341a9368d0fb56ebbd91983d7c97df49a22d07b/c9laj6swo1z21b4ukimq1qj5i/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="02:42 Giordania - Algeria (MPD)",02:42 Giordania - Algeria (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=639bff8b4c0150b28d5d674b87004420:78c7410e6d54670c17a6b60c021d8582
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782182705~exp%3D1782269105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D889cb6a1ae63682c7ba71673936debf72c9d214b3e226efaf93d14bd3d2bd4de%23wm%3D0~hmac%3D0e9b25c27d7270fd4a8d37d8d5826e3f47a607eec0030bcc5d1a6c917b39866f/1w85s652620hm1fvny6vceb0dg/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Tutti Convocati (MPD)",12:00 Tutti Convocati (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
