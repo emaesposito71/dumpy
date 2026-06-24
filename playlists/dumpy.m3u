@@ -2987,6 +2987,18 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782326704~exp%3D1782413104~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=4bec96a83d725565a0e2fa647b31abca:25b158f59571a3c592a9106cd42a3363
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782326708~exp%3D1782413108~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D4a2fd22c2a1b16a3639ffafd2e640e3c0f5576c3b000ef0be942faf084de3db6%23wm%3D0~hmac%3De4328e9a3664de2c8101b3b50e37b03753ff30e6a7c24fbdcfa33a1fc9125dd7/ieqabi93wkcyzqba3qss5r1o/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="21:42 Marocco - Haiti (MPD)",21:42 Marocco - Haiti (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30fa7b8aab04594ba776acb10ecef260:91346443b585859664c3dd0ee9a5640f
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782337507~exp%3D1782423907~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D260fe88bf0ce11bdecb8a87681c5e0c2e5c65d20d00148f13682ac88c4a6fc59~hmac%3Dae9dd330ad4a7bcc435289331bd161d9180042faca3787e8ffb6decfdd2524e8/1jky9wd6iys8w1bdqxr843zorw/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="21:42 Scozia - Brasile (MPD)",21:42 Scozia - Brasile (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72b3b9d0625d5199885418e230b1cc79:cc887b3f16de58d6edb10ffd07fee195
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782337505~exp%3D1782423905~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da8e08d8a9809af3922505a43f16b9bf194ca415a3db97f324335282e887e752b%23wm%3D0~hmac%3De010be80f15ecabba7d38f4a362b3ed8b438cd7484239f5084437f56ab76b027/1n6dpe3o7d09y1l7xnx78ai6l4/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
