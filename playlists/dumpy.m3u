@@ -2951,6 +2951,18 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782356407~exp%3D1782442807~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=30dcacf91c885f69bb82303ab0a655a2:5606a24b9ed0321b5c88c5cf17d716a0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782356408~exp%3D1782442808~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De5270558997d833db246bfb5d888c1cd21a2442ca38699a57e7cbebdbe4cd44a%23wm%3D0~hmac%3D6eacaa77fe8623236b58961a906552d398c210b1274eaae8912c6ceef0df8fd4/1mtxs8xj4p7j21gr1zb9aw7ats/web/stream.mpd?channel=1651&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="01:42 Paraguay - Australia (MPD)",01:42 Paraguay - Australia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da06bc61821f53f6afa8096075e708f0:f9e718ceebe9f33dddbb5d50eddf1424
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782438305~exp%3D1782524705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dfc1b428360ae2a45c4bc3773fbd6c5f6acace5884085865fbdd0e699f35f8c8e%23wm%3D0~hmac%3D1c20fe5ab3bb988d69fcebeb1d8ddc5546f703fa722a81e6d505f4269b126a82/186g7bqwr9mk61072abre0eqw4/web/stream.mpd?channel=1651&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="01:42 Turchia - USA (MPD)",01:42 Turchia - USA (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2854c148a52e56f7a7e10f987ecb21fc:a2f5ee6fbc7a0550548dfed51450f89e
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782438308~exp%3D1782524708~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D1dfbf997880ffea283d78220bf7013cf11ce59dbc5716982f426933564e37a75~hmac%3De3564a6c338bf6fd09eadbc130facb4fd2ae7ca136c1baf3762122be6631a2ab/7sojzaaw87621s37qxvac4kqc/web/stream.mpd?channel=1650&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Tutti Convocati (MPD)",12:00 Tutti Convocati (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
