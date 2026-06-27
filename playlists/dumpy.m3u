@@ -2939,84 +2939,42 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="01:42 Paraguay - Australia (MPD)",01:42 Paraguay - Australia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da06bc61821f53f6afa8096075e708f0:f9e718ceebe9f33dddbb5d50eddf1424
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782442805~exp%3D1782529205~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dfc1b428360ae2a45c4bc3773fbd6c5f6acace5884085865fbdd0e699f35f8c8e%23wm%3D0~hmac%3D2ecf5f9c6dd9f8ad1be03ce8d1f7f3105b975b7703bc53667a423c3654feac31/186g7bqwr9mk61072abre0eqw4/web/stream.mpd?channel=1651&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="01:42 Turchia - USA (MPD)",01:42 Turchia - USA (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2854c148a52e56f7a7e10f987ecb21fc:a2f5ee6fbc7a0550548dfed51450f89e
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782442807~exp%3D1782529207~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D1dfbf997880ffea283d78220bf7013cf11ce59dbc5716982f426933564e37a75%23wm%3D0~hmac%3Df977e5819615b4d31b608b769926df1368e17caf1fa6bbea20bec72c539cdb85/7sojzaaw87621s37qxvac4kqc/web/stream.mpd?channel=1650&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="02:42 Egitto - Iran (MPD)",02:42 Egitto - Iran (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8113091d735058ef879106669b01acc9:5f0011788f765c6eb2760565b8436af9
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782528307~exp%3D1782614707~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da041e648b3160263a82f554b20ccd350904dafe09c94434dd2c96ca54cdd3822%23wm%3D0~hmac%3D5ce53b9e0db8e4101653ddb76fa311bc12bb9698d3c27f67d2b083ac48c81ccf/11rlpwcot89z318mw68o6v1lys/web/stream.mpd?channel=1650&mta=it&outlet=dazn-italy&plang=it
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782529205~exp%3D1782615605~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da041e648b3160263a82f554b20ccd350904dafe09c94434dd2c96ca54cdd3822%23wm%3D0~hmac%3Dc76e4605245a3f34ad01ebf859d2d930143346c4ed97cf496c4d94f01ee22889/11rlpwcot89z318mw68o6v1lys/web/stream.mpd?channel=1650&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="02:42 Nuova Zelanda - Belgio (MPD)",02:42 Nuova Zelanda - Belgio (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09d7df8eeda750d4ad0e56e8e74a9854:09346284d5443399d2f525445879f913
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782528305~exp%3D1782614705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De9b4a8630834734c717ea8a47e66b0cecc0ce7e5f9865fbe4793ff99d0193a29%23wm%3D0~hmac%3D7e99470a552dedc152d54ea726f8e2fe61931bf9f38b104d6b7a5897674789b8/1hoeg7xyhl2s21029drotxfl5c/web/stream.mpd?channel=1651&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Tutti Convocati (MPD)",12:00 Tutti Convocati (MPD)
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782529208~exp%3D1782615608~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De9b4a8630834734c717ea8a47e66b0cecc0ce7e5f9865fbe4793ff99d0193a29%23wm%3D0~hmac%3D3f9a87c054d8e52f16147ec46ea741bf6c869cecc6698c96e85e324a820c5b7a/1hoeg7xyhl2s21029drotxfl5c/web/stream.mpd?channel=1651&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:55 Copa Mundial | Episodio 16 (MPD)",14:55 Copa Mundial | Episodio 16 (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0083bc5e268352ce9f945e411b6241a4:fa14c159a732b19a8fd57198167b69b9
+#KODIPROP:inputstream.adaptive.license_key=c6adcac2e6e554eb9c6f7f3bdb72348e:d550fcfca1f48e7754b64df02319593a
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782475205~exp%3D1782561605~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D4529bd9f6b43fc2d0288e2b50b34330e5801fc46c7e2686fc9e20483ad458378%23wm%3D0~hmac%3D2de1ba57c126f27d20c6bfd1b206bdb2ada8bc894b6ec86dc22ee3e0fbf82944/18epyuc8mgzv41x8413kzlb8jh/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:30 Cina - Argentina (MPD)",14:30 Cina - Argentina (MPD)
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782572105~exp%3D1782658505~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd87a1200ad210b82458cdae58896506dbfcf38025e44d64497b8b822e43e5140%23wm%3D0~hmac%3D7062e9dbf73b25ee62609bc0d24f26f2c17d47449789d1c2189480041149ba5a/122xhpnmiscxw1mtswitr95q8q/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="15:00 Polonia - Germania (MPD)",15:00 Polonia - Germania (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31b4505ce2535e4d8f624890e46f8b7b:ec8652b363a6222d95213077dc77e3ac
+#KODIPROP:inputstream.adaptive.license_key=5e1b32c7913059e6b820b6ff19bc2525:207ff5b40e6b88165163c503e6d23141
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODI1NzAzMDYsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiOGM1ODQzYzI5MDRkYmIxMWM2YjM2OGEyZmZiYjliYjlhOTA3ODUyOSIsInNzaWQiOiJjNDU1YjBiNzY1ZGIiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3ODI0ODM5MDZ9.SXmQMNh5vr3ekNbOgbvrxf17Aj0wiQ_x2v-2wsfGNrY/o843vmbj98641immpewt01q8g/web/stream.mpd?channel=5067&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:55 Copa Mundial | Episodio 15 (MPD)",14:55 Copa Mundial | Episodio 15 (MPD)
+https://dca-ac-live.cdn.indazn.com/dugongeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMnhwYmRwYWV2d2hjMTl1bDcxcndmYXlqNiJdLCJleGMiOltdLCJoZWFkZXJzIjpbXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjE2MjMyIl0sImludHNpZyI6ImhZcmtHTG9rNUF2TGNEZFNpZXR3ZEpqU21taElDWTVWTGVEclpvWEdVRm8iLCJpYXQiOjE3ODI1NzIxMTcsImV4cCI6MTc4MjY1ODUxN30.N5pZ_g3O5aiAvaRG6yr6q2gYIH-arh0xa9OMDCgSFOw/2xpbdpaevwhc19ul71rwfayj6/web/stream.mpd?channel=5072&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="15:00 Stati Uniti - Giappone (MPD)",15:00 Stati Uniti - Giappone (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c8cae321a225317b5b080ad6ce37333:c83bf50fa9d4e3b9a327df817ee728b8
+#KODIPROP:inputstream.adaptive.license_key=158db37f18255df7807d6db0d2a2f340:291ec4b6c0391bc6a624858eff0abf3e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782485705~exp%3D1782572105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D2086b22ec20c48c51fddd760be4c0f1276cf8aed007ae013a1a6601d2981709e%23wm%3D0~hmac%3D4e7c13ee8fbb87f728ab895fa337c864d490c83274fac30a0beb9165e231073f/12ta16kjxwcxmz8xq1csgpngd/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="17:52 Zona Mondiale | NOR-FRA SEN-IRQ (MPD)",17:52 Zona Mondiale | NOR-FRA SEN-IRQ (MPD)
+https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODI2NTg1MDksImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiODcxNTljZGRhOTEzZjU1YWIwY2RlYWIyY2YxYmU4MTgxZGJlMjM3NyIsInNzaWQiOiJjNDU1YjBiNzY1ZGIiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3ODI1NzIxMDl9.6BzGRDN2BLFGafZ-Qo3m4a0q5YfkoHheI3YwtHDANxY/1qj8qws8t09tm1qllpho4et5gb/web/stream.mpd?channel=5071&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:30 Slovenia - Brasile (MPD)",18:30 Slovenia - Brasile (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=497dd187bb475fb2879c77216bce7259:133f5342d61fca4221a7001a69e9a07b
+#KODIPROP:inputstream.adaptive.license_key=92673c81d658523daebabf734f621579:7c130b68b4d9dee27c9447d12e60ea5b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782496504~exp%3D1782582904~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D770e5aca38458205f791db5a198377d69406abc462c2398aa9b8c04757f50743%23wm%3D0~hmac%3Dd6882e49ed42736ba42fbc3b87260b3c63fa0707cd1921278a79ace9ceac975f/4icqd4bs2zax1b3l480rq85ya/web/stream.mpd?channel=1637&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:00 Brasile - Italia (MPD)",18:00 Brasile - Italia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=862cc9eb565958269fa2553af820999e:3084416a7bb943f8343e63cb7744f522
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782496205~exp%3D1782582605~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dab9bb2a7fc272e138e07921a01f89ccc8be71c1becef8634d847361e7b12ef5d%23wm%3D0~hmac%3Da442d4aaa35da70d414f45d6ab8b718f00ff188e7e0a2f36a16ba28d4c342539/1ak5nsepopp4l1x2ixcc4rim13/web/stream.mpd?channel=3928&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:42 Norvegia - Francia (MPD)",18:42 Norvegia - Francia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c83fadff930b5ab79a3b27389ab2815d:9358aacae82de7433662fb4907e89142
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782499504~exp%3D1782585904~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Daab61e77777e09039b7028a3845948e38cf3e9fd6c20379efb3ec60ee75efa07%23wm%3D0~hmac%3D38a7f6028316016592036b8b3df406a3d10b0e027a59ccd2977d0cd1d358158c/1g3dbi5xyuu9m1iwimy6878mek/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:42 Senegal - Iraq (MPD)",18:42 Senegal - Iraq (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a0b7d7cc7ee5082b25bc5a783691b88:27782c1b0001d873ad2f102af6dca8b9
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782499507~exp%3D1782585907~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dafdb88bfbf2b381d354dcfc49beea54028056013e23b3b9571fc67ed96d02f4c%23wm%3D0~hmac%3D9038b0764bebd7a783194e8073e3c128f5a8549be18e3e109fe3d84d0ea15a42/z2w6tcdyb9o616arp8oy5pyvh/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="23:42 Capo Verde - Arabia Saudita (MPD)",23:42 Capo Verde - Arabia Saudita (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=375d45348fb752a1a0d6617f125c077c:183e56489989dc982251f8b28787bf53
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782517507~exp%3D1782603907~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D62961441d9ca526446105fe173921e2c7d0dcb1ab36ded3aa540218b0c12c725%23wm%3D0~hmac%3D68ac90adb59721ee93dd3c31247028c719c19313945ff13e6556776fb000beef/dpnuflzqqjee1pb9al67q4bw7/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="23:42 Uruguay - Spagna (MPD)",23:42 Uruguay - Spagna (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcc92d1e820535ebb80e169f092f1d4:21af33dcd4f20101143afc3c48c27edd
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782517504~exp%3D1782603904~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc16a384f4f9755ee4a5d32d03069c20c9f0697d0919cafeba874f0d6dc4d7545%23wm%3D0~hmac%3D970058767ee2ca5a788f43becb697d23a778382a5dae018e5c4ac23ba246d649/10nzvgmnezn6h1d8wp1so8nhv5/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
+https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODI2NzExMDYsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiYWVlMjFhNjQzMTQyZWJjZDMyODhmZjAxYzZhYjNiMjdiYjI0Nzc0MCIsInNzaWQiOiJjNDU1YjBiNzY1ZGIiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3ODI1ODQ3MDZ9.o6JstMzTtxrCWsWU5DboffANHSqPyYfPUJcWAbwudOI/viw48dichfg61xmr3b3asearc/web/stream.mpd?channel=5062&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
