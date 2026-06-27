@@ -2975,6 +2975,24 @@ https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJl
 #KODIPROP:inputstream.adaptive.license_key=92673c81d658523daebabf734f621579:7c130b68b4d9dee27c9447d12e60ea5b
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODI2NzExMDYsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiYWVlMjFhNjQzMTQyZWJjZDMyODhmZjAxYzZhYjNiMjdiYjI0Nzc0MCIsInNzaWQiOiJjNDU1YjBiNzY1ZGIiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3ODI1ODQ3MDZ9.o6JstMzTtxrCWsWU5DboffANHSqPyYfPUJcWAbwudOI/viw48dichfg61xmr3b3asearc/web/stream.mpd?channel=5062&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="19:52 Zona Mondiale | PAN-ENG CRO-GHA (MPD)",19:52 Zona Mondiale | PAN-ENG CRO-GHA (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=491c6bfc704b597aa5d4ba90429d0398:80e2673e0123ccaf084167fa63c726fb
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782590105~exp%3D1782676505~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dbea04cd0b3e67076adc1ddf3e147da4e851b67b00d5d6c3b1aaa83f27c1bede6~hmac%3D37053e3ca5fd4b203d01805c6ac3fd51c0e1ea571f09a1226da7aa820d31527a/1gy88jw1jwthu1umqohmfvss4y/web/stream.mpd?channel=1637&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="20:42 Croazia - Ghana (MPD)",20:42 Croazia - Ghana (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4538853f099b5312bae86aee78ba3a97:252744270faac488bdc947f710ad4c1a
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782593106~exp%3D1782679506~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D4da019f78bc0a477e405945a37f4b59f7749a7d91e10726664132c6243e8d066%23wm%3D0~hmac%3D0d5539a03fa2f38f10cdea8cfe6a6767267857f136da53340fa11dcde65ecddf/iutlodwrtgbf1tc88gn3lxgr4/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="20:42 Panama - Inghilterra (MPD)",20:42 Panama - Inghilterra (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f657d2b86fc54ee959b3833426fb2eb:b31b3fa656c656346ec73441e2b1b629
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782593109~exp%3D1782679509~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc089ac78ded6cd00b01212dd3cf1eb439d1d9f4d4338bf46283aa1dc361698ab%23wm%3D0~hmac%3D791233b73d09cf123a7b0834f0f178ae817e1e6363b36485765218e158c4e42f/iyzwioli6bul1mwt4jkptbo6t/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
