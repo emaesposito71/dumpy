@@ -2939,6 +2939,18 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="01:42 Algeria - Austria (MPD)",01:42 Algeria - Austria (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23b7e2ea7fea51d3833eb6012cd95cb9:867ce56aaf8c93d1c6e42a5ca2ebfb60
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782611107~exp%3D1782697507~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3ad09cba9cb935beb27e077ebc075d05c9572d35f190b6aa53e5dbe347a0852c~hmac%3D4692d0e06f0936f98b238055f4f4f90892e7e5922cca6e0f8a544056a00f6cd4/1550egzvcnfbfz3y6x3a5yifb/web/stream.mpd?channel=1650&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="01:42 Giordania - Argentina (MPD)",01:42 Giordania - Argentina (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77ced16892565df49da534b27365298b:e0e52bf2345b462829b81118808e9a18
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782611104~exp%3D1782697504~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd5e98119b336b385a3e5f25f9ff14cd92f11af640b99145d4c823c24ee64a2a4~hmac%3Db13cf36d4e1ab7f2e0f85034a0181b88be4e814897baca0a43ef8251bc4e45ee/2lle64ho1x41ht5cjfv09kft/web/stream.mpd?channel=1651&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="02:42 Egitto - Iran (MPD)",02:42 Egitto - Iran (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
