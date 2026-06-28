@@ -2993,6 +2993,18 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782593106~exp%3D1782679506~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=0f657d2b86fc54ee959b3833426fb2eb:b31b3fa656c656346ec73441e2b1b629
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782593109~exp%3D1782679509~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc089ac78ded6cd00b01212dd3cf1eb439d1d9f4d4338bf46283aa1dc361698ab%23wm%3D0~hmac%3D791233b73d09cf123a7b0834f0f178ae817e1e6363b36485765218e158c4e42f/iyzwioli6bul1mwt4jkptbo6t/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="23:12 Colombia - Portogallo (MPD)",23:12 Colombia - Portogallo (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1a9224faf1520fa940e46a2680ca99:93a9a3874199301656bf7ed43fb69f98
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782602111~exp%3D1782688511~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D7bb37cad5e12a8f01097fe65292df534d6bf4d5c9ec090b66f389e7edae550eb%23wm%3D0~hmac%3D4d3d5b60cc3b21db40858860aef91c05dc734c005250f4fd1b53617ea11ad333/se2s10hq8qgl1865ordbqda82/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="23:12 RD Congo - Uzbekistan (MPD)",23:12 RD Congo - Uzbekistan (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f3eec3373615356a20399b7d114f6f1:1e274e65630173347058083841b4e592
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782602106~exp%3D1782688506~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D87d4843694b0f70c5843a76eb681677e12780ec8ab990c41db5c2a88fb815ae6%23wm%3D0~hmac%3D9aa4497197d7f0c6e2378c4f2cf6706535148e5c99b63ee98995288d79c1d5b3/7z7h3cxx7gwi190wzq23wmhy4/web/stream.mpd?channel=1649&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
