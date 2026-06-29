@@ -2957,6 +2957,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782744905~exp%3D1782831305~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=04d60b26f0de512099b5015661768645:6b0178975841d7c5fc54f8dae50658a6
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782751505~exp%3D1782837905~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Ddf9f2f62ae18f17420870685b827ac7e4a63fef34e5073758a551d9ba60d7af6%23wm%3D0~hmac%3D2e4ba42953c5bde7f8e43d56faefdf19ab65ba524d186cbe81f67c896b8fb5cf/nzfx1csw33a51f9iastxat7mn/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:52 Sedicesimi | Germania - Paraguay (MPD)",18:52 Sedicesimi | Germania - Paraguay (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35472903ef405bd4948abaea2ae73052:adc361f7ba53393588d10f7beba7b824
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782759305~exp%3D1782845705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6358e4442d4bd8070d59289afff7e0c6e8327100b9b71c53b9b6c5f6b7b618ca%23wm%3D0~hmac%3D9d8c8795da24ce646c3344bf5cff1909b9951115f562144bf3e817a78744d1ef/1la9nwynmri8k1csyqwltwrtda/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
