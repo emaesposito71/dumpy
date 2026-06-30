@@ -782,7 +782,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest_hr.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="CANALE 5" tvg-id="Canale5.it" tvg-logo="https://iptv-epg.org/images/C9_jU-XOZ8pmNZYMpCZwYsfHF7GigQkOEevSBJ6Ap0VnDpfzzSs_erggv075aZbTefHQmecyGns132LE6dE_c0gKLEvZkQJkeY0dMoZ1wA",CANALE 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="Canale 5" tvg-id="Canale5.it" tvg-logo="https://iptv-epg.org/images/C9_jU-XOZ8pmNZYMpCZwYsfHF7GigQkOEevSBJ6Ap0VnDpfzzSs_erggv075aZbTefHQmecyGns132LE6dE_c0gKLEvZkQJkeY0dMoZ1wA",Canale 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
@@ -809,7 +809,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="ITALIA 1" tvg-id="Italia1.it" tvg-logo="https://iptv-epg.org/images/F6lZAY7BxOYRF1yvl0rA9QtUzfQlwE8FbGxwXhEPxzqig0SRqdRYXKGdbkB3yFG_Sj2VmUrl6PHJYbQyCjpibJoSxpOjcgWtHhgG1x5JaQ",ITALIA 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="Italia 1" tvg-id="Italia1.it" tvg-logo="https://iptv-epg.org/images/F6lZAY7BxOYRF1yvl0rA9QtUzfQlwE8FbGxwXhEPxzqig0SRqdRYXKGdbkB3yFG_Sj2VmUrl6PHJYbQyCjpibJoSxpOjcgWtHhgG1x5JaQ",Italia 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
@@ -843,7 +843,7 @@ https://live03-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest_hr.mpd
 https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="RETE 4" tvg-id="Rete4.it" tvg-logo="https://iptv-epg.org/images/uSN5KWwn-zSOsWAiXOuKNqHfiInUTyJGe6VR3T4Wf7ChPOgeMp_H4xepb1Q_-Zqk9xoRjut1uybkwyS7H5HLCjm4tfSIVyyFX9lOTaU",RETE 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="06 MEDIASET" tvg-name="Rete 4" tvg-id="Rete4.it" tvg-logo="https://iptv-epg.org/images/uSN5KWwn-zSOsWAiXOuKNqHfiInUTyJGe6VR3T4Wf7ChPOgeMp_H4xepb1Q_-Zqk9xoRjut1uybkwyS7H5HLCjm4tfSIVyyFX9lOTaU",Rete 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
