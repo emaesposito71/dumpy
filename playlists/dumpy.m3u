@@ -2939,6 +2939,12 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Sedicesimi | Paesi Bassi - Marocco (MPD)",00:42 Sedicesimi | Paesi Bassi - Marocco (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b6df25fc0c45ca48c6c0eebccb7e8c7:ce01e8dd882982b6a727921e1ebea2ee
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782780305~exp%3D1782866705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D863706f1ed4ec1c6e0fd01cd8f33d42db9f0cf8a24acb2b75ecf3ce66cca26ca%23wm%3D0~hmac%3Da40df42f1553c261a5f4c898dda147c6376237ee1541627b4ea3300f4f0fe183/1dg38ei6i3ilz1k3czq27n9pzt/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Tutti Convocati (MPD)",12:00 Tutti Convocati (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
