@@ -2963,6 +2963,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782831306~exp%3D1782917706~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=9775ec9538b35f7d99db38d3e9d979e4:7d62f19bffed339ba887fe7b7b391a93
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782837910~exp%3D1782924310~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D7e3bc3711b580d7a60dbf9818b3a945a7fe6f637495df657c7896f8ced5b36ea~hmac%3Dec151b2cd50a99da2e2de92128958d55f3aaeecd12d8eae23c34e7f738f54304/17yuk9ut83kb41w9plsf64ub9x/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:52 Sedicesimi | Francia - Svezia (MPD)",18:52 Sedicesimi | Francia - Svezia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78e0f4e41a4956e8b1558883a75478bf:77caceb0d29b8bc67d6a4382994dc0c6
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782845705~exp%3D1782932105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D74e73a9a0cb4546b99fcd61fd6698f9fb2f2f125c4cedfd7f8a200b4e0a3f54a%23wm%3D0~hmac%3D8df3c1e92a0bea305b12e565a7d37ba433bc4b07772ddb838faa3cb0556ce9e3/ew13sxyk60mo1qzzcptt2da7f/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
