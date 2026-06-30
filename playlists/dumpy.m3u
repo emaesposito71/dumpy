@@ -2944,31 +2944,25 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b6df25fc0c45ca48c6c0eebccb7e8c7:ce01e8dd882982b6a727921e1ebea2ee
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782780305~exp%3D1782866705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D863706f1ed4ec1c6e0fd01cd8f33d42db9f0cf8a24acb2b75ecf3ce66cca26ca%23wm%3D0~hmac%3Da40df42f1553c261a5f4c898dda147c6376237ee1541627b4ea3300f4f0fe183/1dg38ei6i3ilz1k3czq27n9pzt/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782788406~exp%3D1782874806~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D863706f1ed4ec1c6e0fd01cd8f33d42db9f0cf8a24acb2b75ecf3ce66cca26ca%23wm%3D0~hmac%3D7969d0ae360db279d6f5dd74f5efa83d3a8dbeefa8de35efe094d3225fd84f43/1dg38ei6i3ilz1k3czq27n9pzt/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="12:00 Tutti Convocati (MPD)",12:00 Tutti Convocati (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e107019a0bda56b29ffeb4237cec928c:a565b7c12c1a25223db8097e11155380
+#KODIPROP:inputstream.adaptive.license_key=abc571028d2a571ebd5cc36e73f72119:20a708fae6dfa79a8ff981ba63ffd21e
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782734705~exp%3D1782821105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D05c58719c6a2ed2f601e34e0e5be90be39cd368072a7f67b199d4884a7b60864%23wm%3D0~hmac%3D87eb49727a39f1252b797f89ee991fe0fe8f171841949410411f55f2abfc2b50/tu4siv2q8rev15xv7ftw5o4cn/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:55 Copa Mundial | Episodio 18 (MPD)",14:55 Copa Mundial | Episodio 18 (MPD)
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782821406~exp%3D1782907806~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D79fa4bd744955c4dfdb3a92fdc3f342e4018f51fb7c8df17953d36ddbb1c220f%23wm%3D0~hmac%3D4be793cd8680adcbc7afe2e1282f434b51215b1fea73ac651eb743ebce5ca6fb/ccy00iu2xafr1m5656nj3foru/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="14:55 Copa Mundial | Episodio 19 (MPD)",14:55 Copa Mundial | Episodio 19 (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c51ecd370095640b6fa0a212f1bcddb:0231d1e4154b998cc7ea83b37c685702
+#KODIPROP:inputstream.adaptive.license_key=4e259314b7b75203b863c4df35e2469d:a717723a34b8982a98761dee88b2e162
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782744905~exp%3D1782831305~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D2c083fff367869f00802e7f6be704d5e83a02951ea0afe0a6273877b3ab34c30%23wm%3D0~hmac%3D487b6f2fe6f8bc2cc146b579ace023b35c940f62d5d1b802b49b8b39c27b0cdc/eq51aw3cysyy1agg3y7dbx7ch/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="16:42 Sedicesimi | Brasile - Giappone (MPD)",16:42 Sedicesimi | Brasile - Giappone (MPD)
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782831306~exp%3D1782917706~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D313ac8da03672691d5ac924e4861760c8d51207f6a0c6fc16eb5e890a886a6f5%23wm%3D0~hmac%3Da62a11298cc625f79793b4a6cca84d7d19f68c2a48edd5f47c736b59c79ac4e8/1i4ff08uod9aw11ij7favdoiui/web/stream.mpd?channel=1560&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="16:42 Sedicesimi | Costa d'Avorio - Norvegia (MPD)",16:42 Sedicesimi | Costa d'Avorio - Norvegia (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04d60b26f0de512099b5015661768645:6b0178975841d7c5fc54f8dae50658a6
+#KODIPROP:inputstream.adaptive.license_key=9775ec9538b35f7d99db38d3e9d979e4:7d62f19bffed339ba887fe7b7b391a93
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782751505~exp%3D1782837905~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Ddf9f2f62ae18f17420870685b827ac7e4a63fef34e5073758a551d9ba60d7af6%23wm%3D0~hmac%3D2e4ba42953c5bde7f8e43d56faefdf19ab65ba524d186cbe81f67c896b8fb5cf/nzfx1csw33a51f9iastxat7mn/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
-#EXTINF:-1 group-title="30 EVENTI" tvg-name="18:52 Sedicesimi | Germania - Paraguay (MPD)",18:52 Sedicesimi | Germania - Paraguay (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=35472903ef405bd4948abaea2ae73052:adc361f7ba53393588d10f7beba7b824
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782759305~exp%3D1782845705~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6358e4442d4bd8070d59289afff7e0c6e8327100b9b71c53b9b6c5f6b7b618ca%23wm%3D0~hmac%3D9d8c8795da24ce646c3344bf5cff1909b9951115f562144bf3e817a78744d1ef/1la9nwynmri8k1csyqwltwrtda/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782837910~exp%3D1782924310~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D7e3bc3711b580d7a60dbf9818b3a945a7fe6f637495df657c7896f8ced5b36ea~hmac%3Dec151b2cd50a99da2e2de92128958d55f3aaeecd12d8eae23c34e7f738f54304/17yuk9ut83kb41w9plsf64ub9x/web/stream.mpd?channel=1646&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
