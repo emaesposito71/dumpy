@@ -2939,6 +2939,12 @@ https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
 https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Sedicesimi | Messico - Ecuador (MPD)",00:42 Sedicesimi | Messico - Ecuador (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddb6d967d22259599b188a7f309067c6:40bda4718e843924c71abbac59fd0121
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1782866705~exp%3D1782953105~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6a769f41a66fe58cc2f4c4af86cdc471ee97845181661cc7d297d96a34204c54%23wm%3D0~hmac%3D2f1d2048d2a91f5cf188797e60edfb76596ca40898cc534d165bd4fa3f8f8d6c/1jolv212ou0lm1dwdavoz1oxfm/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="30 EVENTI" tvg-name="00:42 Sedicesimi | Paesi Bassi - Marocco (MPD)",00:42 Sedicesimi | Paesi Bassi - Marocco (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
