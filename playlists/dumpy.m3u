@@ -2969,6 +2969,12 @@ https://dch-tm-livedazn.dazn.ticdn.it/@st%3D1782920705~exp%3D1783007105~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=3ecd4f925eea5e11b04e65f9f18cbfc4:92e04638bec0fd37cd0338b7053bd1b2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782928505~exp%3D1783014905~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5e2310ee2b60e94db74bd0e4daa2ed0e0826e366f07de314e9f84fa76faa5dd4%23wm%3D0~hmac%3D4bec4b9b323728f7cbfa3dd56cfa0c80afc82d08309f8ba316f4195759a2ec54/1qio2b3a8tcn81bgva1m2n5k29/web/stream.mpd?channel=1647&mta=it&outlet=dazn-italy&plang=it
+#EXTINF:-1 group-title="30 EVENTI" tvg-name="23:42 Sedicesimi | USA - Bosnia-Erzegovina (MPD)",23:42 Sedicesimi | USA - Bosnia-Erzegovina (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f768076ecee55858ba7d67bc787638c:cd644195380ccc304dc2ed8af0bc9c59
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.dazn.com/&Origin=https://www.dazn.com/
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1782949506~exp%3D1783035906~acl%3D%2F*~id%3Dc455b0b765db~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D31b253683c259227ece8e0787f9e52459ab61a12450865a7adff20941cb6d778%23wm%3D0~hmac%3Dc2cec110ce48d3e0a101799abde2f860a12531ae5d1ab3a60c738f8fbed36641/rf50mujlizif1aifniobcq2kc/web/stream.mpd?channel=1648&mta=it&outlet=dazn-italy&plang=it
 #EXTINF:-1 group-title="90 ALTRO" tvg-name="DMax" tvg-id="DMAX.it" tvg-logo="https://iptv-epg.org/images/ogdJ4v7VEUHKUmVxOZbcYzbjIMe_WHa6WSCdYS5KWOTBrpTHxZcGGNyheopnY4pbBElCFB0C5pF0nfJL6mjgsjYM6fnIgOxsT20T1Q",DMax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
